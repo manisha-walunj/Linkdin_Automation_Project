@@ -1,0 +1,23 @@
+✅ Logged in Successfully
+🔍 Entered Job Title
+📍 Filled Job Location
+🧠 Filtered to Easy Apply jobs
+✅ Application submitted
+============================================================
+❌ Error in job #2: ElementHandle.click: Target page, context or browser has been closed
+Call log:
+  - attempting click action
+  -     - waiting for element to be visible, enabled and stable
+  -     - element is visible, enabled and stable
+  -     - scrolling into view if needed
+  -     - done scrolling
+  -     - performing click action
+  -     - click action done
+  -     - waiting for scheduled navigations to finish
+
+❌ Error in job #3: ElementHandle.click: Target page, context or browser has been closed
+❌ Error in job #4: ElementHandle.click: Target page, context or browser has been closed
+❌ Error in job #5: ElementHandle.click: Target page, context or browser has been closed
+❌ Error in job #6: ElementHandle.click: Target page, context or browser has been closed
+❌ Error in job #7: ElementHandle.click: Target page, context or browser has been closed
+🎉 All done!

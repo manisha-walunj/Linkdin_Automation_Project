@@ -1,0 +1,6 @@
+Name: John Doe
+Title: Python Developer
+Experience:
+- 3 years at XYZ Corp working with Python, Django, REST APIs.
+Education: B.Tech in CS
+Skills: Python, Selenium, SQL, Docker
