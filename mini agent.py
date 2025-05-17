@@ -11,7 +11,7 @@ with open("config.json", "r") as f:
 API_KEY = config["OPENWEBUI_API_KEY"]
 RESUME_PATH = config["resume_path"]
 BASE_URL = config["OPENWEBUI_API_URL"].replace("/api/chat/completions", "")
-USER_NAME = "john_doe"  # Change as needed
+USER_NAME = "Manisha Walunj"  # Change as needed
 MODEL = "gemma3"
 
 headers = {
