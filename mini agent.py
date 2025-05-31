@@ -1,5 +1,5 @@
-# we need create knowledgebase on the name of user
-# save the resume
+# # we need create knowledgebase on the name of user
+# # save the resume
 
 import requests
 import json
@@ -30,7 +30,7 @@ with open(RESUME_PATH, "rb") as f:
 # Step 2: Query the LLM with the uploaded file directly
 payload = {
     "model": MODEL,
-    "messages": [{"role": "user", "content": "Tell me about you."}],
+    "messages": [{"role": "user", "content": "can you fill my linkdin application form please"}],
     "files": [{"type": "file", "id": file_id}]
 }
 resp = requests.post(f"{BASE_URL}/api/chat/completions", headers={**headers, "Content-Type": "application/json"}, json=payload)

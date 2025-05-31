@@ -1,226 +1,1492 @@
-Job Title,Company Name,Location,Job Description,form_labels
-Full Stack Software Engineer,Motion Recruitment,We won’t show you this job again.,"About the job
+Job Title,Company Name,Location,Job Description
+Principal Software Engineer,Coinbase,India (Remote),"About the job
 
-Company Summary:
+Ready to be pushed beyond what you think you’re capable of?
 
-Ceevra is a San Francisco-based, medical software company that helps surgeons (mainly cancer surgeons) plan and operate better through advanced imaging. We take standard CT scans and MRIs and transform them into brilliant, interactive 3D digital models which are viewed by surgeons from their mobile phones, tablets, or through robotic surgery platforms. We help surgeons determine the best type of operation to perform and the best way to perform it – resulting in faster operations, reduced hospital stay, saved organs, and reduced cancer recurrence. A quick explainer video: https://vimeo.com/1007811704
+At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.
 
 
 
 
-Ceevra's product is FDA-cleared and CE-marked and has been the centerpiece of two successful, multi-center, randomized clinical trials. Our customers include two of the ten largest health systems in the country, and several leading academic medical centers. We are privately held, and our team is highly cohesive and collaborative.
+To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.
 
 
 
 
-We offer candidates the unique opportunity to work on cutting edge technology and a product that helps improve surgical outcomes and the quality of life for cancer patients, while doing so at a startup that serves some of the country's most innovative medical centers.
+Our work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.
 
+We are seeking a highly experienced and talented Principal Engineer to join our team. This individual will be one of the most senior individual contributors at Coinbase and will play a crucial role in influencing across multiple areas. This person will mentor other ICs to promote technical excellence and professional growth.
 
 
 
-Position Summary and Responsibilities:
 
-As a Full Stack Software Engineer, you will report to Ceevra's Director of Engineering. Your primary job focus will be on building the end-user client (desktop, mobile, and web) and back-end software that clinicians use. In addition to core development work, you will also contribute to our infrastructure management, CI/CD pipelines, and quality assurance efforts as part of our collaborative engineering team. As the main engineer in this role, you'll have substantial ownership over key portions of our platform and the autonomy to design and implement significant technical solutions that have a profound and visible impact on our product.
 
 
 
+What you’ll be doing (ie. job duties):
 
-The engineering team is local and works 3 days per week in our SF offices.
+Influence and oversee large engineering efforts across various domains such as identity, payments, ledgering, risk, and AI
+Collaborate with other product leaders to establish and execute on vision & architecture strategies
+Help drive the unified vision for product platform services and API surface
+Lead the development and scaling of data stores and ledger systems within payment frameworks
+Implement best practices for building and maintaining large-scale systems
 
 
 
 
-Responsibilities:
 
-Design, develop, and maintain critical components across our technology stack (web-based applications both front-end and back-end, on-premise servers, native desktop and mobile applications)
-Contribute to infrastructure management through Terraform and other IaC tools as needed
-Assist with CI/CD pipeline maintenance and improvements
-Improve deployment automation and cloud architecture management
-Contribute to test automation frameworks (unit-level, component-level, and system/end-to-end) and quality metrics
-Collaborate on monitoring and observability solutions for our applications
 
 
+What we look for in you (ie. job requirements):
 
+Minimum of 15+ years of experience
+Experience providing technical and strategic oversight for a high-performing global team of hundreds of engineers.
+Desire and ability to inspire, influence and drive change at all levels, across multiple XFN teams, VPs and C-Suite. 
+Demonstrated experience in working with large-scale systems and solving technical problems with over multi-year, multi-billion dollar, and multi-organization impact.
+Excellent collaboration skills, with the ability to work effectively with cross-functional leaders and mentor other team members.
+Experience in the fintech sector, with crypto experience being a plus
 
-Core Requirements:
 
-Strong ability to code in Python, JavaScript and modern development practices is required
-Problem-solving skills and comfort with independent work is required
-Experience with django, react.js, and react-native is highly valued
-Prior full-time, full-stack engineering experience in a corporate environment is highly valued
-Basic understanding of cloud services (AWS, GCP, or Azure) is a plus
-Working knowledge of containerization, infrastructure-as-code concepts and tools like Terraform and/or Docker is a plus
-Familiarity with CI/CD pipelines and DevOps practices is a plus
-BS in Computer Science, Mathematics, engineering, or relevant scientific field is required
 
 
+ 
 
+Commitment to Equal Opportunity
 
-Bonus Skills:
 
-Any of these would make a candidate stand out:
 
-Experience with medical imaging (especially CT and MRI)
-Experience automating tests at multiple levels (unit, integration/component, system)
-Experience and aptitude working with ML and ML frameworks such as PyTorch or TensorFlow
-Experience with quality engineering of medical devices (ISO 13485, FDA QSR, IEC 62304)
-Experience with computer graphics
-Familiarity with computer vision, mobile, and graphics
 
+Coinbase is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. 
 
 
 
-What We Offer:
 
-Technical autonomy in a small team environment
-Direct impact on products that improve surgical outcomes
-Opportunity to solve challenging problems across the full stack and beyond
-Collaborative environment with minimal bureaucracy
-Competitive compensation with equity upside
+Coinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please contact us at accommodations[at]coinbase.com to let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).
 
 
 
 
-Direct apply by candidates only: no recruiters
 
-No work sponsorship available: candidates must have US work authorization","['Email address\nEmail address', 'Phone country code\nPhone country code', 'Mobile phone number', 'Deselect resume CV_MANISHA WALUNJ.pdf', 'Select resume CV_MANISHA WALUNJ.pdf', 'Upload resume', 'Yes', 'No', 'How many years of Software Development experience do you currently have?']","Email address
-Email address | Phone country code
-Phone country code | Mobile phone number | Deselect resume CV_MANISHA WALUNJ.pdf | Select resume CV_MANISHA WALUNJ.pdf | Upload resume | Yes | No | How many years of Software Development experience do you currently have?"
-Full Stack Engineer - AWS/React,Motion Recruitment,We won’t show you this job again.,"About the job
 
-Role: Full-stack Engineer-AWS/React
 
-Location: Lawrenceville, New Jersey-Remote
+Global Data Privacy Notice for Job Candidates and Applicants
 
-Duration: 6 Months W2 Contract
 
 
 
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required. For US applicants only, by submitting your application you are agreeing to arbitration of disputes as outlined here."
+Full Stack Engineer,Coinbase,India (Remote),"About the job
 
-Required Skills: Strong Experience in React, AWS (CDK, Lambda, API Gateway, Cognito, ECS, and S3) Node, API Gateway, HTML, CSS, JavaScript & framer (Compulsory)
+We are looking for a skilled and passionate software engineer with strong TypeScript experience to join our team. In this role, you'll help us build and maintain high-quality, applications using the latest tools and technologies. As an integral member of our development team, you'll have the opportunity to collaborate with cross-functional teams and contribute to the growth and success of our company while learning a lot about web3 technologies.
 
 
 
 
-Are you a dynamic Full Stack Engineer with expertise in AWS serverless technologies and React? We have a critical need for a talented individual to join our team for a 6 month W2 contract. This role is ideal for someone who thrives in fast-paced environments and excels at developing innovative prototype applications.
+Responsibilities
 
+Design, build, and maintain scalable, high-performance applications using Typescript and other latest technologies and tools
+Collaborate with product managers, designers, and other developers to define, design, and ship new features.
+Write clean, maintainable, and testable code, following industry best practices and coding standards.
+Optimize applications for maximum speed and scalability while ensuring their stability and security.
+Integrate third-party libraries, APIs, and services as needed.
+Debug and resolve technical issues and defects.
+Participate in code reviews, providing and receiving constructive feedback to improve overall code quality.
+Stay up-to-date with the latest trends and best practices in full stack development particularly in TypeScript ecosystems and web 3 environments.
+Contribute to the continuous improvement of our development processes and tools.
+Work balance: 80% coding, 15% designing, and 5% rituals and ceremonies.
 
 
 
-What You'll Be Doing:
 
-- Designing and deploying scalable backend services using AWS Lambda, API Gateway, Cognito, and DynamoDB
+Requirements
 
-- Building responsive and interactive frontend interfaces with React, integrating seamlessly with backend services
+Proficiency in Typescript, node and serverless computing
+Demonstrable experience building and shipping full stack solutions.
+Experience with RESTful APIs, GraphQL, or other data integration methods.
+Strong understanding database technologies.
+Confident SQL (Postgres is preferable, but not necessary), must be able to explain joins and execution plan basics
+Knowledge of no-SQL principles, must be able to explain pros and cons compared to SQL, when makes sense to use and why
+Solid knowledge of code versioning tools, such as Git.
+Excellent problem-solving, debugging, and troubleshooting skills.
+Strong communication and teamwork skills, with the ability to work independently and collaboratively.
+Good understanding of API architecture following best practices.
+Proficiency with the creation of tests (unit tests, integration, etc).
+Good knowledge of Linux.
+English is mandatory.
 
-- Implementing secure authentication/authorization flows and handling sensitive data with AWS Secrets Manager
 
-- Developing robust CI/CD pipelines using AWS CDK or similar Infrastructure-as-Code tools
 
-- Collaborating with product, design, and prototype teams to deliver end-to-end solutions
+
+Preferred Qualifications
+
+6+ years of experience in full stack development, with a strong focus TypeScript and serverless computing
+User-level experience with blockchain applications (e.g., wallets, dApps, staking, etc).
+Understanding of blockchain fundamentals.
+Understanding of eventual consistency principles
+Experience with automated testing tools
+Familiarity with CI/CD pipelines and tools, such as Jenkins or Git workflow."
+Back End Developer,Coinbase,India (Remote),"About the job
+
+Job Description
+
+
+
+
+Job Title: Backend Developer (Node.js)
+
+Location: Remote (If outside NCR)
+
+Experience: 4-5+ years
+
+Employment Type: Full Time
+
+Job Description:
+
+We are looking for a skilled Backend Developer with expertise in Node.js to join our team.
+
+The ideal candidate will be responsible for designing developing and maintaining scalable
+
+backend services and APIs.
+
+
+
+
+Key Responsibilities:
+
+Develop and maintain server-side logic using Node.js and related frameworks.
+Design and implement RESTful APIs and microservices.
+Work with databases like MongoDB PostgreSQL or MySQL.
+Optimize applications for performance and scalability.
+Collaborate with front-end developers and other team members.
+Ensure security and data protection measures are in place.
+
+Nodejs- CI/CD pipelines, Kafka, Devops
+
+
+
+
+Education :-
+
+Who passed out in 2019 or earlier (any ITdegree)
+
+Experience
+
+Competitive salary & performance incentives.
+
+Flexible work environment.
+
+Learning & development opportunities.
+
+Flexible working hours
+
+Paid Leaves
+
+Occasional WFH"
+Principal Software Engineer,Coinbase,India (Remote),"About the job
+
+Ready to be pushed beyond what you think you’re capable of?
+
+At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.
+
+
+
+
+To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.
+
+
+
+
+Our work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.
+
+We are seeking a highly experienced and talented Principal Engineer to join our team. This individual will be one of the most senior individual contributors at Coinbase and will play a crucial role in influencing across multiple areas. This person will mentor other ICs to promote technical excellence and professional growth.
+
+
+
+
+
+
+
+What you’ll be doing (ie. job duties):
+
+Influence and oversee large engineering efforts across various domains such as identity, payments, ledgering, risk, and AI
+Collaborate with other product leaders to establish and execute on vision & architecture strategies
+Help drive the unified vision for product platform services and API surface
+Lead the development and scaling of data stores and ledger systems within payment frameworks
+Implement best practices for building and maintaining large-scale systems
+
+
+
+
+
+
+
+What we look for in you (ie. job requirements):
+
+Minimum of 15+ years of experience
+Experience providing technical and strategic oversight for a high-performing global team of hundreds of engineers.
+Desire and ability to inspire, influence and drive change at all levels, across multiple XFN teams, VPs and C-Suite. 
+Demonstrated experience in working with large-scale systems and solving technical problems with over multi-year, multi-billion dollar, and multi-organization impact.
+Excellent collaboration skills, with the ability to work effectively with cross-functional leaders and mentor other team members.
+Experience in the fintech sector, with crypto experience being a plus
+
+
+
+
+ 
+
+Commitment to Equal Opportunity
+
+
+
+
+Coinbase is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. 
+
+
+
+
+Coinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please contact us at accommodations[at]coinbase.com to let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).
+
+
+
+
+
+
+
+Global Data Privacy Notice for Job Candidates and Applicants
+
+
+
+
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required. For US applicants only, by submitting your application you are agreeing to arbitration of disputes as outlined here.",
+Principal Software Engineer,Coinbase,India (Remote),"About the job
+
+Ready to be pushed beyond what you think you’re capable of?
+
+At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.
+
+
+
+
+To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.
+
+
+
+
+Our work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.
+
+We are seeking a highly experienced and talented Principal Engineer to join our team. This individual will be one of the most senior individual contributors at Coinbase and will play a crucial role in influencing across multiple areas. This person will mentor other ICs to promote technical excellence and professional growth.
+
+
+
+
+
+
+
+What you’ll be doing (ie. job duties):
+
+Influence and oversee large engineering efforts across various domains such as identity, payments, ledgering, risk, and AI
+Collaborate with other product leaders to establish and execute on vision & architecture strategies
+Help drive the unified vision for product platform services and API surface
+Lead the development and scaling of data stores and ledger systems within payment frameworks
+Implement best practices for building and maintaining large-scale systems
+
+
+
+
+
+
+
+What we look for in you (ie. job requirements):
+
+Minimum of 15+ years of experience
+Experience providing technical and strategic oversight for a high-performing global team of hundreds of engineers.
+Desire and ability to inspire, influence and drive change at all levels, across multiple XFN teams, VPs and C-Suite. 
+Demonstrated experience in working with large-scale systems and solving technical problems with over multi-year, multi-billion dollar, and multi-organization impact.
+Excellent collaboration skills, with the ability to work effectively with cross-functional leaders and mentor other team members.
+Experience in the fintech sector, with crypto experience being a plus
+
+
+
+
+ 
+
+Commitment to Equal Opportunity
+
+
+
+
+Coinbase is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. 
+
+
+
+
+Coinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please contact us at accommodations[at]coinbase.com to let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).
+
+
+
+
+
+
+
+Global Data Privacy Notice for Job Candidates and Applicants
+
+
+
+
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required. For US applicants only, by submitting your application you are agreeing to arbitration of disputes as outlined here.",
+Full Stack Engineer,Coinbase,India (Remote),"About the job
+
+We are looking for a skilled and passionate software engineer with strong TypeScript experience to join our team. In this role, you'll help us build and maintain high-quality, applications using the latest tools and technologies. As an integral member of our development team, you'll have the opportunity to collaborate with cross-functional teams and contribute to the growth and success of our company while learning a lot about web3 technologies.
+
+
+
+
+Responsibilities
+
+Design, build, and maintain scalable, high-performance applications using Typescript and other latest technologies and tools
+Collaborate with product managers, designers, and other developers to define, design, and ship new features.
+Write clean, maintainable, and testable code, following industry best practices and coding standards.
+Optimize applications for maximum speed and scalability while ensuring their stability and security.
+Integrate third-party libraries, APIs, and services as needed.
+Debug and resolve technical issues and defects.
+Participate in code reviews, providing and receiving constructive feedback to improve overall code quality.
+Stay up-to-date with the latest trends and best practices in full stack development particularly in TypeScript ecosystems and web 3 environments.
+Contribute to the continuous improvement of our development processes and tools.
+Work balance: 80% coding, 15% designing, and 5% rituals and ceremonies.
+
+
+
+
+Requirements
+
+Proficiency in Typescript, node and serverless computing
+Demonstrable experience building and shipping full stack solutions.
+Experience with RESTful APIs, GraphQL, or other data integration methods.
+Strong understanding database technologies.
+Confident SQL (Postgres is preferable, but not necessary), must be able to explain joins and execution plan basics
+Knowledge of no-SQL principles, must be able to explain pros and cons compared to SQL, when makes sense to use and why
+Solid knowledge of code versioning tools, such as Git.
+Excellent problem-solving, debugging, and troubleshooting skills.
+Strong communication and teamwork skills, with the ability to work independently and collaboratively.
+Good understanding of API architecture following best practices.
+Proficiency with the creation of tests (unit tests, integration, etc).
+Good knowledge of Linux.
+English is mandatory.
+
+
+
+
+Preferred Qualifications
+
+6+ years of experience in full stack development, with a strong focus TypeScript and serverless computing
+User-level experience with blockchain applications (e.g., wallets, dApps, staking, etc).
+Understanding of blockchain fundamentals.
+Understanding of eventual consistency principles
+Experience with automated testing tools
+Familiarity with CI/CD pipelines and tools, such as Jenkins or Git workflow.",
+Full Stack Engineer,Coinbase,India (Remote),"About the job
+
+We are looking for a skilled and passionate software engineer with strong TypeScript experience to join our team. In this role, you'll help us build and maintain high-quality, applications using the latest tools and technologies. As an integral member of our development team, you'll have the opportunity to collaborate with cross-functional teams and contribute to the growth and success of our company while learning a lot about web3 technologies.
+
+
+
+
+Responsibilities
+
+Design, build, and maintain scalable, high-performance applications using Typescript and other latest technologies and tools
+Collaborate with product managers, designers, and other developers to define, design, and ship new features.
+Write clean, maintainable, and testable code, following industry best practices and coding standards.
+Optimize applications for maximum speed and scalability while ensuring their stability and security.
+Integrate third-party libraries, APIs, and services as needed.
+Debug and resolve technical issues and defects.
+Participate in code reviews, providing and receiving constructive feedback to improve overall code quality.
+Stay up-to-date with the latest trends and best practices in full stack development particularly in TypeScript ecosystems and web 3 environments.
+Contribute to the continuous improvement of our development processes and tools.
+Work balance: 80% coding, 15% designing, and 5% rituals and ceremonies.
+
+
+
+
+Requirements
+
+Proficiency in Typescript, node and serverless computing
+Demonstrable experience building and shipping full stack solutions.
+Experience with RESTful APIs, GraphQL, or other data integration methods.
+Strong understanding database technologies.
+Confident SQL (Postgres is preferable, but not necessary), must be able to explain joins and execution plan basics
+Knowledge of no-SQL principles, must be able to explain pros and cons compared to SQL, when makes sense to use and why
+Solid knowledge of code versioning tools, such as Git.
+Excellent problem-solving, debugging, and troubleshooting skills.
+Strong communication and teamwork skills, with the ability to work independently and collaboratively.
+Good understanding of API architecture following best practices.
+Proficiency with the creation of tests (unit tests, integration, etc).
+Good knowledge of Linux.
+English is mandatory.
+
+
+
+
+Preferred Qualifications
+
+6+ years of experience in full stack development, with a strong focus TypeScript and serverless computing
+User-level experience with blockchain applications (e.g., wallets, dApps, staking, etc).
+Understanding of blockchain fundamentals.
+Understanding of eventual consistency principles
+Experience with automated testing tools
+Familiarity with CI/CD pipelines and tools, such as Jenkins or Git workflow.",
+Back End Developer,Coinbase,India (Remote),"About the job
+
+Job Description
+
+
+
+
+Job Title: Backend Developer (Node.js)
+
+Location: Remote (If outside NCR)
+
+Experience: 4-5+ years
+
+Employment Type: Full Time
+
+Job Description:
+
+We are looking for a skilled Backend Developer with expertise in Node.js to join our team.
+
+The ideal candidate will be responsible for designing developing and maintaining scalable
+
+backend services and APIs.
+
+
+
+
+Key Responsibilities:
+
+Develop and maintain server-side logic using Node.js and related frameworks.
+Design and implement RESTful APIs and microservices.
+Work with databases like MongoDB PostgreSQL or MySQL.
+Optimize applications for performance and scalability.
+Collaborate with front-end developers and other team members.
+Ensure security and data protection measures are in place.
+
+Nodejs- CI/CD pipelines, Kafka, Devops
+
+
+
+
+Education :-
+
+Who passed out in 2019 or earlier (any ITdegree)
+
+Experience
+
+Competitive salary & performance incentives.
+
+Flexible work environment.
+
+Learning & development opportunities.
+
+Flexible working hours
+
+Paid Leaves
+
+Occasional WFH",
+Back End Developer,Coinbase,India (Remote),"About the job
+
+Job Description
+
+
+
+
+Job Title: Backend Developer (Node.js)
+
+Location: Remote (If outside NCR)
+
+Experience: 4-5+ years
+
+Employment Type: Full Time
+
+Job Description:
+
+We are looking for a skilled Backend Developer with expertise in Node.js to join our team.
+
+The ideal candidate will be responsible for designing developing and maintaining scalable
+
+backend services and APIs.
+
+
+
+
+Key Responsibilities:
+
+Develop and maintain server-side logic using Node.js and related frameworks.
+Design and implement RESTful APIs and microservices.
+Work with databases like MongoDB PostgreSQL or MySQL.
+Optimize applications for performance and scalability.
+Collaborate with front-end developers and other team members.
+Ensure security and data protection measures are in place.
+
+Nodejs- CI/CD pipelines, Kafka, Devops
+
+
+
+
+Education :-
+
+Who passed out in 2019 or earlier (any ITdegree)
+
+Experience
+
+Competitive salary & performance incentives.
+
+Flexible work environment.
+
+Learning & development opportunities.
+
+Flexible working hours
+
+Paid Leaves
+
+Occasional WFH",
+Lead Java Fullstack Developer (Banking),EkamApps,India (Remote),"About the job
+
+Job Position : Lead Java Fullstack Developer (Banking)
+
+Experience : 6 + Years
+
+Location : Remote /Kochi/Chennai/Pune
+
+Notice Period : Immediate Joiner
+
+
+
+
+
+
+
+We are looking for a highly skilled and proactive Full Stack Developer (FSE) with expertise in Java and Spring Boot to join our innovative and collaborative team. You will play a key role in the development of critical banking applications across various business domains. The ideal candidate will be self-driven, analytically strong, and thrive in a fast-paced environment.
+
+Key Responsibilities
+
+Design, develop, and maintain business-critical banking applications.
+Implement new features using full-stack technologies, focusing on Java, Spring Boot, and REST APIs.
+Ensure high code quality through thorough unit testing, peer reviews, and adherence to coding best practices.
+Work closely with UI/UX designers, backend developers, and other stakeholders to deliver seamless and performant applications.
+Identify and resolve performance bottlenecks, bugs, and technical issues.
+Participate actively in Agile/Scrum development cycles and contribute to continuous improvement processes.
+
+Required Qualifications
+
+Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
+4–6 years of hands-on experience in application development.
+
+Technical Skills
+
+Strong proficiency in Java and Spring Boot.
+Experience with RESTful API development.
+Proficiency in Kubernetes / OpenShift.
+Familiarity with Azure DevOps for CI/CD pipeline management.
+Experience with JMS and Message Queues.
+
+Nice to Have
+
+Knowledge of Quarkus and Apache Camel.
+Understanding of Core Banking Systems.
+Prior experience in the banking domain.
+Experience in customer-facing roles."
+Senior Staff Software Engineer - Platform,EkamApps,India (Remote),"About the job
+
+Ready to be pushed beyond what you think you’re capable of?
+
+
+
+
+At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.
+
+
+
+
+To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.
+
+
+
+
+Our work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.
+
+
+
+
+The mission of the Platform Product Group engineers is to build a trusted, scalable and compliant platform to operate with speed, efficiency and quality. Our teams build and maintain the platforms critical to the existence of Coinbase. There are many teams that make up this group which include Product Foundations (i.e. Identity, Payment, Risk, Proofing & Regulatory, Finhub), Machine Learning, Customer Experience, and Infrastructure.
+
+
+
+
+Payments platform team is diligently crafting innovative payment solutions aimed at empowering both individual consumers and large-scale institutions within the cryptocurrency ecosystem. We are developing state-of-the-art payment infrastructures and experiences to facilitate the seamless transition of traditional currency into the crypto landscape, thereby enhancing financial access. Our payment solutions are designed with a focus on simplicity and scalability, aiming to drive widespread adoption of crypto-centric products such as Decentralized Finance (DeFi), Decentralized Applications (DApps), and cryptocurrency exchanges.
+
+
+
+
+Team is building solutions and services that facilitate the processing of hundreds of billions in payments across 100s of countries worldwide. The movement of funds stands as the central pillar of our operations, encompassing transactions like purchases, sales, deposits, withdrawals, and trades for both retail and institutional clients. Our extensive reach across multiple countries is made possible through our deep integrations with banking systems, credit cards, and digital wallets.
+
+
+
+
+As a platform team, we cater not only to our external clientele but also serve our internal customers with equal dedication. In our line of work, each fund transfer is of paramount importance, necessitating consistency and timely execution every single time without fail.
+
+
+
+
+
+
+
+What you’ll be doing (ie. job duties):
+
+Architect and develop platform for the payments org
+Provide technical structure to teams and work closely with management and stakeholders to define strategic roadmaps
+Build new services to meet critical product and business needs using Golang / Java
+Design scalable systems to solve novel problems with modern cloud technology and industry best practices.
+Articulate a long term vision for maintaining and scaling our backend systems and the teams running them.
+Work with engineers, designers, product managers and senior leadership to turn our product and technical vision into a tangible roadmap every quarter.
+Write high quality, well tested code to meet the needs of your customers. Debugging extremely difficult technical problems, and making systems and products both work better and are easier to deploy, own, operate and diagnose.
+Review all feature designs within your product area and across the company for cross-cutting projects. Be an owner of the security, safety, scale, operational integrity, and architectural clarity of these designs.
+
+
+
+
+
+
+
+
+
+
+What we look for in you (ie. job requirements):
+
+10+ years of experience in software engineering
+You’ve 4+ years of experience in architecting large scale distributed systems
+You’ve designed, built, scaled and maintained production services, and know how to compose a service oriented architecture.
+You write high quality, well tested code to meet the needs of your customers.
+You’re passionate about building an open financial system that brings the world together.
+You possess strong technical skills for system design and coding
+Excellent written and verbal communication skills, and a bias toward open, transparent cultural practices.
+
+
+
+
+
+
+
+Nice to haves:
+
+You have gone through a rapid growth in your company (from startup to mid-size).
+Experience with growth experiments or A/B testing frameworks.
+You have experience with Blockchain technology (such as Bitcoin, Ethereum etc..)
+You’ve worked with Golang, Docker, Rails, Postgres, MongoDB or DynamoDB.
+
+
+
+
+
+
+
+
+
+
+Commitment to Equal Opportunity
+
+Coinbase is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view Pay Transparency, Employee Rights and Know Your Rights notices by clicking on their corresponding links. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law.
+
+
+
+
+Coinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to accommodations[at]coinbase.com and let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).
+
+
+
+
+
+
+
+Global Data Privacy Notice for Job Candidates and Applicants
+
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required. For US applicants only, by submitting your application you are agreeing to arbitration of disputes as outlined here."
+Lead Java Fullstack Developer (Banking),EkamApps,India (Remote),"About the job
+
+Job Position : Lead Java Fullstack Developer (Banking)
+
+Experience : 6 + Years
+
+Location : Remote /Kochi/Chennai/Pune
+
+Notice Period : Immediate Joiner
+
+
+
+
+
+
+
+We are looking for a highly skilled and proactive Full Stack Developer (FSE) with expertise in Java and Spring Boot to join our innovative and collaborative team. You will play a key role in the development of critical banking applications across various business domains. The ideal candidate will be self-driven, analytically strong, and thrive in a fast-paced environment.
+
+Key Responsibilities
+
+Design, develop, and maintain business-critical banking applications.
+Implement new features using full-stack technologies, focusing on Java, Spring Boot, and REST APIs.
+Ensure high code quality through thorough unit testing, peer reviews, and adherence to coding best practices.
+Work closely with UI/UX designers, backend developers, and other stakeholders to deliver seamless and performant applications.
+Identify and resolve performance bottlenecks, bugs, and technical issues.
+Participate actively in Agile/Scrum development cycles and contribute to continuous improvement processes.
+
+Required Qualifications
+
+Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
+4–6 years of hands-on experience in application development.
+
+Technical Skills
+
+Strong proficiency in Java and Spring Boot.
+Experience with RESTful API development.
+Proficiency in Kubernetes / OpenShift.
+Familiarity with Azure DevOps for CI/CD pipeline management.
+Experience with JMS and Message Queues.
+
+Nice to Have
+
+Knowledge of Quarkus and Apache Camel.
+Understanding of Core Banking Systems.
+Prior experience in the banking domain.
+Experience in customer-facing roles.",
+Lead Java Fullstack Developer (Banking),EkamApps,India (Remote),"About the job
+
+Job Position : Lead Java Fullstack Developer (Banking)
+
+Experience : 6 + Years
+
+Location : Remote /Kochi/Chennai/Pune
+
+Notice Period : Immediate Joiner
+
+
+
+
+
+
+
+We are looking for a highly skilled and proactive Full Stack Developer (FSE) with expertise in Java and Spring Boot to join our innovative and collaborative team. You will play a key role in the development of critical banking applications across various business domains. The ideal candidate will be self-driven, analytically strong, and thrive in a fast-paced environment.
+
+Key Responsibilities
+
+Design, develop, and maintain business-critical banking applications.
+Implement new features using full-stack technologies, focusing on Java, Spring Boot, and REST APIs.
+Ensure high code quality through thorough unit testing, peer reviews, and adherence to coding best practices.
+Work closely with UI/UX designers, backend developers, and other stakeholders to deliver seamless and performant applications.
+Identify and resolve performance bottlenecks, bugs, and technical issues.
+Participate actively in Agile/Scrum development cycles and contribute to continuous improvement processes.
+
+Required Qualifications
+
+Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
+4–6 years of hands-on experience in application development.
+
+Technical Skills
+
+Strong proficiency in Java and Spring Boot.
+Experience with RESTful API development.
+Proficiency in Kubernetes / OpenShift.
+Familiarity with Azure DevOps for CI/CD pipeline management.
+Experience with JMS and Message Queues.
+
+Nice to Have
+
+Knowledge of Quarkus and Apache Camel.
+Understanding of Core Banking Systems.
+Prior experience in the banking domain.
+Experience in customer-facing roles.",
+Senior Staff Software Engineer - Platform,EkamApps,India (Remote),"About the job
+
+Ready to be pushed beyond what you think you’re capable of?
+
+
+
+
+At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.
+
+
+
+
+To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.
+
+
+
+
+Our work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.
+
+
+
+
+The mission of the Platform Product Group engineers is to build a trusted, scalable and compliant platform to operate with speed, efficiency and quality. Our teams build and maintain the platforms critical to the existence of Coinbase. There are many teams that make up this group which include Product Foundations (i.e. Identity, Payment, Risk, Proofing & Regulatory, Finhub), Machine Learning, Customer Experience, and Infrastructure.
+
+
+
+
+Payments platform team is diligently crafting innovative payment solutions aimed at empowering both individual consumers and large-scale institutions within the cryptocurrency ecosystem. We are developing state-of-the-art payment infrastructures and experiences to facilitate the seamless transition of traditional currency into the crypto landscape, thereby enhancing financial access. Our payment solutions are designed with a focus on simplicity and scalability, aiming to drive widespread adoption of crypto-centric products such as Decentralized Finance (DeFi), Decentralized Applications (DApps), and cryptocurrency exchanges.
+
+
+
+
+Team is building solutions and services that facilitate the processing of hundreds of billions in payments across 100s of countries worldwide. The movement of funds stands as the central pillar of our operations, encompassing transactions like purchases, sales, deposits, withdrawals, and trades for both retail and institutional clients. Our extensive reach across multiple countries is made possible through our deep integrations with banking systems, credit cards, and digital wallets.
+
+
+
+
+As a platform team, we cater not only to our external clientele but also serve our internal customers with equal dedication. In our line of work, each fund transfer is of paramount importance, necessitating consistency and timely execution every single time without fail.
+
+
+
+
+
+
+
+What you’ll be doing (ie. job duties):
+
+Architect and develop platform for the payments org
+Provide technical structure to teams and work closely with management and stakeholders to define strategic roadmaps
+Build new services to meet critical product and business needs using Golang / Java
+Design scalable systems to solve novel problems with modern cloud technology and industry best practices.
+Articulate a long term vision for maintaining and scaling our backend systems and the teams running them.
+Work with engineers, designers, product managers and senior leadership to turn our product and technical vision into a tangible roadmap every quarter.
+Write high quality, well tested code to meet the needs of your customers. Debugging extremely difficult technical problems, and making systems and products both work better and are easier to deploy, own, operate and diagnose.
+Review all feature designs within your product area and across the company for cross-cutting projects. Be an owner of the security, safety, scale, operational integrity, and architectural clarity of these designs.
+
+
+
+
+
+
+
+
+
+
+What we look for in you (ie. job requirements):
+
+10+ years of experience in software engineering
+You’ve 4+ years of experience in architecting large scale distributed systems
+You’ve designed, built, scaled and maintained production services, and know how to compose a service oriented architecture.
+You write high quality, well tested code to meet the needs of your customers.
+You’re passionate about building an open financial system that brings the world together.
+You possess strong technical skills for system design and coding
+Excellent written and verbal communication skills, and a bias toward open, transparent cultural practices.
+
+
+
+
+
+
+
+Nice to haves:
+
+You have gone through a rapid growth in your company (from startup to mid-size).
+Experience with growth experiments or A/B testing frameworks.
+You have experience with Blockchain technology (such as Bitcoin, Ethereum etc..)
+You’ve worked with Golang, Docker, Rails, Postgres, MongoDB or DynamoDB.
+
+
+
+
+
+
+
+
+
+
+Commitment to Equal Opportunity
+
+Coinbase is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view Pay Transparency, Employee Rights and Know Your Rights notices by clicking on their corresponding links. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law.
+
+
+
+
+Coinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to accommodations[at]coinbase.com and let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).
+
+
+
+
+
+
+
+Global Data Privacy Notice for Job Candidates and Applicants
+
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required. For US applicants only, by submitting your application you are agreeing to arbitration of disputes as outlined here.",
+Senior Staff Software Engineer - Platform,EkamApps,India (Remote),"About the job
+
+Ready to be pushed beyond what you think you’re capable of?
+
+
+
+
+At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.
+
+
+
+
+To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.
+
+
+
+
+Our work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.
+
+
+
+
+The mission of the Platform Product Group engineers is to build a trusted, scalable and compliant platform to operate with speed, efficiency and quality. Our teams build and maintain the platforms critical to the existence of Coinbase. There are many teams that make up this group which include Product Foundations (i.e. Identity, Payment, Risk, Proofing & Regulatory, Finhub), Machine Learning, Customer Experience, and Infrastructure.
+
+
+
+
+Payments platform team is diligently crafting innovative payment solutions aimed at empowering both individual consumers and large-scale institutions within the cryptocurrency ecosystem. We are developing state-of-the-art payment infrastructures and experiences to facilitate the seamless transition of traditional currency into the crypto landscape, thereby enhancing financial access. Our payment solutions are designed with a focus on simplicity and scalability, aiming to drive widespread adoption of crypto-centric products such as Decentralized Finance (DeFi), Decentralized Applications (DApps), and cryptocurrency exchanges.
+
+
+
+
+Team is building solutions and services that facilitate the processing of hundreds of billions in payments across 100s of countries worldwide. The movement of funds stands as the central pillar of our operations, encompassing transactions like purchases, sales, deposits, withdrawals, and trades for both retail and institutional clients. Our extensive reach across multiple countries is made possible through our deep integrations with banking systems, credit cards, and digital wallets.
+
+
+
+
+As a platform team, we cater not only to our external clientele but also serve our internal customers with equal dedication. In our line of work, each fund transfer is of paramount importance, necessitating consistency and timely execution every single time without fail.
+
+
+
+
+
+
+
+What you’ll be doing (ie. job duties):
+
+Architect and develop platform for the payments org
+Provide technical structure to teams and work closely with management and stakeholders to define strategic roadmaps
+Build new services to meet critical product and business needs using Golang / Java
+Design scalable systems to solve novel problems with modern cloud technology and industry best practices.
+Articulate a long term vision for maintaining and scaling our backend systems and the teams running them.
+Work with engineers, designers, product managers and senior leadership to turn our product and technical vision into a tangible roadmap every quarter.
+Write high quality, well tested code to meet the needs of your customers. Debugging extremely difficult technical problems, and making systems and products both work better and are easier to deploy, own, operate and diagnose.
+Review all feature designs within your product area and across the company for cross-cutting projects. Be an owner of the security, safety, scale, operational integrity, and architectural clarity of these designs.
+
+
+
+
+
+
+
+
+
+
+What we look for in you (ie. job requirements):
+
+10+ years of experience in software engineering
+You’ve 4+ years of experience in architecting large scale distributed systems
+You’ve designed, built, scaled and maintained production services, and know how to compose a service oriented architecture.
+You write high quality, well tested code to meet the needs of your customers.
+You’re passionate about building an open financial system that brings the world together.
+You possess strong technical skills for system design and coding
+Excellent written and verbal communication skills, and a bias toward open, transparent cultural practices.
+
+
+
+
+
+
+
+Nice to haves:
+
+You have gone through a rapid growth in your company (from startup to mid-size).
+Experience with growth experiments or A/B testing frameworks.
+You have experience with Blockchain technology (such as Bitcoin, Ethereum etc..)
+You’ve worked with Golang, Docker, Rails, Postgres, MongoDB or DynamoDB.
+
+
+
+
+
+
+
+
+
+
+Commitment to Equal Opportunity
+
+Coinbase is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view Pay Transparency, Employee Rights and Know Your Rights notices by clicking on their corresponding links. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law.
+
+
+
+
+Coinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to accommodations[at]coinbase.com and let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).
+
+
+
+
+
+
+
+Global Data Privacy Notice for Job Candidates and Applicants
+
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required. For US applicants only, by submitting your application you are agreeing to arbitration of disputes as outlined here.",
+Sr. Golang Developer (Backend),EkamApps,India (Remote),"About the job
+
+Job Title: Sr Golang Developer (Backend)
+
+Experience: 6+ Years
+
+Location: Remote
+
+
+
+
+Key Responsibilities:
+
+Design, develop, and maintain high-performance backend services and APIs using Golang.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Optimize applications for maximum speed and scalability.
+Implement security and data protection measures in all solutions.
+Debug and resolve performance issues, bottlenecks, and production incidents.
+Write clean, maintainable, and testable code following best practices.
+Integrate data storage solutions, including SQL and NoSQL databases.
+Participate in code reviews to maintain quality and provide constructive feedback.
 
 
 
 
 Required Skills:
 
-- Expertise in AWS services such as Lambda, API Gateway, Cognito, ECS, and S3
-
-- Proficiency in Frontend technologies: React, JavaScript/TypeScript, HTML, CSS
-
-- Experience with Backend technologies: Node.js and/or Python
-
-- Knowledge of RESTful API development and asynchronous workflow management
-
-- Familiarity with Infrastructure-as-code practices (AWS CDK )
-
-- Ability to work independently in rapid prototyping environments","['Email address\nEmail address', 'Phone country code\nPhone country code', 'Mobile phone number', 'Deselect resume CV_MANISHA WALUNJ.pdf', 'Select resume CV_MANISHA WALUNJ.pdf', 'Upload resume', 'How many years of work experience do you have with React.js?', 'How many years of work experience do you have with Amazon Web Services (AWS)?', 'How many years of work experience do you have with AWS CDK', 'How many years of work experience do you have with Framer', 'Follow TechTriad to stay up to date with their page.']","Email address
-Email address | Phone country code
-Phone country code | Mobile phone number | Deselect resume CV_MANISHA WALUNJ.pdf | Select resume CV_MANISHA WALUNJ.pdf | Upload resume | How many years of work experience do you have with React.js? | How many years of work experience do you have with Amazon Web Services (AWS)? | How many years of work experience do you have with AWS CDK | How many years of work experience do you have with Framer | Follow TechTriad to stay up to date with their page."
-Full Stack Software Engineer,Motion Recruitment,We won’t show you this job again.,"About the job
-
-Company Summary:
-
-Ceevra is a San Francisco-based, medical software company that helps surgeons (mainly cancer surgeons) plan and operate better through advanced imaging. We take standard CT scans and MRIs and transform them into brilliant, interactive 3D digital models which are viewed by surgeons from their mobile phones, tablets, or through robotic surgery platforms. We help surgeons determine the best type of operation to perform and the best way to perform it – resulting in faster operations, reduced hospital stay, saved organs, and reduced cancer recurrence. A quick explainer video: https://vimeo.com/1007811704
+Proficiency in Golang with 6+ years of hands-on development experience.
+Strong understanding of RESTful services, microservices architecture, and API design.
+Experience with cloud platforms like AWS, GCP, or Azure.
+Familiarity with containerization tools such as Docker and orchestration tools like Kubernetes.
+Knowledge of database technologies (PostgreSQL, MySQL, MongoDB, etc.).
+Experience with message queues like Kafka or RabbitMQ.
+Proficient in CI/CD pipelines and version control systems like Git.
+Solid understanding of software development lifecycle and agile methodologies.
 
 
 
 
-Ceevra's product is FDA-cleared and CE-marked and has been the centerpiece of two successful, multi-center, randomized clinical trials. Our customers include two of the ten largest health systems in the country, and several leading academic medical centers. We are privately held, and our team is highly cohesive and collaborative.
+Nice to Have
+
+Experience with monitoring tools like Prometheus and Grafana.
+Knowledge of caching mechanisms such as Redis or Memcached.
+Familiarity with serverless architecture.
+Understanding of GraphQL APIs.
 
 
 
 
-We offer candidates the unique opportunity to work on cutting edge technology and a product that helps improve surgical outcomes and the quality of life for cancer patients, while doing so at a startup that serves some of the country's most innovative medical centers.
+Education
+
+Bachelor’s degree in Computer Science, Engineering, or a related field."
+"Staff Software Engineer, Backend - FinHub",EkamApps,India (Remote),"About the job
+
+Ready to be pushed beyond what you think you’re capable of?
 
 
 
 
-Position Summary and Responsibilities:
-
-As a Full Stack Software Engineer, you will report to Ceevra's Director of Engineering. Your primary job focus will be on building the end-user client (desktop, mobile, and web) and back-end software that clinicians use. In addition to core development work, you will also contribute to our infrastructure management, CI/CD pipelines, and quality assurance efforts as part of our collaborative engineering team. As the main engineer in this role, you'll have substantial ownership over key portions of our platform and the autonomy to design and implement significant technical solutions that have a profound and visible impact on our product.
+At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.
 
 
 
 
-The engineering team is local and works 3 days per week in our SF offices.
+To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.
 
 
 
 
-Responsibilities:
+Our work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.
 
-Design, develop, and maintain critical components across our technology stack (web-based applications both front-end and back-end, on-premise servers, native desktop and mobile applications)
-Contribute to infrastructure management through Terraform and other IaC tools as needed
-Assist with CI/CD pipeline maintenance and improvements
-Improve deployment automation and cloud architecture management
-Contribute to test automation frameworks (unit-level, component-level, and system/end-to-end) and quality metrics
-Collaborate on monitoring and observability solutions for our applications
+The mission of the Platform Product Group engineers is to build a trusted, scalable and compliant platform to operate with speed, efficiency and quality. Our teams build and maintain the platforms critical to the existence of Coinbase. There are many teams that make up this group which include Product Foundations (i.e. Identity, Payment, Risk, Proofing & Regulatory, Finhub), Machine Learning, Customer Experience, and Infrastructure.
 
 
 
 
-Core Requirements:
-
-Strong ability to code in Python, JavaScript and modern development practices is required
-Problem-solving skills and comfort with independent work is required
-Experience with django, react.js, and react-native is highly valued
-Prior full-time, full-stack engineering experience in a corporate environment is highly valued
-Basic understanding of cloud services (AWS, GCP, or Azure) is a plus
-Working knowledge of containerization, infrastructure-as-code concepts and tools like Terraform and/or Docker is a plus
-Familiarity with CI/CD pipelines and DevOps practices is a plus
-BS in Computer Science, Mathematics, engineering, or relevant scientific field is required
+The FinHub team is tasked with creating a platform for financial data. Providing accurate and timely financial information is critical for Coinbase. This platform and tooling around it would help improve the process for accounting and finance activities. It will also act as the golden source of truth for the related data.
 
 
 
 
-Bonus Skills:
-
-Any of these would make a candidate stand out:
-
-Experience with medical imaging (especially CT and MRI)
-Experience automating tests at multiple levels (unit, integration/component, system)
-Experience and aptitude working with ML and ML frameworks such as PyTorch or TensorFlow
-Experience with quality engineering of medical devices (ISO 13485, FDA QSR, IEC 62304)
-Experience with computer graphics
-Familiarity with computer vision, mobile, and graphics
 
 
 
+What you’ll be doing (ie. job duties):
 
-What We Offer:
-
-Technical autonomy in a small team environment
-Direct impact on products that improve surgical outcomes
-Opportunity to solve challenging problems across the full stack and beyond
-Collaborative environment with minimal bureaucracy
-Competitive compensation with equity upside
+Architect and develop platform for the financial data
+Provide technical structure to teams and work closely with management and stakeholders to define strategic roadmaps
+Manage individual projects priorities, deadlines and deliverables with your technical expertise
+Mentor and train other team members on design techniques and coding standards
+Write high quality, well tested code to meet the needs of your customers
+Hands-on with coding
+Plan and Implement the multi-year strategy for Finhub engineering with the technical leadership on your team
+Collaborate with engineers, designers, product managers and senior leadership to turn our vision into a tangible roadmap every quarter
+Add positive energy in every meeting, and make your coworkers feel included in every interaction
+Engage with upstream teams and enforce SLAs for data availability and quality
 
 
 
 
-Direct apply by candidates only: no recruiters
+What we look for in you (ie. job requirements):
 
-No work sponsorship available: candidates must have US work authorization","Email address
-Email address | Phone country code
-Phone country code | Mobile phone number | Deselect resume CV_MANISHA WALUNJ.pdf | Select resume CV_MANISHA WALUNJ.pdf | Upload resume | Yes | No | How many years of Software Development experience do you currently have?"
+8+ years of experience in software engineering
+You’ve 2+ years of experience in architecting big data systems around technologies like Apache Spark and Hive
+Experience in uplevelling junior engineers via processes and setting a high bar for them to follow
+You know what high quality code — and software engineering processes — look like and know how to foster an environment that creates them
+You’re passionate about building an open financial system that brings the world together
+You’ve worked on integrating with NetSuite APIs
+You’ve worked on developing financial tools - Reconciliation, Ledgers, Balance matching
+You’ve worked on transforming business / product data to accounting/financial domain
+You’ve worked in integrating banking partners or have a knowledge of bank statements (API based, file based, SWIFT)
+
+
+
+
+Nice to haves:
+
+You’ve worked with Golang, gRPC, Docker, SnowFlake, Databricks and advance SQL
+You’ve have experience of working with finance and accounting teams
+You’ve experience in performance tuning of big data systems
+You’ve experience working with Kyriba integration
+You’ve experience working with fintech domain
+
+
+
+
+
+
+
+
+
+
+Commitment to Equal Opportunity
+
+
+
+
+Coinbase is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view Pay Transparency, Employee Rights and Equal Employment Opportunity is the Law notices by clicking on their corresponding links. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law.
+
+
+
+
+Coinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to accommodations[at]coinbase.com and let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).
+
+
+
+
+Global Data Privacy Notice for Job Candidates and Applicants
+
+
+
+
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required."
+Sr. Golang Developer (Backend),EkamApps,India (Remote),"About the job
+
+Job Title: Sr Golang Developer (Backend)
+
+Experience: 6+ Years
+
+Location: Remote
+
+
+
+
+Key Responsibilities:
+
+Design, develop, and maintain high-performance backend services and APIs using Golang.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Optimize applications for maximum speed and scalability.
+Implement security and data protection measures in all solutions.
+Debug and resolve performance issues, bottlenecks, and production incidents.
+Write clean, maintainable, and testable code following best practices.
+Integrate data storage solutions, including SQL and NoSQL databases.
+Participate in code reviews to maintain quality and provide constructive feedback.
+
+
+
+
+Required Skills:
+
+Proficiency in Golang with 6+ years of hands-on development experience.
+Strong understanding of RESTful services, microservices architecture, and API design.
+Experience with cloud platforms like AWS, GCP, or Azure.
+Familiarity with containerization tools such as Docker and orchestration tools like Kubernetes.
+Knowledge of database technologies (PostgreSQL, MySQL, MongoDB, etc.).
+Experience with message queues like Kafka or RabbitMQ.
+Proficient in CI/CD pipelines and version control systems like Git.
+Solid understanding of software development lifecycle and agile methodologies.
+
+
+
+
+Nice to Have
+
+Experience with monitoring tools like Prometheus and Grafana.
+Knowledge of caching mechanisms such as Redis or Memcached.
+Familiarity with serverless architecture.
+Understanding of GraphQL APIs.
+
+
+
+
+Education
+
+Bachelor’s degree in Computer Science, Engineering, or a related field.",
+Sr. Golang Developer (Backend),EkamApps,India (Remote),"About the job
+
+Job Title: Sr Golang Developer (Backend)
+
+Experience: 6+ Years
+
+Location: Remote
+
+
+
+
+Key Responsibilities:
+
+Design, develop, and maintain high-performance backend services and APIs using Golang.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Optimize applications for maximum speed and scalability.
+Implement security and data protection measures in all solutions.
+Debug and resolve performance issues, bottlenecks, and production incidents.
+Write clean, maintainable, and testable code following best practices.
+Integrate data storage solutions, including SQL and NoSQL databases.
+Participate in code reviews to maintain quality and provide constructive feedback.
+
+
+
+
+Required Skills:
+
+Proficiency in Golang with 6+ years of hands-on development experience.
+Strong understanding of RESTful services, microservices architecture, and API design.
+Experience with cloud platforms like AWS, GCP, or Azure.
+Familiarity with containerization tools such as Docker and orchestration tools like Kubernetes.
+Knowledge of database technologies (PostgreSQL, MySQL, MongoDB, etc.).
+Experience with message queues like Kafka or RabbitMQ.
+Proficient in CI/CD pipelines and version control systems like Git.
+Solid understanding of software development lifecycle and agile methodologies.
+
+
+
+
+Nice to Have
+
+Experience with monitoring tools like Prometheus and Grafana.
+Knowledge of caching mechanisms such as Redis or Memcached.
+Familiarity with serverless architecture.
+Understanding of GraphQL APIs.
+
+
+
+
+Education
+
+Bachelor’s degree in Computer Science, Engineering, or a related field.",
+"Staff Software Engineer, Backend - FinHub",EkamApps,India (Remote),"About the job
+
+Ready to be pushed beyond what you think you’re capable of?
+
+
+
+
+At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.
+
+
+
+
+To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.
+
+
+
+
+Our work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.
+
+The mission of the Platform Product Group engineers is to build a trusted, scalable and compliant platform to operate with speed, efficiency and quality. Our teams build and maintain the platforms critical to the existence of Coinbase. There are many teams that make up this group which include Product Foundations (i.e. Identity, Payment, Risk, Proofing & Regulatory, Finhub), Machine Learning, Customer Experience, and Infrastructure.
+
+
+
+
+The FinHub team is tasked with creating a platform for financial data. Providing accurate and timely financial information is critical for Coinbase. This platform and tooling around it would help improve the process for accounting and finance activities. It will also act as the golden source of truth for the related data.
+
+
+
+
+
+
+
+What you’ll be doing (ie. job duties):
+
+Architect and develop platform for the financial data
+Provide technical structure to teams and work closely with management and stakeholders to define strategic roadmaps
+Manage individual projects priorities, deadlines and deliverables with your technical expertise
+Mentor and train other team members on design techniques and coding standards
+Write high quality, well tested code to meet the needs of your customers
+Hands-on with coding
+Plan and Implement the multi-year strategy for Finhub engineering with the technical leadership on your team
+Collaborate with engineers, designers, product managers and senior leadership to turn our vision into a tangible roadmap every quarter
+Add positive energy in every meeting, and make your coworkers feel included in every interaction
+Engage with upstream teams and enforce SLAs for data availability and quality
+
+
+
+
+What we look for in you (ie. job requirements):
+
+8+ years of experience in software engineering
+You’ve 2+ years of experience in architecting big data systems around technologies like Apache Spark and Hive
+Experience in uplevelling junior engineers via processes and setting a high bar for them to follow
+You know what high quality code — and software engineering processes — look like and know how to foster an environment that creates them
+You’re passionate about building an open financial system that brings the world together
+You’ve worked on integrating with NetSuite APIs
+You’ve worked on developing financial tools - Reconciliation, Ledgers, Balance matching
+You’ve worked on transforming business / product data to accounting/financial domain
+You’ve worked in integrating banking partners or have a knowledge of bank statements (API based, file based, SWIFT)
+
+
+
+
+Nice to haves:
+
+You’ve worked with Golang, gRPC, Docker, SnowFlake, Databricks and advance SQL
+You’ve have experience of working with finance and accounting teams
+You’ve experience in performance tuning of big data systems
+You’ve experience working with Kyriba integration
+You’ve experience working with fintech domain
+
+
+
+
+
+
+
+
+
+
+Commitment to Equal Opportunity
+
+
+
+
+Coinbase is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view Pay Transparency, Employee Rights and Equal Employment Opportunity is the Law notices by clicking on their corresponding links. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law.
+
+
+
+
+Coinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to accommodations[at]coinbase.com and let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).
+
+
+
+
+Global Data Privacy Notice for Job Candidates and Applicants
+
+
+
+
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required.",
+"Staff Software Engineer, Backend - FinHub",EkamApps,India (Remote),"About the job
+
+Ready to be pushed beyond what you think you’re capable of?
+
+
+
+
+At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.
+
+
+
+
+To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.
+
+
+
+
+Our work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.
+
+The mission of the Platform Product Group engineers is to build a trusted, scalable and compliant platform to operate with speed, efficiency and quality. Our teams build and maintain the platforms critical to the existence of Coinbase. There are many teams that make up this group which include Product Foundations (i.e. Identity, Payment, Risk, Proofing & Regulatory, Finhub), Machine Learning, Customer Experience, and Infrastructure.
+
+
+
+
+The FinHub team is tasked with creating a platform for financial data. Providing accurate and timely financial information is critical for Coinbase. This platform and tooling around it would help improve the process for accounting and finance activities. It will also act as the golden source of truth for the related data.
+
+
+
+
+
+
+
+What you’ll be doing (ie. job duties):
+
+Architect and develop platform for the financial data
+Provide technical structure to teams and work closely with management and stakeholders to define strategic roadmaps
+Manage individual projects priorities, deadlines and deliverables with your technical expertise
+Mentor and train other team members on design techniques and coding standards
+Write high quality, well tested code to meet the needs of your customers
+Hands-on with coding
+Plan and Implement the multi-year strategy for Finhub engineering with the technical leadership on your team
+Collaborate with engineers, designers, product managers and senior leadership to turn our vision into a tangible roadmap every quarter
+Add positive energy in every meeting, and make your coworkers feel included in every interaction
+Engage with upstream teams and enforce SLAs for data availability and quality
+
+
+
+
+What we look for in you (ie. job requirements):
+
+8+ years of experience in software engineering
+You’ve 2+ years of experience in architecting big data systems around technologies like Apache Spark and Hive
+Experience in uplevelling junior engineers via processes and setting a high bar for them to follow
+You know what high quality code — and software engineering processes — look like and know how to foster an environment that creates them
+You’re passionate about building an open financial system that brings the world together
+You’ve worked on integrating with NetSuite APIs
+You’ve worked on developing financial tools - Reconciliation, Ledgers, Balance matching
+You’ve worked on transforming business / product data to accounting/financial domain
+You’ve worked in integrating banking partners or have a knowledge of bank statements (API based, file based, SWIFT)
+
+
+
+
+Nice to haves:
+
+You’ve worked with Golang, gRPC, Docker, SnowFlake, Databricks and advance SQL
+You’ve have experience of working with finance and accounting teams
+You’ve experience in performance tuning of big data systems
+You’ve experience working with Kyriba integration
+You’ve experience working with fintech domain
+
+
+
+
+
+
+
+
+
+
+Commitment to Equal Opportunity
+
+
+
+
+Coinbase is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view Pay Transparency, Employee Rights and Equal Employment Opportunity is the Law notices by clicking on their corresponding links. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law.
+
+
+
+
+Coinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to accommodations[at]coinbase.com and let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).
+
+
+
+
+Global Data Privacy Notice for Job Candidates and Applicants
+
+
+
+
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required.",

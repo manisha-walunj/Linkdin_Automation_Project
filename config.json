@@ -3,11 +3,10 @@
   "LINKEDIN_PASSWORD": "software2312",
   "resume_path": "C:\\Users\\ADMIN\\Desktop\\CV_MANISHA WALUNJ.pdf",
   "target_job_title": "Software Engineer",
-  "target_location": "San Francisco Bay Area",
-  "OLLAMA_API": "http://localhost:11434/api/generate",
+  "target_location": "Thane",
   "log_file_path": "C:/Users/ADMIN/PycharmProjects/PythonProject1/CodersBoutique/application_log.csv",
-  "max_jobs_per_run": 10,
-  "OPENWEBUI_API_URL": "https://owui.codersboutique.com/api/chat/completions",
+  "max_jobs_per_run": 5,
+  "OPENWEBUI_API_URL": "https://owui.codersboutique.com",
   "OPENWEBUI_API_KEY": "sk-932d60c64d98493494f023fc2c20a564",
   "OPENWEBUI_MODEL": "gemma3"
 }
