@@ -1,7 +1,4 @@
 
-#-------------------------Complete Scripts--------------------------------------------------------------------------------------
-
-
 import time
 import json
 import csv
@@ -46,20 +43,27 @@ def upload_resume_get_file_id(RESUME_PATH):
         return file_id  # Return it!
 
 
+def log_application_data(job_title, company_name, location, description):
+    log_file = 'application_log.csv'
+    file_exists = os.path.isfile(log_file)
 
-def log_application_data(job_title, company_name, location, description, form_labels):
-    labels_text = ' | '.join(form_labels) if form_labels else "N/A"
+    with open(log_file, 'a', newline='', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile)
+        if not file_exists:
+            writer.writerow([
+                'Job Title',
+                'Company Name',
+                'Location',
+                'Job Description'
+            ])
 
-    data = [{
-        "Job Title": job_title,
-        "Company Name": company_name,
-        "Location": location,
-        "Job Description": description,
-        "form_labels": labels_text
-    }]
+        writer.writerow([
+            job_title,
+            company_name,
+            location,
+            description
+        ])
 
-    save_to_csv(data)
-    print(f"📝 Logged job: {job_title} at {company_name}")
 
 def get_answer_from_llm(question, file_id):
     chat_headers = {
@@ -158,138 +162,15 @@ def select_custom_dropdown(field, answer):
     except Exception as e:
         print(f"❌ Failed to select from custom dropdown: {e}")
 
-applications_applied = 0  # Global variable to track total applied jobs
 
 def extract_and_fill_form_fields_across_steps(page, file_id):
     print("\n📋 Extracting and filling form fields from all steps:")
-    global applications_applied
-
     seen = set()
-
-    def process_fields_in_modal():
-        try:
-            modal = page.query_selector("div.jobs-easy-apply-modal")
-            if not modal:
-                print("❌ Easy Apply modal not found.")
-                return False
-
-            # Label-associated fields
-            labels = modal.query_selector_all("label")
-            for label in labels:
-                label_text = label.inner_text().strip()
-                if not label_text or label_text in seen:
-                    continue
-                seen.add(label_text)
-
-                # Try 'for' attribute
-                attr = field.get_attribute("aria-label") or field.get_attribute("placeholder")
-                for_attr = label.get_attribute("for")
-                field = None
-                if for_attr:
-                    field = modal.query_selector(f"#{for_attr}")
-                if not field:
-                    field = label.query_selector("input, select, textarea") or label.evaluate_handle("el => el.nextElementSibling")
-
-                if field:
-                    print(f"🔹 Label: {label_text}")
-                    fill_field(field, label_text)
-
-            # Fields with aria-label or placeholder
-            other_fields = modal.query_selector_all("input, select, textarea")
-            for field in other_fields:
-                if not field.is_enabled():
-                    continue
-                if attr and attr.strip() not in seen:
-                    seen.add(attr.strip())
-                    print(f"🔸 Field: {attr.strip()}")
-                    fill_field(field, attr.strip())
-
-            return True
-        except Exception as e:
-            print(f"❌ Error in modal field processing: {e}")
-            return False
-
-    process_fields_in_modal()
-    applications_applied = 0  # Make sure this is defined before the loop
-
-    while True:
-        try:
-
-            # Look for Next, Review, or Submit button
-            next_button = page.locator(
-                "button:has-text('Next'), button:has-text('Review'), button:has-text('Submit')"
-            ).first
-
-            if next_button and next_button.is_enabled():
-                btn_text = next_button.inner_text().strip()
-                print(f"\n➡️ Clicking: {btn_text}")
-                next_button.click()
-                page.wait_for_timeout(1500)
-
-                # Handle the "Review" button separately (in case it appears afterward)
-                review_button = page.query_selector(
-                    "button:has-text('Review'), button[aria-label='Review your application']"
-                )
-                if review_button and review_button.is_enabled():
-                    btn_text = review_button.inner_text().strip()
-                    print(f"\n📝 Clicking: {btn_text}")
-                    review_button.click()
-                    page.wait_for_timeout(1500)
-
-                # Handle the "Submit" button
-                submit_button = page.query_selector(
-                    "button:has-text('Submit'), button[aria-label='Submit application']"
-                )
-                if submit_button and submit_button.is_enabled():
-                    btn_text = submit_button.inner_text().strip()
-                    print(f"\n✅ Clicking: {btn_text}")
-                    submit_button.click()
-                    page.wait_for_timeout(500)
-
-                    try:
-                        # Increase this timeout to give the modal more time to fully render
-                        page.wait_for_timeout(2000)  # increased from 1000 to 2000 ms
-
-                        # Explicitly wait for the Done button to be visible (up to 5 seconds)
-                        page.wait_for_selector('div[role="dialog"] button:has-text("Done")', state='visible',
-                                               timeout=5000)
-
-                        done_button = page.locator('div[role="dialog"] button:has-text("Done")').first
-
-                        if done_button.is_visible() and done_button.is_enabled():
-                            done_button.click()
-                            print("🎉 Clicked 'Done' button successfully.")
-                        else:
-                            print("⚠️ Done button found but not clickable. Forcing with JS.")
-                            page.evaluate("(btn) => btn.click()", done_button)
-
-                        applications_applied += 1
-                        print(f"✅ Total jobs applied: {applications_applied}")
-                        break
-
-                    except Exception as e:
-                        print(f"❌ Failed to click Done button: {e}")
-
-                    print("✅ Reached final step.")
-                    break
-
-                # If not yet submitted, continue to process modal
-                process_fields_in_modal()
-
-            else:
-                print("❌ No enabled Next/Review/Submit button found.")
-                break
-
-        except Exception as e:
-            print(f"❌ Navigation failed: {e}")
-            break
 
     def fill_field(field, label_text):
         try:
             tag = field.evaluate("el => el.tagName.toLowerCase()")
             input_type = field.get_attribute("type") or ""
-
-
 
             # ✅ Skip early if field is already filled or checked
             if tag == "input":
@@ -367,6 +248,108 @@ def extract_and_fill_form_fields_across_steps(page, file_id):
         except Exception as e:
             print(f"❌ Error filling field for label '{label_text}': {e}")
 
+    def process_fields_in_modal():
+        try:
+            modal = page.query_selector("div.jobs-easy-apply-modal")
+            if not modal:
+                print("❌ Easy Apply modal not found.")
+                return False
+
+            # Label-associated fields
+            labels = modal.query_selector_all("label")
+            for label in labels:
+                label_text = label.inner_text().strip()
+                if not label_text or label_text in seen:
+                    continue
+                seen.add(label_text)
+
+                # Try 'for' attribute
+                for_attr = label.get_attribute("for")
+                field = None
+                if for_attr:
+                    field = modal.query_selector(f"#{for_attr}")
+                if not field:
+                    field = label.query_selector("input, select, textarea") or label.evaluate_handle("el => el.nextElementSibling")
+
+                if field:
+                    print(f"🔹 Label: {label_text}")
+                    fill_field(field, label_text)
+
+            # Fields with aria-label or placeholder
+            other_fields = modal.query_selector_all("input, select, textarea")
+            for field in other_fields:
+                if not field.is_enabled():
+                    continue
+                attr = field.get_attribute("aria-label") or field.get_attribute("placeholder")
+                if attr and attr.strip() not in seen:
+                    seen.add(attr.strip())
+                    print(f"🔸 Field: {attr.strip()}")
+                    fill_field(field, attr.strip())
+
+            return True
+        except Exception as e:
+            print(f"❌ Error in modal field processing: {e}")
+            return False
+
+    process_fields_in_modal()
+
+    while True:
+        try:
+            next_button = page.locator(
+                "button:has-text('Next'), button:has-text('Review'), button:has-text('Submit')"
+            ).first
+
+            if not next_button or not next_button.is_enabled():
+                print("❌ No enabled Next/Review/Submit button.")
+                return
+
+            btn_text = next_button.inner_text().strip()
+            print(f"\n➡️ Clicking: {btn_text}")
+            next_button.click()
+            page.wait_for_timeout(2000)  # ⏳ Give page time to update
+
+            if btn_text.lower() == "submit":
+                print("✅ Submitted. Looking for Done...")
+
+                try:
+                    # ✅ Wait for Done/Close/Back to search button to appear
+                    done_span = page.locator(
+                        "span:has-text('Done'), span:has-text('Close'), span:has-text('Back to search')"
+                    ).first
+                    done_span.wait_for(state="visible", timeout=7000)
+                    done_button = done_span.locator("xpath=ancestor::button[1]")
+
+                    if done_button.is_visible() and done_button.is_enabled():
+                        done_button.click()
+                        print("🎉 Clicked 'Done' button successfully.")
+                    else:
+                        print("⚠️ Done not clickable. Forcing JS click.")
+                        page.evaluate("btn => btn.click()", done_button)
+
+                    # ✅ Wait for modal to disappear (not required, but safe)
+                    try:
+                        page.wait_for_selector("div.jobs-easy-apply-modal", state="detached", timeout=5000)
+                        print("✅ Modal closed.")
+                    except:
+                        print("⚠️ Modal may already be closed.")
+
+                except Exception as e:
+                    print(f"❌ Done button failed: {e}")
+
+                return  # ✅ Go to next job
+
+            # ✅ Process only intermediate steps
+            modal = page.query_selector("div.jobs-easy-apply-modal")
+            if not modal:
+                print("❌ Easy Apply modal not found. Exiting form.")
+                return
+
+            process_fields_in_modal()
+
+        except Exception as e:
+            print(f"❌ Navigation failed: {e}")
+            return
+
 
 def filter_easy_apply_jobs(page,file_id):
     # form_labels = extract_all_form_labels_across_steps(page)
@@ -391,14 +374,8 @@ def filter_easy_apply_jobs(page,file_id):
             if not apply_btn:
                 print("Skipping non-Easy Apply job")
                 continue
-            # job_title = page.query_selector("h2.topcard__title") or page.query_selector("h1")
             job_title = page.query_selector("h2.topcard__title") or page.query_selector("h1")
 
-            # company_name = (
-            #         page.query_selector("a.topcard__org-name-link") or
-            #         page.query_selector("span.topcard__flavor") or
-            #         page.query_selector("div.artdeco-entity-lockup__subtitle")
-            # )
             company_name = (
                     page.query_selector("a.topcard__org-name-link") or
                     page.query_selector("span.topcard__flavor") or
@@ -430,63 +407,86 @@ def filter_easy_apply_jobs(page,file_id):
             apply_btn.click()
             page.wait_for_timeout(2000)
 
-            # fill_easy_apply_form_with_llm(page, file_id)
-            form_labels = extract_and_fill_form_fields_across_steps(page, file_id)
-            # form_labels = extract_and_fill_form_fields_across_steps(page, file_id, job_title, company_name, location, job_description)
+            # form_labels = extract_and_fill_form_fields_across_steps(page, file_id)
+            extract_and_fill_form_fields_across_steps(page, file_id)
 
             fill_easy_apply_form_with_llm(page, file_id)
 
-            log_application_data(job_title, company_name, location, desc_text,form_labels)
-            # log_application_data(job_title, company_name, location, desc_text)
-
-
-
-            while True:
-                page.wait_for_timeout(1000)
-                # fill_all_fields_on_page(page)
-                next_btn = page.query_selector("button:has-text('Next')")
-                review_btn = page.query_selector("button:has-text('Review')")
-                submit_btn = page.query_selector("button:has-text('Submit')")
-                if submit_btn and submit_btn.is_enabled():
-                    submit_btn.click()
-                    print("Application Submitted!")
-                    page.wait_for_timeout(3000)  # Wait for Done modal to render
-                    try:
-                        # Try common variants of the Done button
-                        done_span = page.locator(
-                            "span:has-text('Done'), span:has-text('Close'), span:has-text('Back to search')").first
-                        done_span.wait_for(state="visible", timeout=5000)
-                        done_button = done_span.locator("xpath=ancestor::button[1]")
-
-                        if done_button.is_visible() and done_button.is_enabled():
-                            done_button.click()
-                            print("🎉 Clicked 'Done' button successfully.")
-                        else:
-                            print("⚠️ Done button found but not clickable. Forcing with JS.")
-                            page.evaluate("btn => btn.click()", done_button)
-
-                        page.wait_for_timeout(1500)
-                    except Exception as e:
-                        print(f"❌ Failed to click Done button: {e}")
-
-                elif review_btn and review_btn.is_enabled():
-                    review_btn.click()
-                    print("Reviewing Application...")
-                    page.wait_for_timeout(2000)
-                elif next_btn and next_btn.is_enabled():
-                    next_btn.click()
-                    print("Moving to next step...")
-                    page.wait_for_timeout(2000)
-                else:
-                    print("No further steps.")
-                    break
+            log_application_data(title_text, company_text, location_text, desc_text)
             applied_jobs.append({
                 "Job Title": title_text,
                 "Company Name": company_text,
                 "Location": location_text,
                 "Job Description": desc_text,
-                # "form_labels": " | ".join(form_labels)  # New field
+            })
+            page.wait_for_timeout(3000)
 
+            # while True:
+            page.wait_for_timeout(1000)
+            done_button = page.query_selector("button:has-text('Done'), button:has-text('Close'), button:has-text('Back to search')")
+            next_btn = page.query_selector("button:has-text('Next')")
+            review_btn = page.query_selector("button:has-text('Review')")
+            submit_btn = page.query_selector("button:has-text('Submit')")
+
+            if done_button and done_button.is_enabled():
+                    try:
+                        done_button.click()
+                        print("✅ Clicked Done/Close button.")
+                        page.wait_for_selector("div.jobs-easy-apply-modal", state="detached", timeout=8000)
+                        print("✅ Modal closed, ready to move to next job.")
+                        # continue  # Go to next job in loop
+                    except Exception as e:
+                        print(f"❌ Failed to click Done/Close: {e}")
+                        page.screenshot(path="done_button_error.png")
+
+
+            elif submit_btn and submit_btn.is_enabled():
+                    submit_btn.click()
+                    print("✅ Submitted application.")
+                    page.wait_for_timeout(4000)
+
+
+
+                # if submit_btn and submit_btn.is_enabled():
+                #     submit_btn.click()
+                #     print("✅ Submitted application.")
+                #
+                #     # Wait for modal to settle after submit
+                #     page.wait_for_timeout(4000)
+
+
+                    # try:
+                    #     # Wait for a Done-like button to appear
+                    #     done_button = page.wait_for_selector(
+                    #         "button:has-text('Done'), button:has-text('Close'), button:has-text('Back to search')",
+                    #         timeout=10000
+                    #     )
+                    #     done_button.click()
+                    #     print("✅ Clicked Done/Close button.")
+                    #
+                    #     # Wait for modal to close before continuing
+                    #     page.wait_for_selector("div.jobs-easy-apply-modal", state="detached", timeout=8000)
+                    #     print("✅ Modal closed, ready to move to next job.")
+                    # except Exception as e:
+                    #     print(f"❌ Failed to click Done button or close modal: {e}")
+                    #     page.screenshot(path="done_button_error.png")
+            elif review_btn and review_btn.is_enabled():
+                    review_btn.click()
+                    print("Reviewing Application...")
+                    page.wait_for_timeout(2000)
+            elif next_btn and next_btn.is_enabled():
+                    next_btn.click()
+                    print("Moving to next step...")
+                    page.wait_for_timeout(2000)
+            else:
+                    print("No further steps.")
+                    break
+
+            applied_jobs.append({
+                "Job Title": title_text,
+                "Company Name": company_text,
+                "Location": location_text,
+                "Job Description": desc_text,
             })
 
             page.wait_for_timeout(3000)
@@ -494,16 +494,16 @@ def filter_easy_apply_jobs(page,file_id):
             print(f"Error in job #{idx + 1}: {e}")
             continue
     save_to_csv(applied_jobs)
-    print(f"Total jobs applied: {len(applied_jobs)}")
+    print(f"✅ Total jobs applied: {len(applied_jobs)} out of max {MAX_JOBS_PER_RUN}")
+
+    # print(f"Total jobs applied: {len(applied_jobs)}")
 
 
 def save_to_csv(data, filename="application_log.csv"):
     file_exists = os.path.isfile(filename)
     with open(filename, mode='a', newline='', encoding='utf-8') as file:
         writer = csv.DictWriter(file, fieldnames=[
-            "Job Title", "Company Name", "Location", "Job Description"
-            # "Job Title", "Company Name", "Location","Job Description", "form_labels"
-
+            "Job Title", "Company Name", "Location", "Job Description", "form_labels"
         ])
         if not file_exists:
             writer.writeheader()
@@ -616,6 +616,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
