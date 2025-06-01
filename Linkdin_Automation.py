@@ -446,30 +446,6 @@ def filter_easy_apply_jobs(page,file_id):
                     page.wait_for_timeout(4000)
 
 
-
-                # if submit_btn and submit_btn.is_enabled():
-                #     submit_btn.click()
-                #     print("✅ Submitted application.")
-                #
-                #     # Wait for modal to settle after submit
-                #     page.wait_for_timeout(4000)
-
-
-                    # try:
-                    #     # Wait for a Done-like button to appear
-                    #     done_button = page.wait_for_selector(
-                    #         "button:has-text('Done'), button:has-text('Close'), button:has-text('Back to search')",
-                    #         timeout=10000
-                    #     )
-                    #     done_button.click()
-                    #     print("✅ Clicked Done/Close button.")
-                    #
-                    #     # Wait for modal to close before continuing
-                    #     page.wait_for_selector("div.jobs-easy-apply-modal", state="detached", timeout=8000)
-                    #     print("✅ Modal closed, ready to move to next job.")
-                    # except Exception as e:
-                    #     print(f"❌ Failed to click Done button or close modal: {e}")
-                    #     page.screenshot(path="done_button_error.png")
             elif review_btn and review_btn.is_enabled():
                     review_btn.click()
                     print("Reviewing Application...")
