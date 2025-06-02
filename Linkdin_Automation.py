@@ -1,4 +1,6 @@
+################################################
 
+from datetime import datetime
 import time
 import json
 import csv
@@ -142,26 +144,6 @@ def search_jobs(page, job_title=TARGET_JOB_TITLE, job_location=TARGET_LOCATION):
             print("Entered Job Location")
         except Exception as e:
             print("Error entering job location:", e)
-
-def select_custom_dropdown(field, answer):
-    try:
-        # Click the field to open dropdown
-        field.click()
-        time.sleep(0.5)  # Wait for dropdown to render
-
-        # Locate the open dropdown container
-        dropdown_panel = field.page.locator("div[role='listbox'], ul[role='listbox'], div[aria-expanded='true']")
-
-        # Try to match answer exactly or partially
-        option = dropdown_panel.get_by_text(answer, exact=True)
-        if not option.is_visible():
-            option = dropdown_panel.get_by_text(answer)
-
-        option.click()
-        print(f"✅ Custom dropdown option selected: {answer}")
-    except Exception as e:
-        print(f"❌ Failed to select from custom dropdown: {e}")
-
 
 def extract_and_fill_form_fields_across_steps(page, file_id):
     print("\n📋 Extracting and filling form fields from all steps:")
@@ -373,6 +355,7 @@ def filter_easy_apply_jobs(page,file_id):
             apply_btn = page.query_selector("button.jobs-apply-button")
             if not apply_btn:
                 print("Skipping non-Easy Apply job")
+
                 continue
             job_title = page.query_selector("h2.topcard__title") or page.query_selector("h1")
 
@@ -413,12 +396,7 @@ def filter_easy_apply_jobs(page,file_id):
             fill_easy_apply_form_with_llm(page, file_id)
 
             log_application_data(title_text, company_text, location_text, desc_text)
-            applied_jobs.append({
-                "Job Title": title_text,
-                "Company Name": company_text,
-                "Location": location_text,
-                "Job Description": desc_text,
-            })
+
             page.wait_for_timeout(3000)
 
             # while True:
@@ -472,26 +450,17 @@ def filter_easy_apply_jobs(page,file_id):
     save_to_csv(applied_jobs)
     print(f"✅ Total jobs applied: {len(applied_jobs)} out of max {MAX_JOBS_PER_RUN}")
 
-    # print(f"Total jobs applied: {len(applied_jobs)}")
-
-
 def save_to_csv(data, filename="application_log.csv"):
+    job_count = len(data)
     file_exists = os.path.isfile(filename)
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
     with open(filename, mode='a', newline='', encoding='utf-8') as file:
-        writer = csv.DictWriter(file, fieldnames=[
-            "Job Title", "Company Name", "Location", "Job Description", "form_labels"
-        ])
+        writer = csv.writer(file)
         if not file_exists:
-            writer.writeheader()
-        for row in data:
-            writer.writerow(row)
-def normalize_answer(text):
-    text = text.strip().lower()
-    if text in ["yes", "y", "yeah", "1"]:
-        return "Yes"
-    elif text in ["no", "n", "nope", "0"]:
-        return "No"
-    return text.capitalize()  # Capitalize other text like "3 years"
+            writer.writerow(["Timestamp", "Applied Job Count"])
+        writer.writerow([timestamp, job_count])
+
 
 def fill_easy_apply_form_with_llm(page, file_id):
     try:
@@ -592,6 +561,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
