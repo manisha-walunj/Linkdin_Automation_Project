@@ -83,6 +83,8 @@ def get_answer_from_llm(question, file_id):
                 "content": (
                 f"You are a helpful assistant. Answer the following job application question "
                 f"based only on the resume content in the uploaded file.\n\n"
+                f"If the question is about eligibility (Yes/No), always answer either 'Yes' or 'No'.\n"
+                f"Only return '0' for numeric experience questions.\n"
                 f"If the question asks about years of experience with a specific skill or technology "
                 f"(e.g., Angular, Node.js), extract that number from the resume if present. "
                 f"Return a whole number between 0 and 30. If it's not mentioned, return 0.\n"
@@ -166,12 +168,99 @@ def extract_and_fill_form_fields_across_steps(page, file_id):
                         print(f"⏭️ Skipping already filled input: {label_text}")
                         return
 
-            elif tag == "select":
-                current_value = field.input_value().strip()
-                if current_value:
-                    print(f"⏭️ Skipping already selected dropdown: {label_text}")
-                    return
+            # elif tag == "select":
+            #     current_value = field.input_value().strip()
+            #     if current_value:
+            #         print(f"⏭️ Skipping already selected dropdown: {label_text}")
+            #         return
 
+            elif tag == "select":
+
+                try:
+
+                    selected_option = field.query_selector("option:checked")
+
+                    selected_text = selected_option.inner_text().strip().lower() if selected_option else ""
+
+                    # Only skip if it's a real selection, not a placeholder
+
+                    if selected_text not in ["", "select", "select an option", "choose", "choose an option", "none",
+                                             "n/a"]:
+
+                        print(f"⏭️ Skipping already selected dropdown: {label_text} (value: '{selected_text}')")
+
+                        return
+
+                    else:
+
+                        print(f"🟡 Will fill dropdown for: {label_text} (current value: '{selected_text}')")
+
+                except Exception as e:
+
+                    print(f"⚠️ Error checking dropdown value: {e}")
+
+
+
+            elif tag == "select":
+
+                try:
+
+                    # STEP 1: Skip if already selected with real value
+
+                    selected_option = field.query_selector("option:checked")
+
+                    selected_text = selected_option.inner_text().strip().lower() if selected_option else ""
+
+                    if selected_text not in ["", "select", "select an option", "choose", "choose an option", "none",
+                                             "n/a"]:
+
+                        print(f"⏭️ Skipping already selected dropdown: {label_text} (value: '{selected_text}')")
+
+                        return
+
+                    else:
+
+                        print(f"🟡 Will fill dropdown for: {label_text} (current value: '{selected_text}')")
+
+                    # STEP 2: Match the LLM answer to dropdown options
+
+                    options = field.query_selector_all("option")
+
+                    normalized_answer = answer.lower().strip()
+
+                    # 🔁 Fix: Convert '0' to 'no' if options include Yes/No
+
+                    option_texts = [opt.inner_text().strip().lower() for opt in options]
+
+                    if normalized_answer == "0" and "yes" in option_texts and "no" in option_texts:
+                        print("🔁 Interpreting '0' as 'No' for Yes/No dropdown")
+
+                        normalized_answer = "no"
+
+                    matched = False
+
+                    for opt in options:
+
+                        opt_text = opt.inner_text().strip().lower()
+
+                        opt_value = opt.get_attribute("value") or ""
+
+                        if normalized_answer in opt_text or opt_text in normalized_answer:
+                            field.select_option(opt_value)
+
+                            print(f"✅ Matched and selected dropdown option: {opt_text} ({opt_value})")
+
+                            matched = True
+
+                            break
+
+                    if not matched:
+                        print(f"❌ No matching dropdown option found for: '{answer}'")
+
+
+                except Exception as e:
+
+                    print(f"❌ Failed to select dropdown option '{answer}': {e}")
             elif tag == "textarea":
                 current_value = field.input_value().strip()
                 if current_value:
@@ -212,9 +301,24 @@ def extract_and_fill_form_fields_across_steps(page, file_id):
                         print(f"❌ Failed to fill input: {e}")
 
             elif tag == "select":
+                # try:
+                #     field.select_option(label=answer)
+                #     print(f"✅ Selected dropdown option: {answer}")
+                # except Exception as e:
+                #     print(f"❌ Failed to select dropdown option '{answer}': {e}")
                 try:
-                    field.select_option(label=answer)
-                    print(f"✅ Selected dropdown option: {answer}")
+                    options = field.query_selector_all("option")
+                    matched = False
+                    for opt in options:
+                        opt_text = opt.inner_text().strip().lower()
+                        opt_value = opt.get_attribute("value")
+                        if answer.lower() in opt_text or answer.lower() == opt_value.lower():
+                            field.select_option(opt_value)
+                            print(f"✅ Selected dropdown option: {opt_text} ({opt_value})")
+                            matched = True
+                            break
+                    if not matched:
+                        print(f"❌ No matching dropdown option found for: '{answer}'")
                 except Exception as e:
                     print(f"❌ Failed to select dropdown option '{answer}': {e}")
 
