@@ -1463,3 +1463,1855 @@ The selected candidate will be responsible for a mixture of SharePoint architect
 Experience in Installation and configuration in SQL Server 2005/2008/2012/2014/2016. 
 Extensively Involved in Installing, Configuring, Maintaining, Monitoring and Supporting of SharePoint Servers highly desirable."
 2025-06-03 15:17:07,1
+Python Developer,iXceed Solutions,India (Remote),"About the job
+
+Role - Python Developer
+
+Location - Ahmedabad, Noida, Pune, Bangalore, Hyderabad
+
+Type - Permanent
+
+Work Mode - Hybrid (2 days office, 3 days remote)
+
+
+
+
+Job Description:
+
+Key Responsibilities:
+
+Develop, test, and maintain robust and scalable backend applications using Python.
+Work with one or more Python frameworks such as Django, Flask, or FastAPI to build RESTful APIs and backend services.
+Design and manage relational databases (RDBMS) and ensure high performance and responsiveness.
+Collaborate with DevOps and Cloud teams to ensure smooth CI/CD workflows and cloud-native deployments.
+Implement and manage containerized applications using Docker and Kubernetes.
+Leverage AWS cloud services to develop and deploy applications in a secure and scalable manner.
+Participate in code reviews, technical discussions, and architecture planning sessions.
+Work closely with cross-functional teams including front-end developers, product managers, QA, and DevOps engineers.
+
+
+
+
+Mandatory Skills:
+
+Proficiency in Python programming language.
+Hands-on experience with at least one web framework: Django, Flask, or FastAPI.
+Strong working knowledge of relational databases (RDBMS) such as PostgreSQL or MySQL.
+Solid understanding of AWS and experience deploying applications in a cloud environment.
+Practical experience with Docker and Kubernetes for containerization and orchestration.
+Familiarity with CI/CD pipelines, build and deployment tools, and general DevOps practices."
+Senior Software Engineer (Golang & Python),iXceed Solutions,India (Remote),"About the job
+
+Job Title - Senior Software Engineer (Golang & Python)
+
+Job Location - Baner, Pune, Maharashtra
+
+
+
+
+What you’ll be doing
+
+Work on high-traffic SaaS services running at a global scale, serving hundreds of millions of requests per day and increasing
+Work on building highly available, zero downtime middleware and front-end products.
+Help build software that spans from the browser all the way down to analytics data pipelines - our engineers work to support a dedicated data science/blue watch team
+Work within an agile, cross-functional team (SWE, SRE, QE) to build out and own services and projects, from requirements + specs to release and maintenance
+Help with migrating from a monolithic system and AWS lambdas to a microservices-based architecture running on Kubernetes
+
+
+
+
+Need to have
+
+4+ years experience in a commercial environment using back-end programming languages - Python and GO
+2+ years of database (NoSQL and Relational) experience
+2+ years experience with microservices
+Experience with statistics, data analysis, data mining, machine learning, or other data-focused discipline.
+Experience with agile development (Scrum/Kanban)
+
+
+
+
+Nice to have
+
+Experience with implementing and maintaining CI/CD pipelines
+Experience with Docker/containers, and ideally container orchestration (e.g. Kubernetes)
+Basics of Micro Front End architecture."
+Openshift Engineer,IntraEdge,"Maharashtra, India (Remote)","About the job
+
+Website
+
+http://www.intraedge.com
+
+
+
+
+Job Title: DevOps Engineer – Openshift
+
+Location: Remote
+
+Experience: 4–8 years
+
+
+
+
+
+
+
+ Performing administration and operations of overall Red Hat OpenShift solutions for customers, including development of solution designs, implementation plans and documentation. 
+
+· Perform development of IT automation products and service offerings. Assesses the provided automation architecture and or proof of concept and selects best methods for implementation of said architecture and creates appropriate automated tests to validate functionality.
+
+· Perform assessment of workloads for fit into one of several cloud deployment form factors – IaaS, PaaS, Serverless Functions etc. and guides infrastructure teams in implementing creative solutions on public cloud infrastructure, as well as helps application teams to move to target form factor.
+
+· Evaluating and implementing orchestration, automation, and tooling solutions to ensure consistent processes and repetitive tasks are performed with the highest level of accuracy and reduced defects
+
+· Analyzing platform usage metrics to determine if platform needs to be expanded to meet the computational needs of existing and new hosted applications and, if so, planning and executing engineering tasks as required
+
+· Experience and good knowledge on Jenkins, GitHub Actions with demonstrated skills in creating CI/CD pipelines.
+
+· Experience with Docker containerization and clustering (Kubernetes, Docker, Helm, Open Shift, EKS experience). Knowledge on YML with ability to create Docker Files for different environments and resources.
+
+· Administering source code (GitHub/GitLab, etc.) & artifact/packages/images management (Nexus/JFrog, etc.) tools. 
+
+· Having knowledge on security scanning & DevSecOps SAST, DAST, SCA tools (Snyk, Sonatype, GitLab, Mend & etc.)
+
+· Hands-on experience in provisioning Infrastructure as Code (IaC).
+
+· Experience with Linux, Automation, scripting (ansible, bash, groovy)."
+Senior MERN Stack Developer (10+ years/ Telecom/ Electric),IntraEdge,"Maharashtra, India (Remote)","About the job
+
+Responsibilities:
+
+Design, develop, and maintain both front-end and back-end components of web applications
+Write clean, efficient, and maintainable code using languages such as JavaScript, HTML5, jQuery, React, Python, or Nodejs
+Build front-end applications through appealing visual design
+Develop and manage databases, ensuring data integrity and security
+Create and maintain RESTful and GraphQL APIs
+Implement JWT and OAuth for secure authentication and authorization
+Implement automated testing frameworks and conduct thorough testing
+Manage the deployment process, including CI/CD pipelines
+Work with development teams and product managers to create efficient software solutions
+Lead and mentor junior developers, providing guidance and support
+Oversee the entire software development lifecycle from conception to deployment.
+
+
+
+
+Good to have:
+
+Bachelor’s degree or higher in Computer Science or a related field
+Prior 10+ years of experience as a Full Stack Developer or similar role
+Experience developing web and mobile applications
+Experience with version control systems like Git
+Proficient in multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery, ReactJs, Angular, ASP.NET)
+Proficient in multiple back-end languages (e.g. C#, Python, .NET Core) and JavaScript frameworks (e.g. Node.js, Django)
+Knowledge of databases (e.g. SQL, MySQL, MongoDB), web servers (e.g. Apache), UI/UX design
+Experience with cloud platforms such as AWS, Azure, or Google Cloud
+Familiarity with containerization (Docker) and orchestration (Kubernetes)
+Understanding of software development principles and best practices
+Conduct regular code reviews to ensure code quality and adherence to standards
+Ability to work efficiently in a collaborative team environment
+Excellent problem-solving and analytical skills
+Experience with other JavaScript frameworks and libraries (e.g., Angular, Vue.js)
+Knowledge of DevOps practices and tools like Azure CI/CD, Jenkins, or GitLab CI
+Familiarity with data warehousing and ETL processes
+Experience with microservices architecture"
+Python Developer,Lingaro,India (Remote),"About the job
+
+Role: Python Backend Developer 
+
+Location: India - Remote
+
+
+
+
+About Lingaro:
+
+Lingaro Group is the end-to-end data services partner to global brands and enterprises. We lead our clients through their data journey, from strategy through development to operations and adoption, helping them to realize the full value of their data.
+
+Since 2008, Lingaro has been recognized by clients and global research and advisory firms for innovation, technology excellence, and the consistent delivery of highest-quality data services. Our commitment to data excellence has created an environment that attracts the brightest global data talent to our team.
+
+
+
+
+About Software Development Competency Center:
+
+Involves the use of web and back-end technologies, programming languages, frameworks, and tools to create unique custom applications that provide specific functionality to business users. In the context of Lingaro, such applications can improve the business processes of our stakeholders or realize specific domain goals, e.g. enabling B2B or B2C e-commerce
+
+
+
+
+Website:
+
+https://lingarogroup.com/ 
+
+
+
+
+Requirements:
+
+Minimum of 6 years of experience in Python backend development
+Previous experience with Flask, Fast API, GCP/Azure Cloud
+
+
+
+
+Independence in: 
+
+FastApi
+SQLModel
+PostgreSql
+NoSQL
+Cloud Function
+CloudSQL
+PubSub
+Docker
+
+
+
+
+ Tasks:
+
+Core Responsibilities of a Lead Backend Developer:
+
+Design, develop, and maintain backend applications and services
+Optimize application performance and scalability
+Collaborating with other team members, including front-end developers and project managers, to deliver high-quality web applications.
+Ensure application security and compliance
+Designing and implementing data storage solutions, including databases.
+Collaborate with frontend and UX teams to deliver a seamless application experience
+Mentor and train junior developers
+Stay abreast of the latest backend development technologies and trends
+Implement and maintain DevOps and CI/CD practices
+Adhere to coding standards and best practices
+Document code and application architecture
+Additional Responsibilities that May Be Required:
+Manage a team of backend developers
+Assist with architectural and design decisions
+Participate in strategic planning and decision-making
+Represent the engineering department in interactions with clients and stakeholders
+
+
+
+
+Why join us: 
+
+
+
+
+Stable employment. On the market since 2008, 1300+ talents currently on board in 7 global sites.
+100% remote.
+Flexibility regarding working hours.
+Full-time position
+Comprehensive online onboarding program with a “Buddy” from day 1.
+Cooperation with top-tier engineers and experts.
+Unlimited access to the Udemy learning platform from day 1.
+Certificate training programs. Lingarians earn 500+ technology certificates yearly.
+Upskilling support. Capability development programs, Competency Centers, knowledge sharing sessions, community webinars, 110+ training opportunities yearly.
+Grow as we grow as a company. 76% of our managers are internal promotions.
+A diverse, inclusive, and values-driven community.
+Autonomy to choose the way you work. We trust your ideas.
+Create our community together. Refer your friends to receive bonuses.
+Activities to support your well-being and health.
+Plenty of opportunities to donate to charities and support the environment.
+
+
+
+
+Please click on this link to submit your application"
+Python Developer,Lingaro,India (Remote),"About the job
+
+Job Title: Python Architect /Seniour Python Developer 
+
+Location: [ Remote]
+
+Experience: 12+ years
+
+Employment Type: [Full-time ]
+
+
+
+
+Primary Responsibilities:
+
+Architect Scalable Python-Based Systems: Design modular, maintainable, and efficient system architectures aligned with business goals.
+Hands-on Development: Actively contribute to core development tasks including coding, debugging, and performance optimization.
+Technical Leadership: Mentor team members, conduct code reviews, and enforce coding standards.
+API and Web Development: Design and implement secure, high-performance RESTful APIs and web applications using Flask.
+Data Processing & Analysis: Optimize data pipelines and workflows leveraging Pandas and BigQuery for complex data manipulation and analytics.
+Database Design & Optimization: Architect relational databases, craft complex SQL queries, and enhance performance at scale.
+Code Quality & Deployment: Define testing strategies (unit, integration, E2E), and implement CI/CD pipelines for seamless delivery.
+Cross-functional Collaboration: Engage with stakeholders, product teams, and other developers to align on technical and business goals.
+Technology Evaluation & Best Practices: Lead adoption of modern tools, frameworks, and architectural patterns.
+
+
+
+
+Primary Requirements:
+
+12+ years of hands-on experience in Python-based software development and automation.
+Deep knowledge of Python internals, design patterns, and best practices.
+Proven track record of architecting scalable, high-performing systems.
+Expert-level proficiency with Pandas for large-scale data processing and optimization.
+Strong experience building RESTful APIs and web apps using Flask.
+Advanced SQL skills and deep understanding of database design and tuning.
+Strong commitment to code quality, testing practices, and deployment automation (CI/CD).
+Familiarity with Angular for front-end integrations or full-stack workflows.
+
+
+
+
+Good to Have:
+
+Experience with Google BigQuery, Cloud Functions, and other GCP services.
+Familiarity with Lookerstudio or other data integration and visualization tools.
+Background in distributed systems or microservices architectures.
+Experience with infrastructure-as-code tools like Terraform.
+Exposure to event-driven architectures and message queues (e.g., Pub/Sub, Kafka).
+Working knowledge of Data Science / ML frameworks (e.g., scikit-learn, TensorFlow).
+
+
+
+
+Soft Skills:
+
+Excellent communication and documentation skills.
+Strong problem-solving mindset and business acumen.
+Ability to work independently and lead in a fast-paced environment."
+Lead Python Developer,Atyeti Inc,"Pune, Maharashtra, India (Hybrid)","About the job
+
+Job Title: Python Developer (Flask & R Programming)
+
+
+
+
+Job Summary:
+
+We are seeking a skilled Python Developer with expertise in Flask and R programming to join our team. The ideal candidate will be responsible for developing and maintaining web applications, building RESTful APIs, and leveraging R for data analysis and visualization.
+
+
+
+
+Responsibilities:
+
+Develop and maintain web applications using Flask.
+Design and implement RESTful APIs for seamless integration.
+Utilize R programming for data analysis, visualization, and statistical modeling.
+Collaborate with front-end developers to integrate user-facing elements.
+Optimize applications for performance, scalability, and security.
+Work with databases (SQL/NoSQL) for efficient data storage and retrieval.
+Debug, troubleshoot, and upgrade existing software.
+Implement data protection and security measures.
+Write clean, efficient, and reusable Python and R code.
+Stay updated with the latest technologies and best practices."
+Python Developer,Atyeti Inc,"Pune, Maharashtra, India (Hybrid)","About the job
+
+Title: Python Developer
+
+Exp - 10 Years
+
+ Location: India - Chennai, Pune, Mumbai
+
+ 
+
+Job Summary:
+
+We are seeking a skilled and motivated Python Developer to join our Enterprise SDLC team. In this role, you will contribute to the development and maintenance of tools and services that support enterprise software delivery, with a focus on SonarQube integration and datalake solutions. You will collaborate with multiple teams to ensure seamless integration, automation, and data flow.
+
+
+
+
+Key Responsibilities:
+
+Design, develop, test, and deploy Python-based applications and services.
+Integrations with tools such as SonarQube, CI/CD pipelines, Databricks, PowerBI and Web portals.
+Collaborate with DevOps platform teams to align development efforts.
+Write clean, maintainable, reliable, and efficient code following best practices.
+Troubleshoot, debug, and enhance existing systems and services.
+Participate in code reviews and contribute to team knowledge sharing.
+Maintain documentation for software functionality, architecture, and processes.
+
+
+
+
+Required Qualifications:
+
+Bachelor’s degree in Computer Science, Engineering, or a related field (or equivalent experience).
+Proven experience as a Python Developer (10+ years preferred).
+Experience with RESTful APIs and web services.
+Knowledge of databases (SQL and NoSQL), such as PostgreSQL, MySQL, or MongoDB.
+Experience with version control systems like Git.
+Strong problem-solving skills, attention to detail, and self motivation.
+
+
+
+
+Preferred Qualifications:
+
+Familiarity with DevOps tools and platforms (e.g. SonarQube, Jenkins, GitLab CI/CD, Azure DevOps).
+Familiarity with DataBricks or other datalakes.
+Experience with Azure Cloud platforms.
+Exposure to containerization (Docker) and orchestration (Kubernetes)."
+Python Analytics Tools Developer,Atyeti Inc,"Pune, Maharashtra, India (Hybrid)","About the job
+
+Mandatory Skills Description:
+
+
+
+
+
+
+
+Strong academic background in a quantitative field (computer science, mathematics, physics, engineering, etc)
+Proficiency in functional & object-oriented programming, especially Python
+Experience in full stack development, including frontend webapps and backend services
+Strong analytical and problem-solving skills, you like to figure out how things work
+Strong written and verbal communication skills in English, and the desire to work together with stakeholders
+Familiarity with Investment Banking, FinTech, or Financial Markets
+Ability to work independently in a fast-paced environment
+Software engineering background"
+2025-06-04 09:04:07,3
+Python Developer,ACL Digital,"Pune, Maharashtra, India (On-site)","About the job
+
+Greetings from TCS!!!
+
+TCS has been a great pioneer in feeding the fire of Techies like you. We are a global leader in the technology arena and there’s nothing that can stop us from growing together.
+
+Your role is of key importance, as it lays down the foundation for the entire project.
+
+
+
+
+We are conducting a Walk-In Drive on 19-Apr-25. If you are interested to join the drive, please revert me back with your updated resume on shubha.s3@tcs.com.
+
+
+
+
+Role: Python Developer (API)
+
+Experience: 4-10 years
+
+Walk-In Drive: Location: Pune-Shahydri Park
+
+
+
+
+Regards,
+
+Shubhangi"
+2025-06-04 09:17:38,1
+Python Developer,ACL Digital,"Pune, Maharashtra, India (On-site)","About the job
+
+Details
+
+1Role - Tech Lead
+
+2Skill Set (Primary Technology) - Python, SQL, Git, AWS (Lambda, ECS,EC2 S3)
+
+3Desired Experience Range -7 -10 Years
+
+4Location of Requirement- Pune/Chennai/(Pan India)
+
+5Proficiency Level -E3
+
+
+
+
+Desired Competencies (Technical/Behavioral Competency)
+
+Must-Have**
+
+
+
+
+Good knowledge in Python
+
+Good knowledge in Rest API development
+
+Good knowledge in AWS serveres
+
+Good Knowledge in Lambda, ECS, EC2, S3
+
+Good Knowledge in Agile concept
+
+Good Knowledge in Problem solving
+
+Good Knowledge in SQL.
+
+Good-to-Have
+
+Good knowledge Git
+
+Good Knowledge in PLSQL
+
+Good knowledge in Vue JS.
+
+Good knowlwdge in AWS networking.
+
+Good Knowledge in Unit Testing using pytest
+
+
+
+
+SN
+
+Responsibility of / Expectations from the Role 
+
+1Develop Python code as per requirement
+
+2Develop Rest API as per Requirement
+
+3Work in Agile team"
+2025-06-04 09:27:17,0
+2025-06-04 10:18:36,0
+Python Developer,TIGI HR,India (Remote),"About the job
+
+Job Opening: Backend Engineer – Python & Microservices
+
+Location: Remote | Employment Type: Full-time
+
+Experience: 7+ years
+
+
+
+
+We’re seeking a Backend Engineer with deep experience in Python, microservices, and API design to join a high-impact team building scalable internal tools and enterprise SaaS platforms. You’ll work on cloud-native services, PoC development, and collaborate across product, DevOps, and engineering teams.
+
+
+
+
+Key Responsibilities
+
+Design and develop scalable microservices using Python (Flask, FastAPI, Django)
+Build and maintain production-grade RESTful APIs and asynchronous background jobs
+Architect modular systems and participate in PoC and microservice decomposition
+Design relational and NoSQL databases: PostgreSQL, MongoDB, DynamoDB
+Implement distributed data pipelines using Kafka, RabbitMQ, SQS
+Ensure best practices in logging, security, and observability (Grafana, Datadog, CloudWatch)
+Deploy in cloud environments (AWS preferred), leveraging Docker, Kubernetes, EKS
+Contribute to CI/CD workflows and infrastructure as code (Terraform, GitHub Actions)
+
+
+
+
+Key Skills & Requirements
+
+5–7+ years of backend development experience
+Expertise in Python, microservices, and API performance/security
+Hands-on with Docker, Kubernetes, and cloud platforms (AWS preferred)
+Proficient in SQL & NoSQL databases
+Familiar with CI/CD tools, Terraform, and event-driven architectures
+Strong communication skills and ownership mindset
+
+
+
+
+Preferred Qualifications
+
+Degree in Computer Science or related field
+Certifications in Cloud Architecture or System Design
+Experience integrating with systems like Zendesk, Openfire, or ticketing/chat tools"
+"Senior Software Engineer – Python, AWS",EPAM Systems,"Pune, Maharashtra, India (On-site)","About the job
+
+We are currently seeking a Senior Python Developer to join our team for an exciting project that involves designing and building RESTful APIs for seamless communication between different components.
+
+In this role, you will be responsible for developing and maintaining microservices architecture using containerization tools such as Docker, AWS ECS, and ECR. Additionally, you will be required to demonstrate solutions to cross-functional teams and take ownership of the scope of work for successful project delivery.
+
+Responsibilities
+
+
+
+Develop and maintain microservices architecture using containerization tools such as Docker, AWS ECS, and ECR
+Design and build RESTful APIs for seamless communication between different components
+Present and organize demo sessions to demonstrate solutions to cross-functional teams
+Collaborate with cross-functional teams for successful project delivery
+Take ownership of the scope of work for successful project delivery
+Ensure consistency and scalability of applications and dependencies into containers
+
+
+
+Requirements
+
+
+
+5-8 years of experience in software development using Python
+Proficient in AWS services such as Lambda, DynamoDB, CloudFormation, and IAM
+Strong experience in designing and building RESTful APIs
+Expertise in microservices architecture and containerization using Docker, AWS ECS, and ECR
+Ability to present and organize demo sessions to demonstrate solutions
+Excellent communication skills and ability to collaborate with cross-functional teams
+Strong sense of responsibility and ownership over the scope of work
+
+
+
+Nice to have
+
+
+
+Experience in DevOps tools such as Jenkins and GitLab for continuous integration and deployment
+Familiarity with NoSQL databases such as MongoDB and Cassandra
+Experience in data analysis and visualization using Python libraries such as Pandas and Matplotlib"
+2025-06-04 10:46:51,1
+Lead Python engineer,Staffington Consulting,India (Remote),"About the job
+
+The role is with one of the leading product engineering company. 
+
+ONLY IMMEDIATE JOINERS (max 15 days notice) will be considered.
+
+
+
+
+Experience – overall 6+ years and relevant 4+ years experience into : Python + PostgreSQL + AWS (with exposure in Lambda)
+
+
+
+
+Skills required : Python, AWS Services, PostgreSQL, AWS Aurora, Lambda, AWS API Gateway, AWS Step functions
+
+
+
+
+Work mode will be remote."
+Python Developer,Staffington Consulting,India (Remote),"About the job
+
+About Company : They balance innovation with an open, friendly culture and the backing of a long-established parent company, known for its ethical reputation. We guide customers from what’s now to what’s next by unlocking the value of their data and applications to solve their digital challenges, achieving outcomes that benefit both business and society.
+
+
+
+
+· Job Title: Python Developer
+
+
+
+
+· Location: Pune
+
+
+
+
+· Experience: 5+ yrs
+
+
+
+
+· Job Type : Contract to hire.
+
+
+
+
+· Notice Period:- Immediate joiners.
+
+
+
+
+Job Description:
+
+
+
+
+Backend developer with Python skill along with no SQL (MongoDB/Document DB)
+
+Writing and maintaining efficient reusable and reliable code
+
+Good experience in working with NO SQL
+
+Strong API Design and Implementation
+
+Hands on Performance Optimization
+
+Familiar with Python Frameworks(Fast API) and Libraries
+
+Good hands on in Server-side Development
+
+Collaborate with front-end developers, designers, and other stakeholders
+
+Strong communication"
+Python Django developer,Wipro,"Pune, Maharashtra, India (Hybrid)","About the job
+
+Position: Python Developer
+
+
+
+
+Experience Range: 5 Yrs. to 8 Yrs.
+
+
+
+
+Work Location(s): Pune
+
+
+
+
+Academic Qualification: BE / B.Tech / MCA / M.Tech / ME / M.Sc (CS or similar field) / MCA / MS (CS or similar field)
+
+
+
+
+We are looking for professionals with strong Development experience in Python ( Python ,Django, API, ) Linux Required 
+
+
+
+
+Professional and Technical Expertise:
+
+Should have 5+ yrs of experience on Python development.
+
+
+
+
+
+
+
+Looking for Immediate Joiners"
+Python Developer,Wipro,"Pune, Maharashtra, India (Hybrid)","About the job
+
+Dear Candidate,
+
+ 
+
+Greetings from Tata Consultancy Services!
+
+ 
+
+TCS has always been in the spotlight for being adept in ""the next big technologies"" What we can offer you is a space to explore varied technologies and quench your techie soul.
+
+
+
+
+Role: Senior Python Developer
+
+Desired Experience Range: 4-8 years
+
+Location of Requirement: Pune/Bangalore
+
+
+
+
+Desired Competencies (Technical/Behavioral Competency)
+
+Must-Have: Project experience in development using Python language script · Project experience in SQL development
+
+Good-to-Have: Attitude to learn new technologies depending on Project need. · Knowledge of Agile and tools like JIRA, Jenkins · Knowledge of Insurance domain (Annuities) · Knowledge of AWS deployment · Worked on CI/CD implementation · Worked on a version control tool · Exposure to SQL
+
+
+
+
+SN Responsibility of / Expectations from the Role
+
+1 Should be able to develop code using Python.
+
+2 Experience of working directly with IT and Business stakeholders
+
+3 Experience in requirement gathering, designing and solutioning
+
+
+
+
+Eligibility Criteria:
+
+Minimum 15 years of full-time education (10th + 12th + 3 Years of Graduation)."
+2025-06-04 12:51:01,1
+Senior Software Engineer,Prometteur Solutions Pvt. Ltd.,"Pune, Maharashtra, India (On-site)","About the job
+
+Job Description:
+
+The next evolution of AI-powered cyber defense is here.
+
+With the rise of cloud and modern technologies, organizations struggle with the vast amount of data and thereby security alerts generated by their existing security tools. Cyberattacks continue to get more sophisticated and harder to detect in the sea of alerts and false positives. According to the Forrester 2023 Enterprise Breach Benchmark Report, a security breach costs organizations an average of $3M and takes organizations over 200 days to investigate and respond.
+
+
+
+
+AiStrike’s platform aims to reduce the time to investigate and respond to threats by over 90%. Our approach is to leverage the power of AI and machine learning to adopt an attacker mindset to prioritize and automate cyber threat investigation and response. The platform reduces alerts by 100:5 and provides detailed context and link analysis capabilities to investigate the alert. The platform also provides collaborative workflow and no code automation to cut down the time to respond to threats significantly.
+
+
+
+
+If you have the desire to join the next evolution of cyber defense, are willing to work hard and learn fast, and be part of building something special, this is the company for you. We are seeking a passionate and experienced Python and Java engineer to join our growing team and play a key role in building and maintaining scalable, secure, and performant backend systems.
+
+
+
+
+Roles and Responsibilities:
+
+Design, develop, and implement secure and robust backend web applications using Python, Java, and relevant frameworks (e.g., Flask, FastAPI, Spring Boot).
+Leverage microservices architecture deployed in Kubernetes for enhanced scalability and performance.
+Utilize expertise in Docker containers to package and deploy applications efficiently.
+Demonstrate strong cloud computing experience with AWS, Azure, Google Cloud, or similar platforms.
+Design and build connector frameworks for seamless integration with security and cloud platforms.
+Work with various database systems (SQL, NoSQL) and apply data modeling practices effectively.
+Implement best practices in software development, design patterns, and security principles.
+Automate tasks and processes to improve efficiency and reduce manual effort.
+Collaborate effectively with cross-functional teams (backend, frontend, DevOps).
+Identify and proactively address security challenges within the systems.
+Continuously learn and stay updated with the latest trends and technologies in the Python, Java, and microservices ecosystems.
+Contribute to DevOps practices and tools (Docker, Kubernetes, CI/CD pipelines).
+Leverage experience with Neo4j or similar graph databases.
+
+
+
+
+
+
+
+Skills and Qualifications:
+
+5+ years of experience as a Python and Java engineer with a solid understanding of the languages and best practices.
+Extensive experience with frameworks like Flask, FastAPI, and Spring Boot for building web applications.
+Deep familiarity with microservices architecture and deployment in Kubernetes.
+Proficient in Docker containerization and container orchestration tools.
+Proven experience with cloud platforms like AWS, Azure, Google Cloud, or similar.
+Experience building connector frameworks for security and cloud integrations.
+Strong knowledge of SQL and NoSQL databases, along with data modeling techniques.
+Deep understanding of software development principles, design patterns, and security best practices.
+Proficiency in problem-solving and addressing security challenges.
+Excellent communication and collaboration skills.
+Self-motivated, results-oriented, and eager to learn.
+Ability to work effectively in a fast-paced, collaborative environment.
+Strong problem-solving and analytical skills.
+Full-stack skills like UI development in ReactJS or Next.js are preferred
+
+
+
+
+AiStrike is committed to providing equal employment opportunities. All qualified applicants and employees will be considered for employment and advancement without regard to race, color, religion, creed, national origin, ancestry, sex, gender, gender identity, gender expression, physical or mental disability, age, genetic information, sexual or affectional orientation, marital status, status regarding public assistance, familial status, military or veteran status or any other status protected by applicable law."
+2025-06-04 12:58:07,0
+"Lead Software Engineer - Python, AWS",Prometteur Solutions Pvt. Ltd.,"Pune, Maharashtra, India (On-site)","About the job
+
+We are looking for a highly experienced Lead Software Engineer with a strong background in Python and AWS to join our team. As a Lead Software Engineer, you will be responsible for designing, developing, and maintaining software applications that meet customer needs and requirements. You will also be responsible for leading a team of developers and collaborating with cross-functional teams to ensure successful project delivery.
+
+Responsibilities
+
+
+
+Design, develop, and maintain software applications that meet customer needs and requirements
+Lead a team of developers and collaborate with cross-functional teams to ensure successful project delivery
+Create technical designs and documentation to support development and maintenance of software applications
+Participate in code reviews and ensure code quality and standards are met
+Design and build APIs for seamless communication between different components
+Present and organize demo session to demonstrate solutions
+Provide technical leadership and mentoring to team members
+
+
+
+Requirements
+
+
+
+8-12 years of experience in software engineering
+Strong expertise in Python core, including decorators and other language features
+Experience with AWS services, including Lambda, DynamoDB, CloudFormation, and IAM
+Expertise in designing and building RESTful APIs for seamless communication between different components
+Proficiency with Microservices Architecture and Containerization, including Docker, AWS ECS, and ECR
+Experience in presenting and organizing demo sessions to demonstrate solutions
+Strong communication and collaboration skills to work with cross-functional teams
+Ability to take responsibility and ownership over scope of work and get things done
+B2+ English level proficiency"
+Senior Software Engineer,Prometteur Solutions Pvt. Ltd.,"Pune, Maharashtra, India (On-site)","About the job
+
+Job Description:
+
+The next evolution of AI-powered cyber defense is here.
+
+With the rise of cloud and modern technologies, organizations struggle with the vast amount of data and thereby security alerts generated by their existing security tools. Cyberattacks continue to get more sophisticated and harder to detect in the sea of alerts and false positives. According to the Forrester 2023 Enterprise Breach Benchmark Report, a security breach costs organizations an average of $3M and takes organizations over 200 days to investigate and respond.
+
+
+
+
+AiStrike’s platform aims to reduce the time to investigate and respond to threats by over 90%. Our approach is to leverage the power of AI and machine learning to adopt an attacker mindset to prioritize and automate cyber threat investigation and response. The platform reduces alerts by 100:5 and provides detailed context and link analysis capabilities to investigate the alert. The platform also provides collaborative workflow and no code automation to cut down the time to respond to threats significantly.
+
+
+
+
+If you have the desire to join the next evolution of cyber defense, are willing to work hard and learn fast, and be part of building something special, this is the company for you. We are seeking a passionate and experienced Python and Java engineer to join our growing team and play a key role in building and maintaining scalable, secure, and performant backend systems.
+
+
+
+
+Roles and Responsibilities:
+
+Design, develop, and implement secure and robust backend web applications using Python, Java, and relevant frameworks (e.g., Flask, FastAPI, Spring Boot).
+Leverage microservices architecture deployed in Kubernetes for enhanced scalability and performance.
+Utilize expertise in Docker containers to package and deploy applications efficiently.
+Demonstrate strong cloud computing experience with AWS, Azure, Google Cloud, or similar platforms.
+Design and build connector frameworks for seamless integration with security and cloud platforms.
+Work with various database systems (SQL, NoSQL) and apply data modeling practices effectively.
+Implement best practices in software development, design patterns, and security principles.
+Automate tasks and processes to improve efficiency and reduce manual effort.
+Collaborate effectively with cross-functional teams (backend, frontend, DevOps).
+Identify and proactively address security challenges within the systems.
+Continuously learn and stay updated with the latest trends and technologies in the Python, Java, and microservices ecosystems.
+Contribute to DevOps practices and tools (Docker, Kubernetes, CI/CD pipelines).
+Leverage experience with Neo4j or similar graph databases.
+
+
+
+
+
+
+
+Skills and Qualifications:
+
+5+ years of experience as a Python and Java engineer with a solid understanding of the languages and best practices.
+Extensive experience with frameworks like Flask, FastAPI, and Spring Boot for building web applications.
+Deep familiarity with microservices architecture and deployment in Kubernetes.
+Proficient in Docker containerization and container orchestration tools.
+Proven experience with cloud platforms like AWS, Azure, Google Cloud, or similar.
+Experience building connector frameworks for security and cloud integrations.
+Strong knowledge of SQL and NoSQL databases, along with data modeling techniques.
+Deep understanding of software development principles, design patterns, and security best practices.
+Proficiency in problem-solving and addressing security challenges.
+Excellent communication and collaboration skills.
+Self-motivated, results-oriented, and eager to learn.
+Ability to work effectively in a fast-paced, collaborative environment.
+Strong problem-solving and analytical skills.
+Full-stack skills like UI development in ReactJS or Next.js are preferred
+
+
+
+
+AiStrike is committed to providing equal employment opportunities. All qualified applicants and employees will be considered for employment and advancement without regard to race, color, religion, creed, national origin, ancestry, sex, gender, gender identity, gender expression, physical or mental disability, age, genetic information, sexual or affectional orientation, marital status, status regarding public assistance, familial status, military or veteran status or any other status protected by applicable law."
+2025-06-04 13:04:41,1
+Linux Developer experience:-6-8yrs,EPAM Systems,"Pune, Maharashtra, India (On-site)","About the job
+
+Design, develop, and maintain embedded software solutions using C and C++.
+Develop and integrate microservices, preferably using EdgeX Foundry framework.
+Apply object-oriented programming principles and best practices in system design.
+Write and maintain scripts/tools using Python for testing, automation, or data processing.
+Work with data structures and algorithms to optimize performance and resource usage.
+Interface with industrial protocols such as Ethernet, Modbus, BACnet, and REST APIs.
+Enable cloud connectivity using IoT protocols such as MQTT, and integrate with cloud platforms.
+Collaborate with cross-functional teams to gather requirements, design software architecture, and deliver reliable software solutions.
+Participate in code reviews, debugging, and performance tuning of embedded systems.
+
+Required Skills & Qualifications:
+
+Strong proficiency in Embedded C and C++ programming.
+Solid understanding of Object-Oriented Programming (OOP) concepts.
+Experience with Python scripting and automation tasks.
+Good grasp of data structures and algorithms.
+Hands-on experience with Microservices development, preferably using EdgeX or similar frameworks.
+Understanding of industrial communication protocols like Ethernet, Modbus, BACnet, etc.
+Familiarity with REST APIs and IoT/cloud connectivity protocols such as MQTT.
+Experience in developing software for embedded Linux or real-time operating systems (RTOS) is a plus.
+Excellent problem-solving and debugging skills.
+Strong communication and collaboration abilities.
+
+Preferred Qualifications:
+
+Bachelor’s or Master’s degree in Computer Science, Electronics, Electrical Engineering, or a related field.
+Experience with Docker, Kubernetes, or containerized deployments is a plus.
+Knowledge of cloud platforms such as AWS, Azure, or Google Cloud is desirable.
+Exposure to CI/CD tools and agile development environments."
+Senior Software Engineer,EPAM Systems,"Pune, Maharashtra, India (On-site)","About the job
+
+Job Description:
+
+The next evolution of AI-powered cyber defense is here.
+
+With the rise of cloud and modern technologies, organizations struggle with the vast amount of data and thereby security alerts generated by their existing security tools. Cyberattacks continue to get more sophisticated and harder to detect in the sea of alerts and false positives. According to the Forrester 2023 Enterprise Breach Benchmark Report, a security breach costs organizations an average of $3M and takes organizations over 200 days to investigate and respond.
+
+
+
+
+AiStrike’s platform aims to reduce the time to investigate and respond to threats by over 90%. Our approach is to leverage the power of AI and machine learning to adopt an attacker mindset to prioritize and automate cyber threat investigation and response. The platform reduces alerts by 100:5 and provides detailed context and link analysis capabilities to investigate the alert. The platform also provides collaborative workflow and no code automation to cut down the time to respond to threats significantly.
+
+
+
+
+If you have the desire to join the next evolution of cyber defense, are willing to work hard and learn fast, and be part of building something special, this is the company for you. We are seeking a passionate and experienced Python and Java engineer to join our growing team and play a key role in building and maintaining scalable, secure, and performant backend systems.
+
+
+
+
+Roles and Responsibilities:
+
+Design, develop, and implement secure and robust backend web applications using Python, Java, and relevant frameworks (e.g., Flask, FastAPI, Spring Boot).
+Leverage microservices architecture deployed in Kubernetes for enhanced scalability and performance.
+Utilize expertise in Docker containers to package and deploy applications efficiently.
+Demonstrate strong cloud computing experience with AWS, Azure, Google Cloud, or similar platforms.
+Design and build connector frameworks for seamless integration with security and cloud platforms.
+Work with various database systems (SQL, NoSQL) and apply data modeling practices effectively.
+Implement best practices in software development, design patterns, and security principles.
+Automate tasks and processes to improve efficiency and reduce manual effort.
+Collaborate effectively with cross-functional teams (backend, frontend, DevOps).
+Identify and proactively address security challenges within the systems.
+Continuously learn and stay updated with the latest trends and technologies in the Python, Java, and microservices ecosystems.
+Contribute to DevOps practices and tools (Docker, Kubernetes, CI/CD pipelines).
+Leverage experience with Neo4j or similar graph databases.
+
+
+
+
+
+
+
+Skills and Qualifications:
+
+5+ years of experience as a Python and Java engineer with a solid understanding of the languages and best practices.
+Extensive experience with frameworks like Flask, FastAPI, and Spring Boot for building web applications.
+Deep familiarity with microservices architecture and deployment in Kubernetes.
+Proficient in Docker containerization and container orchestration tools.
+Proven experience with cloud platforms like AWS, Azure, Google Cloud, or similar.
+Experience building connector frameworks for security and cloud integrations.
+Strong knowledge of SQL and NoSQL databases, along with data modeling techniques.
+Deep understanding of software development principles, design patterns, and security best practices.
+Proficiency in problem-solving and addressing security challenges.
+Excellent communication and collaboration skills.
+Self-motivated, results-oriented, and eager to learn.
+Ability to work effectively in a fast-paced, collaborative environment.
+Strong problem-solving and analytical skills.
+Full-stack skills like UI development in ReactJS or Next.js are preferred
+
+
+
+
+AiStrike is committed to providing equal employment opportunities. All qualified applicants and employees will be considered for employment and advancement without regard to race, color, religion, creed, national origin, ancestry, sex, gender, gender identity, gender expression, physical or mental disability, age, genetic information, sexual or affectional orientation, marital status, status regarding public assistance, familial status, military or veteran status or any other status protected by applicable law."
+2025-06-04 13:31:03,1
+Python Developer,Tata Consultancy Services,"Pune, Maharashtra, India (On-site)","About the job
+
+Dear Candidate,
+
+ 
+
+Greetings from Tata Consultancy Services!
+
+ 
+
+TCS has always been in the spotlight for being adept in ""the next big technologies"" What we can offer you is a space to explore varied technologies and quench your techie soul.
+
+
+
+
+Role: Senior Python Developer
+
+Desired Experience Range: 4-8 years
+
+Location of Requirement: Pune/Bangalore
+
+
+
+
+Desired Competencies (Technical/Behavioral Competency)
+
+Must-Have: Project experience in development using Python language script · Project experience in SQL development
+
+Good-to-Have: Attitude to learn new technologies depending on Project need. · Knowledge of Agile and tools like JIRA, Jenkins · Knowledge of Insurance domain (Annuities) · Knowledge of AWS deployment · Worked on CI/CD implementation · Worked on a version control tool · Exposure to SQL
+
+
+
+
+SN Responsibility of / Expectations from the Role
+
+1 Should be able to develop code using Python.
+
+2 Experience of working directly with IT and Business stakeholders
+
+3 Experience in requirement gathering, designing and solutioning
+
+
+
+
+Eligibility Criteria:
+
+Minimum 15 years of full-time education (10th + 12th + 3 Years of Graduation)."
+Python Engineer [short NP preferred],Tata Consultancy Services,"Pune, Maharashtra, India (On-site)","About the job
+
+Project Description:
+
+We are looking for an experienced technical developer to work for one of our client from banking industry. Project goal is to maintain and develop solutions focused on digital onboarding platform.
+
+
+
+
+Responsibilities:
+
+As a Python Developer, you will be responsible for designing, developing, and maintaining Python-based applications and services. You will collaborate with cross-functional teams to deliver high-quality software solutions that meet the needs of our business divisions.
+
+
+
+
+Mandatory Skills:
+
+• Proven experience of more than 4 years as a Python Developer or similar role.
+
+• Proficiency in Python and its frameworks such as Django or Flask.
+
+• Strong knowledge of back-end technologies and RESTful APIs.
+
+• Experience in Pandas, and knowledge of AI/ML libraries like TensorFlow, PyTorch, etc.
+
+• Experience of working on Kubernetes / OpenShift, Dockers, Cloud Native frameworks.
+
+• Experience with database technologies such as SQL, NoSQL, and ORM frameworks.
+
+• Familiarity with version control systems like Git.
+
+• Familiarity with Linux and Windows Operating Systems.
+
+• Knowledge of Shell scripting (Bash for Linux and PowerShell for Windows) will be advantageous.
+
+• Understanding of Agile methodologies and DevOps practices.
+
+• Excellent problem-solving skills and attention to detail.
+
+• Strong communication and collaboration skills.
+
+• Ability to work independently and as part of a team.
+
+• A degree in Computer Science, Engineering, or a related field is preferred.
+
+
+
+
+Nice-to-Have Skills:
+
+Experience in Agile Framework
+
+
+
+
+Languages:
+
+English: C1 Advanced"
+Python Developer - SDE-2,Tata Consultancy Services,"Pune, Maharashtra, India (On-site)","About the job
+
+Responsibilities
+
+• Lead the design, development, and deployment of critical backend features using Python and Django
+
+• Design and implement scalable and efficient database solutions using PostgreSQL
+
+Collaborate effectively with cross-functional teams (design, product, QA) to deliver high-quality software on time and within budget
+
+• Write clean, maintainable, well-documented, and testable code
+
+• Conduct code reviews and mentor junior engineers on best practices
+
+• Proactively identify and implement improvements to the codebase
+
+• Stay up-to-date on the latest technologies and best practices in backend development and cloud computing
+
+• (Plus) Leverage Google Cloud Platform (GCP) services to build, deploy, and manage scalable and reliable systems.
+
+
+
+
+Qualifications
+
+• Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent experience)
+
+• 3+ years of experience in software development
+
+• In-depth expertise in Python and Django
+
+• Solid understanding of object-oriented programming (OOP) concepts and design patterns
+
+• Proven experience with relational databases (PostgreSQL preferred)
+
+• Experience with building and maintaining APIs
+
+• Strong problem-solving and analytical skills
+
+• Excellent communication, collaboration, and leadership skills
+
+• A passion for building high-quality software and a continuous learner
+
+
+
+
+Benefits
+
+• Competitive salary and benefits package
+
+• Opportunity to work on challenging and impactful projects
+
+• Collaborative and supportive work environment
+
+• Continuous learning and development opportunities"
+Python Developer,Tata Consultancy Services,"Pune, Maharashtra, India (On-site)","About the job
+
+At Cavista, our mission is to empower organizations with the world’s best technology solutions. We ensure the highest level of client satisfaction through a global network of innovation, and our software solutions are custom-built to accommodate your domain and requirements. Through world-class consultation, innovative IT solutions and personalized client services, Cavista increases operational efficiency for organizations of all sizes.
+
+Cavista is searching for great talent. We are an open, agile environment, where transparent conversation ignites collaboration with a team of great thinkers. Everyone freely contributes, ideas override egos, and the best idea always wins. We embrace new technologies and pride ourselves on sustainable and quality code. In our world, opportunity paired with imagination is limitless and we build what others can only hope to dream. We build the best because we hire only the best! We’ve created an atmosphere allowing you to produce your best work, by catering to the creative.
+
+
+
+
+Who we are looking for
+
+An exceptional Engineer driven by creating groundbreaking technology to innovate the healthcare value chain. We are at the forefront of digital reinvention of healthcare, helping clients reimagine how advanced technology aids in the delivery of care in the home to patients and operational effectiveness to enterprises. This is an opportunity to join a dynamic team, using deep learning, neuro-linguistic programming (NLP), computer vision, chatbots, and robotics to help us improve various business outcomes and drive innovation.
+
+We seek problem-solvers to thrive in our environment by making a lasting impact on care model innovations, and digital transformation as we develop technology to make lives better.
+
+What you will experience…
+
+A fast-paced, collaborative team-oriented environment that encourages every one to bring their authentic self to work every day.
+Professional development for career growth and advancement
+
+Who we are...
+
+
+
+
+We do business differently, by empowering our team to create fresh ideas which impact lives everywhere. We don’t just dream it; we bring life- changing technology to healthcare impacting the way people work, learn and grow their business. Our edge does not come from our technology, it comes from our people. We work as one team with a common goal to create shared success benefiting everyone.
+
+
+
+
+What you will do…
+
+Work on functional design, process design (including scenario design, flow mapping), prototyping, testing, training, and defining support procedures, in collaboration with a diverse solutions delivery team
+Support our Solutions Delivery team in conducting assessments of the AI (Artificial Intelligence) and automation market and competitor landscape
+Collaborate with stakeholders and project teams supporting process, research and development to meet the needs of our AI strategy
+Possess a deep understanding of our business and collaborate with teams on how integrating AI capabilities can help lead to solutions
+Contribute to cross-functional teams in identifying and prioritizing key areas of our industry where AI solutions can drive significant business benefit
+Analyze and explain AI and machine learning (ML) solutions while setting and maintaining high ethical standards
+Knowledgeable of a broad range of technology, strategy, and policy and issues associated with AI in healthcare
+
+
+
+
+What you bring…
+
+Bachelor's or master's degree in computer science or related field
+Required 2-5 years of Experience in Python
+Experience with cloud environments
+Experience applying AI to practical and comprehensive technology solutions
+Experience with ML, deep learning, R, TensorFlow, Python, NLP,
+Knowledge of basic algorithms, object-oriented and functional design principles, and best-practice patterns
+Experience in REST API development, NoSQL database design, and RDBMS design and optimizations
+Experience with innovation accelerators is a plus
+Desire and ability to work effectively in an entrepreneurial and dynamic environment"
+2025-06-04 13:55:26,4
+Senior Software Engineer,CodersBrain,"Pune, Maharashtra, India (On-site)","About the job
+
+Job Description:
+
+The next evolution of AI-powered cyber defense is here.
+
+With the rise of cloud and modern technologies, organizations struggle with the vast amount of data and thereby security alerts generated by their existing security tools. Cyberattacks continue to get more sophisticated and harder to detect in the sea of alerts and false positives. According to the Forrester 2023 Enterprise Breach Benchmark Report, a security breach costs organizations an average of $3M and takes organizations over 200 days to investigate and respond.
+
+
+
+
+AiStrike’s platform aims to reduce the time to investigate and respond to threats by over 90%. Our approach is to leverage the power of AI and machine learning to adopt an attacker mindset to prioritize and automate cyber threat investigation and response. The platform reduces alerts by 100:5 and provides detailed context and link analysis capabilities to investigate the alert. The platform also provides collaborative workflow and no code automation to cut down the time to respond to threats significantly.
+
+
+
+
+If you have the desire to join the next evolution of cyber defense, are willing to work hard and learn fast, and be part of building something special, this is the company for you. We are seeking a passionate and experienced Python and Java engineer to join our growing team and play a key role in building and maintaining scalable, secure, and performant backend systems.
+
+
+
+
+Roles and Responsibilities:
+
+Design, develop, and implement secure and robust backend web applications using Python, Java, and relevant frameworks (e.g., Flask, FastAPI, Spring Boot).
+Leverage microservices architecture deployed in Kubernetes for enhanced scalability and performance.
+Utilize expertise in Docker containers to package and deploy applications efficiently.
+Demonstrate strong cloud computing experience with AWS, Azure, Google Cloud, or similar platforms.
+Design and build connector frameworks for seamless integration with security and cloud platforms.
+Work with various database systems (SQL, NoSQL) and apply data modeling practices effectively.
+Implement best practices in software development, design patterns, and security principles.
+Automate tasks and processes to improve efficiency and reduce manual effort.
+Collaborate effectively with cross-functional teams (backend, frontend, DevOps).
+Identify and proactively address security challenges within the systems.
+Continuously learn and stay updated with the latest trends and technologies in the Python, Java, and microservices ecosystems.
+Contribute to DevOps practices and tools (Docker, Kubernetes, CI/CD pipelines).
+Leverage experience with Neo4j or similar graph databases.
+
+
+
+
+
+
+
+Skills and Qualifications:
+
+5+ years of experience as a Python and Java engineer with a solid understanding of the languages and best practices.
+Extensive experience with frameworks like Flask, FastAPI, and Spring Boot for building web applications.
+Deep familiarity with microservices architecture and deployment in Kubernetes.
+Proficient in Docker containerization and container orchestration tools.
+Proven experience with cloud platforms like AWS, Azure, Google Cloud, or similar.
+Experience building connector frameworks for security and cloud integrations.
+Strong knowledge of SQL and NoSQL databases, along with data modeling techniques.
+Deep understanding of software development principles, design patterns, and security best practices.
+Proficiency in problem-solving and addressing security challenges.
+Excellent communication and collaboration skills.
+Self-motivated, results-oriented, and eager to learn.
+Ability to work effectively in a fast-paced, collaborative environment.
+Strong problem-solving and analytical skills.
+Full-stack skills like UI development in ReactJS or Next.js are preferred
+
+
+
+
+AiStrike is committed to providing equal employment opportunities. All qualified applicants and employees will be considered for employment and advancement without regard to race, color, religion, creed, national origin, ancestry, sex, gender, gender identity, gender expression, physical or mental disability, age, genetic information, sexual or affectional orientation, marital status, status regarding public assistance, familial status, military or veteran status or any other status protected by applicable law."
+2025-06-04 16:11:32,0
+2025-06-04 16:12:43,0
+Senior Software Engineer,CodersBrain,"Pune, Maharashtra, India (On-site)","About the job
+
+Job Description:
+
+The next evolution of AI-powered cyber defense is here.
+
+With the rise of cloud and modern technologies, organizations struggle with the vast amount of data and thereby security alerts generated by their existing security tools. Cyberattacks continue to get more sophisticated and harder to detect in the sea of alerts and false positives. According to the Forrester 2023 Enterprise Breach Benchmark Report, a security breach costs organizations an average of $3M and takes organizations over 200 days to investigate and respond.
+
+
+
+
+AiStrike’s platform aims to reduce the time to investigate and respond to threats by over 90%. Our approach is to leverage the power of AI and machine learning to adopt an attacker mindset to prioritize and automate cyber threat investigation and response. The platform reduces alerts by 100:5 and provides detailed context and link analysis capabilities to investigate the alert. The platform also provides collaborative workflow and no code automation to cut down the time to respond to threats significantly.
+
+
+
+
+If you have the desire to join the next evolution of cyber defense, are willing to work hard and learn fast, and be part of building something special, this is the company for you. We are seeking a passionate and experienced Python and Java engineer to join our growing team and play a key role in building and maintaining scalable, secure, and performant backend systems.
+
+
+
+
+Roles and Responsibilities:
+
+Design, develop, and implement secure and robust backend web applications using Python, Java, and relevant frameworks (e.g., Flask, FastAPI, Spring Boot).
+Leverage microservices architecture deployed in Kubernetes for enhanced scalability and performance.
+Utilize expertise in Docker containers to package and deploy applications efficiently.
+Demonstrate strong cloud computing experience with AWS, Azure, Google Cloud, or similar platforms.
+Design and build connector frameworks for seamless integration with security and cloud platforms.
+Work with various database systems (SQL, NoSQL) and apply data modeling practices effectively.
+Implement best practices in software development, design patterns, and security principles.
+Automate tasks and processes to improve efficiency and reduce manual effort.
+Collaborate effectively with cross-functional teams (backend, frontend, DevOps).
+Identify and proactively address security challenges within the systems.
+Continuously learn and stay updated with the latest trends and technologies in the Python, Java, and microservices ecosystems.
+Contribute to DevOps practices and tools (Docker, Kubernetes, CI/CD pipelines).
+Leverage experience with Neo4j or similar graph databases.
+
+
+
+
+
+
+
+Skills and Qualifications:
+
+5+ years of experience as a Python and Java engineer with a solid understanding of the languages and best practices.
+Extensive experience with frameworks like Flask, FastAPI, and Spring Boot for building web applications.
+Deep familiarity with microservices architecture and deployment in Kubernetes.
+Proficient in Docker containerization and container orchestration tools.
+Proven experience with cloud platforms like AWS, Azure, Google Cloud, or similar.
+Experience building connector frameworks for security and cloud integrations.
+Strong knowledge of SQL and NoSQL databases, along with data modeling techniques.
+Deep understanding of software development principles, design patterns, and security best practices.
+Proficiency in problem-solving and addressing security challenges.
+Excellent communication and collaboration skills.
+Self-motivated, results-oriented, and eager to learn.
+Ability to work effectively in a fast-paced, collaborative environment.
+Strong problem-solving and analytical skills.
+Full-stack skills like UI development in ReactJS or Next.js are preferred
+
+
+
+
+AiStrike is committed to providing equal employment opportunities. All qualified applicants and employees will be considered for employment and advancement without regard to race, color, religion, creed, national origin, ancestry, sex, gender, gender identity, gender expression, physical or mental disability, age, genetic information, sexual or affectional orientation, marital status, status regarding public assistance, familial status, military or veteran status or any other status protected by applicable law."
+2025-06-04 16:19:19,1
+2025-06-04 16:20:35,0
+"Lead Software Engineer (Python, GenAI, LLM)",EPAM Systems,"Pune, Maharashtra, India (On-site)","About the job
+
+We are seeking a skilled Lead Software Engineer to join our team and lead a project focused on developing GenAI applications using Large Language Models (LLMs) and Python programming.
+
+In this role, you will be responsible for designing and optimizing Al-generated text prompts to maximize effectiveness for various applications. You will also collaborate with cross-functional teams to ensure seamless integration of optimized prompts into the overall product or system. Your expertise in prompt engineering principles and techniques will allow you to guide models to desired outcomes and evaluate prompt performance to identify areas for optimization and iteration.
+
+Responsibilities
+
+
+
+Design, develop, test and refine AI-generated text prompts to maximize effectiveness for various applications
+Ensure seamless integration of optimized prompts into the overall product or system
+Rigorously evaluate prompt performance using metrics and user feedback
+Collaborate with cross-functional teams to understand requirements and ensure prompts align with business goals and user needs
+Document prompt engineering processes and outcomes, educate teams on prompt best practices and keep updated on the latest AI advancements to bring innovative solutions to the project
+
+
+
+Requirements
+
+
+
+7 to 12 years of relevant professional experience
+Expertise in Python programming including experience with Al/machine learning frameworks like TensorFlow, PyTorch, Keras, Langchain, MLflow, Promtflow
+2-5 years of working knowledge of NLP and LLMs like BERT, GPT-3/4, T5, etc. Knowledge of how these models work and how to fine-tune them
+Expertise in prompt engineering principles and techniques like chain of thought, in-context learning, tree of thought, etc.
+Knowledge of retrieval augmented generation (RAG)
+Strong analytical and problem-solving skills with the ability to think critically and troubleshoot issues
+Excellent communication skills, both verbal and written in English at a B2+ level for collaborating across teams, explaining technical concepts, and documenting work outcomes"
+Senior Software Engineer - Python,EPAM Systems,"Pune, Maharashtra, India (On-site)","About the job
+
+About Energy Exemplar 
+
+
+
+
+In an era where the world is rapidly advancing towards a cleaner future through decarbonization, stakeholders from across the entire energy value chain are having to navigate the complexities of the energy ecosystem. We seek to enable our customers to do so with confidence. 
+
+
+
+
+Our mission: Empowering Transformative Energy Decisions. 
+
+
+
+
+Founded in 1999 in Adelaide, Australia, Energy Exemplar’s PLEXOS® modeling and simulation software is trusted by innovative organizations across the globe. On one unified platform, stakeholders from across the entire energy value chain are revolutionizing the energy ecosystem and seamlessly planning for the future of energy with unprecedented clarity, speed, and innovation. 
+
+
+
+
+Our impact is global and is being recognized across the industry: 
+
+
+
+
+
+Finalist for the 2024 Reuters Global Energy Transition Awards in the 'Technologies of Change' category  
+
+
+
+
+
+
+Finalist for the 2024 Go:Tech Awards in the 'Most Innovative Use of Technology’ category 
+
+
+
+
+
+
+2022 USEA/USAID Corporate Volunteer of the Year  
+
+
+
+
+
+
+2022 Impact Award Winner for our impact on the energy industry and the current energy transition 
+
+
+
+
+
+At Energy Exemplar, we believe in empowering our people by offering flexibility in how, when, and where they work. This flexibility has been a cornerstone of our success, fueling significant growth over the years, with the company expanding at an impressive rate of approximately 30% year over year. We understand that the best results come when our team members can balance their professional and personal lives, so we support various working arrangements that help you thrive. 
+
+
+
+
+We don’t just celebrate the excellence of our products but champion the quality of our people. They own their outcomes and perform to their best – every day. whether you're working from home, in the office, or on the go. Our flexible work culture fosters innovation, collaboration, and trust, making it easier to stay engaged and connected, no matter where you are. That’s what makes us who we are and a great place to work. Our core values ‘Customer Success’, ‘One Global Team’, ‘Integrity and Ownership’ and ‘Innovation Excellence’ reflect the way we work and are always at the forefront of everything we do. 
+
+ 
+
+About the Role 
+
+
+
+
+Reporting to the Software Engineering Manager as a member of the Development team at IDC, the Principal Software Engineer is responsible for delivering quality and performant software and design to handle the vast array of use cases that our customers have today. This role is responsible for Developing Software Solutions by learning information needs, discussing with managers, studying systems flow, data usage, finding problem areas and coming up with solutions & following the software development lifecycle. 
+
+
+
+
+Responsibilities
+• Develop, test and maintain architectures, such as databases and large-scale processing systems using high-performance data pipeline.
+• Recommend and implement ways to improve data reliability, efficiency, and quality.
+• Identify performant features and make them universally accessible to our teams across EE.
+• Work together with data analysts and data scientists to wrangle the data and provide quality datasets and insights to business-critical decisions.
+• Take end-to-end responsibility for the development, quality, testing, and production readiness of the services you build.
+• Define and evangelize Data Engineering best standards and practices to ensure engineering excellence at every stage of the development cycle.
+• Act as a resident expert for data engineering, feature engineering, exploratory data analysis.
+
+
+
+
+Qualifications, Skills & Experiences
+
+
+
+
+5-8 years of experience in Python programming, Data structure & algorithm ETL Data pipeline, SQL 
+
+
+
+
+
+Experience in developing data pipelines for large-scale, complex datasets from varieties of data sources.
+
+
+Data Engineering expertise with strong experience working with Python, Beautiful Soup, and Web Scraping.
+
+
+Knowledge with cloud-based data technologies such as Azure Data Lake, Azure Data Factory, and Azure Data Bricks is optionally desirable.
+
+
+Moderate coding skills. SQL or similar is required. C# or other languages are strongly preferred.
+
+
+Knowledge of BigData, Data Warehouse, and related technologies.
+
+
+Good understanding of Apache Spark, implementation knowledge with Java or Python.
+
+
+Outstanding communication and collaboration skills. You can learn from and teach others.
+
+
+Strong drive for results. You have a proven record of shepherding experiments to create successful shipping products and services.
+
+
+ 
+
+Energy Exemplar is an equal opportunities employer and we value your unique identity and perspective. We are fully committed to providing and fostering a workplace that reflects the diversity of society. Bring your authentic self and help us build an inclusive world together! To support you in being the best version of yourself during the application and interview process, please let us know if you have any specific requirements."
+Python Backend Developer,EPAM Systems,We won’t show you this job again.,"About the job
+
+We seek an excellent Senior Python Backend Developer to join our team, responsible for developing and maintaining high-performance backend services to support a React application. You will build and optimize RESTful APIs, backend logic, and ensure scalability, reliability, and performance. Collaborating with cross-functional teams, you'll integrate features, troubleshoot and resolve issues to ensure high availability, and contribute to architecture design while improving code quality through reviews.
+
+
+
+
+What Were Looking For
+
+
+
+
+Excellent Python programming skills. This is a must for the role.
+Experience with Fast API is a plus, but not required; experience with other Python frameworks is also valuable.
+Strong understanding of RESTful API design and backend architecture.
+Solid knowledge of databases (SQL/NoSQL) and experience optimizing database queries.
+Experience with cloud technologies, preferably AWS, as well as Docker and CI/CD pipelines.
+Strong problem-solving skills, with the ability to debug and optimize complex systems.
+A proactive and collaborative mindset, with the ability to work effectively in agile teams.
+Excellent communication skills to explain technical concepts to both technical and non-technical stakeholders."
+Python + Golang developer,EPAM Systems,We won’t show you this job again.,"About the job
+
+Python + Golang developer: 100% Remote 
+
+ 
+
+Someone who is good with data structures, Algorithms and Git
+Need Build systems: Bazel and Maven experience.
+Looking 2-5 years of exp. With Python + Golang developer
+
+
+
+
+The project will focus on:
+
+Maintaining the existing systems, including fixing vulnerabilities, addressing customer issues, ensuring build health, handling compliance issues, and performing necessary upgrades
+Improving the build health, test quality, and simplifying systems for Edge Analytics, Edge API Monitoring, and the Internal Monitoring stack
+Performing migrations to better systems for Edge Analytics, Edge API Monitoring, and the Internal Monitoring stack
+Developing and executing a plan to deprecate Nucleus
+
+Responsibilities
+
+Maintaining the existing systems, including fixing vulnerabilities, addressing customer issues, ensuring build health, handling compliance issues, and performing necessary upgrades
+Improving the build health, test quality, and simplifying systems for Edge Analytics, Edge API Monitoring, and the Internal Monitoring stack
+Performing migrations to better systems for Edge Analytics, Edge API Monitoring, Nucleus, and the Internal Monitoring stack
+Developing and executing a plan to deprecate Nucleus
+Thorough testing and quality assurance of the changes
+Documentation of the changes for internal consumption and knowledge transfer
+Ongoing maintenance and support related to these activities
+
+In the initial 6 months, we want to start with bringing API Monitoring, Nucleus, and Internal Monitoring systems to a maintainable state, after that, Edge Analytics can also be worked on"
+2025-06-04 16:34:41,3
+Sr Software Engineer,YourMembership by Momentive Software,"Pune, Maharashtra, India (Hybrid)","About the job
+
+Sr Software Engineer
+
+
+
+
+About Us:
+
+
+
+
+Community Brands provides a connected network of solutions that enable mission-driven organizations to thrive. Our software powers non-profits, associations, and K-12 schools to engage the people they serve through programs and events, raise funds to enable their mission, and manage their financials and operations. Our family of brands are bound by a common purpose to serve the organizations that make our communities a better place to live. With over1,600 employees in the US, Canada, UK, Australia, India, and the Philippines, we know that our success is driven entirely by the people of Community Brands. Through professional opportunity, we strive to give each person a clear path to success and personal growth. We embrace diversity and believe that our differences in experience and perspective are the key to our sustained success.
+
+
+
+
+A Day in the Life
+
+The Sr. Software Engineer position is responsible for writing application code to contribute to the full lifecycle of development from concept to post-production support and maintenance of server / OS / desktop / web applications and services. This position will develop application code, contribute to version-controlled source code repositories and will manage assigned tasks to create measurable value and deliver software to market using industry recognized agile methodologies and best practices. This position will be located in our Pune Office.
+
+In this role candidate will:
+
+Develop application code according to requirements and assigned tasks
+Contribute to lifecycle Flow and value streams by following prescribed methodologies and best practices
+Mentor and coach junior development team members
+Maintain balance of business and technical acumen in decision making
+Follow source-code management and work item tracking best practices
+Contribute to the estimation process during planning exercises
+Provide consultation to development management team
+
+
+
+
+We'd love to chat if you have...
+
+
+
+
+Must-Have Skills:
+
+6+ years professional experience performing software development
+1+ years professional experience performing quality analysis tightly coupled to the software development process
+Expert knowledge with respect to the following:
+Visual C++, Modern C++ 
+C#, .NET (Framework, Standard and Core 6+)
+SQL Server (Fluent with stored procedures, functions, indexes, views, profiler, tracing)
+Web Services (gRPC, REST)
+ASP.NET, ASP.NET Core and Web API
+Unit and integration tests (MSTest, xUnit, NUnit, mocking)
+Expert knowledge of toolsets such as:
+Azure Pipelines
+Git
+Azure DevOps
+
+
+
+
+Nice to have skills:
+
+React / Angular
+Containers, Docker, Kubernetes
+PowerShell
+Application Telemetry 
+NuGet
+Postman or similar
+Swagger, Open API, GraphQL
+SDLC Methodologies:
+Agile, Scaled Agile
+
+
+
+
+Good People, Doing Good Things:
+
+
+
+
+Employees at Community Brands are techies and volunteers who strive to make the Company a great place to work. We dream big and are motivatedto help our customers use the technology we create to improve the world aroundus. And we look forwardto you being part of our story!
+
+Planned Paid Time Off
+Purpose DrivenCulture
+Work-life balance
+Passionate about Community Involvement
+Company Paid Parental Leave"
+Mobile Device Management Engineer,Applicantz,"Pune, Maharashtra, India (Hybrid)","About the job
+
+THIS IS A LONG TERM [12+ Months] CONTRACT POSITION WITH ONE OF THE LARGEST, GLOBAL, TECHNOLOGY LEADER. 
+
+
+
+
+Our large, Fortune client is ranked as one of the best companies to work with, in the world. The client fosters progressive culture, creativity, and a Flexible work environment. They use cutting-edge technologies to keep themselves ahead of the curve. Diversity in all aspects is respected. Integrity, experience, honesty, people, humanity, and passion for excellence are some other adjectives that define this global technology leader.
+
+
+
+
+Location: Pune (Hybrid)
+
+Shift: Rotational Shift (Includes Morning, Afternoon and Night Shift)
+
+
+
+
+Experience Level:
+
+3 - 5 years of overall experience with 3+ years of relevant experience in managing and supporting Devices such as Windows, Mac, and Mobiles via Intune and JAMF MDM's.
+Hands on experience in configuring deployment profile in Intune and JAMF.
+Hands on experience in device migration from On-premises to cloud.
+Good knowledge on Endpoint privilege management.
+Good knowledge of device security controls and operating systems. PC, Mac, and mobile device security configuration experience.
+Good communication skills, computer savvy in Outlook and Excel, enterprise working experience, and Agile methodology.
+Hands on Experience in Application Packaging and Deployment.
+Provide excellent customer service as this position will be working directly with users to resolve device enrolment \ configuration-related issues.
+High sense of urgency and effective communication skills to work with all levels of employees, management, and vendors to make independent decisions based on processes and procedures.
+Hands on Experience in handling tickets.
+
+
+
+
+Primary Skills (Must-have): Intune, Jamf, Application Packaging, Mac, Windows
+
+Secondary Skills (Good-to-have): Power Shell, Azure Automation, MS Graph API"
+Sr. DataBricks Engineer,Concord,"Pune, Maharashtra, India (Hybrid)","About the job
+
+Job Title: Senior Databricks Engineer
+
+Experience: 6+ years
+
+
+
+
+Job Summary
+
+We are looking for a Senior Databricks Engineer with deep experience in building scalable data pipelines, working on big data processing frameworks, and deploying enterprise-grade solutions on the Databricks Lakehouse Platform. The ideal candidate will work closely with data architects, analysts, and business stakeholders to transform data into actionable insights.
+
+Key Responsibilities
+
+Design, build, and maintain robust and scalable ETL/ELT pipelines on Databricks (PySpark/SQL).
+Leverage Delta Lake, Unity Catalog, and Databricks Workflows to manage data at scale.
+Develop and optimize data ingestion and transformation pipelines from various sources (e.g., APIs, databases, flat files).
+Collaborate with data scientists and BI teams to prepare and serve clean, production-ready datasets.
+Implement CI/CD pipelines and automated testing for data workflows using tools like DBT, GitHub Actions, or Azure DevOps.
+Work with cloud platforms (Azure, AWS, or GCP) and integrate with services like Azure Data Lake, S3, or BigQuery.
+Ensure data quality, security (RBAC), and compliance with governance frameworks.
+Troubleshoot production issues and implement monitoring and alerting.
+
+Required Skills
+
+6+ years of experience in Data Engineering roles.
+Strong expertise in Databricks (Spark, Delta Lake, Unity Catalog, Workflows).
+Proficient in PySpark, SQL, and Python scripting.
+Experience with CI/CD, dbt (core/cloud), and Airflow or other orchestration tools.
+Hands-on with at least one cloud platform – Azure (preferred), AWS, or GCP.
+Experience with data modeling (Star/Snowflake schemas) and data warehouse architecture.
+Familiar with monitoring tools, data testing frameworks, and data versioning.
+Excellent problem-solving, debugging, and communication skills."
+Senior Software Engineer,Concord,"Pune, Maharashtra, India (Hybrid)","About the job
+
+About Eximietas: 
+
+Eximietas Design is a leading technology consulting and solutions development firm specializing 
+
+in Chip design, Firmware & Embedded Software development, Cloud Computing, cybersecurity, 
+
+and AI/ML domains. Our success is anchored in the unparalleled expertise of our engineering 
+
+leadership team, who have collectively taped-out over 100+ chips and released countless 
+
+software solutions for renowned tech giants like Google, Cisco, Microsoft, Oracle, Uber, 
+
+Broadcom, and Sun. With a commitment to innovation and excellence, we deliver cutting-edge 
+
+solutions that empower businesses to thrive in the ever-evolving digital landscape. We are an 
+
+ISO 9001 and ISO 27001 certified company with development centers in the US and India. 
+
+
+
+
+Website link: https://www.eximietas.design 
+
+
+
+
+Role : Infra/Linux Sys admin Engineer 
+
+Location: Pune (Work from Office) 
+
+Experience: 6 Years - 8 Years 
+
+
+
+
+What you'll be doing: 
+
+
+
+
+ Support Infrastructure Team Operations queue working within our Infrastructure and 
+
+private Cloud Environments. 
+
+ Support DC and Cloud based Infrastructure system enrolments, deployments, 
+
+troubleshooting and operations 
+
+ Assist in roll-out and deployment of new development features aimed at supporting the 
+
+latest NVIDIA hardware and technologies. 
+
+ Work closely with world-class engineers, architects, technical product managers and 
+
+application developers setting the best strategies in place for a product launch. 
+
+ Defining and implementing full scale solutions for product onboarding into our hosted 
+
+and private cloud environments. 
+
+ Solve sophisticated problems involving multi-site deployments of NVIDIA products. 
+
+ Collaborate with multi-functional teams, including system engineering, software 
+
+engineering, mechanical/thermal engineering, operations, data center teams, external 
+
+vendors, and other partners to successfully deliver a reliable and robust platform from 
+
+concept to prototype to deployments. 
+
+ Directly contribute to the overall quality of deployments and improve time to market next 
+
+gen products.
+
+
+
+
+What we need to see: 
+
+
+
+
+ Bachelor's or Master's Degree in Computer Science, or equivalent experience. 
+
+ 6+ years of relevant experience. 
+
+ Strong Linux Administration and scripting (Bash/Python) skills. 
+
+ Experience with using/administrating Openstack as provisioning platform. 
+
+ Solid background on supporting private Cloud and HW operations across various 
+
+products like GPU, Tegra, Networking etc. 
+
+ Detailed understanding of HW system configurations, including BIOS, Compute, Storage 
+
+and Networking. 
+
+ Familiarity with Jenkins, Ansible and REST APIs. 
+
+ Strong technical skills and understanding of embedded systems, orchestration & 
+
+automation systems, data centers and cloud architecture, as well as excellent 
+
+communication and planning skills. 
+
+ Strong problem-solving ability and experience in product engineering/failure analysis and 
+
+debug/ HW or test design. 
+
+ A track record of quickly understanding new technologies outside of your domain 
+
+expertise and deploying systems in sophisticated configurations from hardware through 
+
+multiple layers of software in a fast-paced environment. 
+
+
+
+
+Ways to stand out from the crowd: 
+
+
+
+
+ Experience in large scale on-premise DC environments, for product bring ups. 
+
+ Operations Support managing Bug Queues and Support Tickets 
+
+ Background with supporting GPUs, embedded devices, Network switches. 
+
+ Experience with converged and hyper-converged hardware and servers. 
+
+ Strong background in Windows administration."
+2025-06-04 17:07:14,2
