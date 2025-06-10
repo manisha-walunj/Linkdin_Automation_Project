@@ -1,4 +1,3 @@
-####### Print Label and There answer into application_log.csv file ####################
 
 from datetime import datetime
 import time
@@ -7,6 +6,12 @@ import csv
 import os
 import requests
 from playwright.sync_api import sync_playwright
+import re
+
+# def normalize(text):
+#     return re.sub(r'[^\w\s]', '', text.strip().lower())
+def normalize(text):
+    return re.sub(r'\s+', ' ', re.sub(r'[^\w\s]', '', text.lower().strip()))
 
 #Load config.json
 with open("config.json", "r") as f:
@@ -29,6 +34,19 @@ api_token = config["OPENWEBUI_API_KEY"]
 USER_NAME = "Manisha Walunj"  # Change as needed
 # MODEL = "gemma3"
 
+MANUAL_ANSWER_FILE = "manual_answers.json"
+
+def load_manual_answers():
+    if os.path.exists(MANUAL_ANSWER_FILE):
+        with open(MANUAL_ANSWER_FILE, "r", encoding="utf-8") as f:
+            raw = json.load(f)
+            return {normalize(k): v for k, v in raw.items()}
+    return {}
+
+def save_manual_answers(answers_dict):
+    normalized_dict = {normalize(k): v for k, v in answers_dict.items()}
+    with open(MANUAL_ANSWER_FILE, "w", encoding="utf-8") as f:
+        json.dump(normalized_dict, f, ensure_ascii=False, indent=2)
 
 def upload_resume_get_file_id(RESUME_PATH):
     headers = {
@@ -73,13 +91,63 @@ def log_application_data(job_title, company_name, location, description, qna_pai
         ])
 
 
-def get_answer_from_llm(question, file_id):
+# def get_answer_from_llm(question, file_id):
+#     chat_headers = {
+#         "Authorization": f"Bearer {api_token}",
+#         "Accept": "application/json",
+#         "Content-Type": "application/json"
+#     }
+#
+#
+#     payload = {
+#         "model": OPENWEBUI_MODEL,
+#         "messages": [
+#             {
+#                 "role": "user",
+#                 "content": (
+#                 f"You are a helpful assistant. Answer the following job application question "
+#                 f"based only on the resume content in the uploaded file.\n\n"
+#                 f"If the question is about eligibility (Yes/No), always answer either 'Yes' or 'No'.\n"
+#                 f"Only return '0' for numeric experience questions.\n"
+#                 f"If the question asks about years of experience with a specific skill or technology "
+#                 f"(e.g., Angular, Node.js), extract that number from the resume if present. "
+#                 f"Return a whole number between 0 and 30. If it's not mentioned, return 0.\n"
+#                 f"If the question is about eligibility (Yes/No), answer only Yes or No.\n"
+#                 f"If unsure, answer 0 for years or No for eligibility.\n\n"
+#                 f"Resume:\n{resume_text}\n\n"
+#                 f"Question: {question}"
+# )
+#             }
+#         ],
+#         "files": [{"type": "file", "id": file_id}]
+#     }
+#
+#     response = requests.post(
+#         f"{OPENWEBUI_API}/api/chat/completions",
+#         headers=chat_headers,
+#         json=payload
+#     )
+#
+#     response.raise_for_status()
+#     return response.json()['choices'][0]['message']['content']
+
+
+def get_answer_from_llm(question, file_id, manual_answers):
+    normalized_question = normalize(question)
+
+    # Step 1: Check for manual answer
+    if normalized_question in manual_answers:
+        saved = manual_answers[normalized_question].strip()
+        if saved:
+            print(f"🧠 Reused manual answer for: '{question}'")
+            return saved
+
+    # Step 2: Call LLM
     chat_headers = {
         "Authorization": f"Bearer {api_token}",
         "Accept": "application/json",
         "Content-Type": "application/json"
     }
-
 
     payload = {
         "model": OPENWEBUI_MODEL,
@@ -87,31 +155,54 @@ def get_answer_from_llm(question, file_id):
             {
                 "role": "user",
                 "content": (
-                f"You are a helpful assistant. Answer the following job application question "
-                f"based only on the resume content in the uploaded file.\n\n"
-                f"If the question is about eligibility (Yes/No), always answer either 'Yes' or 'No'.\n"
-                f"Only return '0' for numeric experience questions.\n"
-                f"If the question asks about years of experience with a specific skill or technology "
-                f"(e.g., Angular, Node.js), extract that number from the resume if present. "
-                f"Return a whole number between 0 and 30. If it's not mentioned, return 0.\n"
-                f"If the question is about eligibility (Yes/No), answer only Yes or No.\n"
-                f"If unsure, answer 0 for years or No for eligibility.\n\n"
-                f"Resume:\n{resume_text}\n\n"
-                f"Question: {question}"
-)
+                    f"You are a helpful assistant. Answer the following job application question "
+                    f"based only on the resume content below.\n\n"
+                    f"If the question is about eligibility (Yes/No), always answer either 'Yes' or 'No'.\n"
+                    f"Only return '0' for numeric experience questions.\n"
+                    f"If the question is about years of experience with a specific skill or technology "
+                    f"(e.g., Angular, Node.js), extract that number from the resume if present. "
+                    f"Return a whole number between 0 and 30. If it's not mentioned, return 0.\n"
+                    f"If unsure, answer 0 for years or No for eligibility.\n\n"
+                    f"Resume:\n{resume_text}\n\n"
+                    f"Question: {question}"
+                )
             }
         ],
-        "files": [{"type": "file", "id": file_id}]
+        "temperature": 0.3
     }
 
-    response = requests.post(
-        f"{OPENWEBUI_API}/api/chat/completions",
-        headers=chat_headers,
-        json=payload
-    )
+    try:
+        response = requests.post(
+            f"{OPENWEBUI_API}/api/chat/completions",
+            headers=chat_headers,
+            json=payload
+        )
+        response.raise_for_status()
+        answer = response.json()['choices'][0]['message']['content'].strip()
 
-    response.raise_for_status()
-    return response.json()['choices'][0]['message']['content']
+        if answer.lower() in ["", "0", "no", "n/a"]:
+            manual = input(f"⚠️ LLM uncertain for: '{question}' — Please enter manually: ").strip()
+            if manual:
+                manual_answers[normalized_question] = manual
+                save_manual_answers(manual_answers)
+                print(f"✅ Using manual answer: '{manual}'")
+                time.sleep(1)
+                return manual
+        else:
+            return answer
+
+    except Exception as e:
+        print(f"❌ Error from LLM API: {e}")
+        if 'response' in locals():
+            print(f"❗ LLM API response text: {response.text}")
+        manual = input(f"⚠️ Failed to get LLM answer. Enter manually for '{question}': ").strip()
+        if manual:
+            manual_answers[normalized_question] = manual
+            save_manual_answers(manual_answers)
+            return manual
+        return ""
+
+
 
 def login_to_linkedin(page):
     page.goto("https://www.linkedin.com/login")
@@ -153,10 +244,11 @@ def search_jobs(page, job_title=TARGET_JOB_TITLE, job_location=TARGET_LOCATION):
         except Exception as e:
             print("Error entering job location:", e)
 
-def extract_and_fill_form_fields_across_steps(page, file_id):
+def extract_and_fill_form_fields_across_steps(page, file_id, manual_answers):
     print("\n📋 Extracting and filling form fields from all steps:")
     seen = set()
     qna_pairs = []
+
 
     def fill_field(field, label_text):
         try:
@@ -179,100 +271,6 @@ def extract_and_fill_form_fields_across_steps(page, file_id):
                         answer = current_value
                         is_prefilled = True
 
-            # elif tag == "select":
-            #     selected_option = field.query_selector("option:checked")
-            #     selected_text = selected_option.inner_text().strip() if selected_option else ""
-            #     if selected_text.lower() not in ["", "select", "choose", "none", "n/a"]:
-            #         print(f"⏭️ Skipping already selected dropdown: {label_text} (value: '{selected_text}')")
-            #         answer = selected_text
-            #         is_prefilled = True
-            elif tag == "select":
-
-                try:
-
-                    selected_option = field.query_selector("option:checked")
-
-                    selected_text = selected_option.inner_text().strip().lower() if selected_option else ""
-
-                    # Only skip if it's a real selection, not a placeholder
-
-                    if selected_text not in ["", "select", "select an option", "choose", "choose an option", "none",
-                                             "n/a"]:
-
-                        print(f"⏭️ Skipping already selected dropdown: {label_text} (value: '{selected_text}')")
-
-                        return
-
-                    else:
-
-                        print(f"🟡 Will fill dropdown for: {label_text} (current value: '{selected_text}')")
-
-                except Exception as e:
-
-                    print(f"⚠️ Error checking dropdown value: {e}")
-
-
-
-            elif tag == "select":
-
-                try:
-
-                    # STEP 1: Skip if already selected with real value
-
-                    selected_option = field.query_selector("option:checked")
-
-                    selected_text = selected_option.inner_text().strip().lower() if selected_option else ""
-
-                    if selected_text not in ["", "select", "select an option", "choose", "choose an option", "none",
-                                             "n/a"]:
-
-                        print(f"⏭️ Skipping already selected dropdown: {label_text} (value: '{selected_text}')")
-
-                        return
-
-                    else:
-
-                        print(f"🟡 Will fill dropdown for: {label_text} (current value: '{selected_text}')")
-
-                    # STEP 2: Match the LLM answer to dropdown options
-
-                    options = field.query_selector_all("option")
-
-                    normalized_answer = answer.lower().strip()
-
-                    # 🔁 Fix: Convert '0' to 'no' if options include Yes/No
-
-                    option_texts = [opt.inner_text().strip().lower() for opt in options]
-
-                    if normalized_answer == "0" and "yes" in option_texts and "no" in option_texts:
-                        print("🔁 Interpreting '0' as 'No' for Yes/No dropdown")
-
-                        normalized_answer = "no"
-
-                    matched = False
-
-                    for opt in options:
-
-                        opt_text = opt.inner_text().strip().lower()
-
-                        opt_value = opt.get_attribute("value") or ""
-
-                        if normalized_answer in opt_text or opt_text in normalized_answer:
-                            field.select_option(opt_value)
-
-                            print(f"✅ Matched and selected dropdown option: {opt_text} ({opt_value})")
-
-                            matched = True
-
-                            break
-
-                    if not matched:
-                        print(f"❌ No matching dropdown option found for: '{answer}'")
-
-                except Exception as e:
-
-                    print(f"❌ Failed to select dropdown option '{answer}': {e}")
-
             elif tag == "textarea":
                 current_value = field.input_value().strip()
                 if current_value:
@@ -280,18 +278,36 @@ def extract_and_fill_form_fields_across_steps(page, file_id):
                     answer = current_value
                     is_prefilled = True
 
-            # ✅ If not prefilled, call LLM to get answer
-            if not is_prefilled:
-                answer = get_answer_from_llm(label_text, file_id).strip()
-                print(f"📝 Filled using LLM → Q: {label_text} | A: {answer}")
+            elif tag == "select":
+                try:
+                    selected_option = field.query_selector("option:checked")
+                    selected_text = selected_option.inner_text().strip().lower() if selected_option else ""
+                    if selected_text not in ["", "select", "select an option", "choose", "choose an option", "none",
+                                             "n/a"]:
+                        print(f"⏭️ Skipping already selected dropdown: {label_text} (value: '{selected_text}')")
+                        return
+                    else:
+                        print(f"🟡 Will fill dropdown for: {label_text} (current value: '{selected_text}')")
+                except Exception as e:
+                    print(f"⚠️ Error checking dropdown value: {e}")
 
+            # ✅ Get answer from LLM or manual input
+            if not is_prefilled:
+                answer = get_answer_from_llm(label_text, file_id, manual_answers).strip()
+                # if not answer or answer.lower() in ["", "0", "n/a"]:
+                #     print(f"⚠️ Skipping field due to invalid or empty answer: '{label_text}'")
+                #     return
+                if not answer or answer.lower() in ["", "n/a"]:
+                    print(f"⚠️ Skipping field due to invalid or empty answer: '{label_text}'")
+                    return
+                print(f"📝 Using LLM/manual → Q: {label_text} | A: {answer}")
             else:
                 print(f"📌 Used existing value → Q: {label_text} | A: {answer}")
 
-            # ✅ Log the label and answer (always)
+            # ✅ Save label-answer pair for logging
             qna_pairs.append((label_text, answer))
 
-            # ✅ Only fill if not already filled
+            # ✅ Fill the field
             if not is_prefilled:
                 if tag == "input":
                     if input_type == "checkbox":
@@ -314,30 +330,32 @@ def extract_and_fill_form_fields_across_steps(page, file_id):
                         field.fill(answer)
                         print(f"✅ Filled input with: {answer}")
 
-
                 elif tag == "select":
-
                     options = field.query_selector_all("option")
+                    normalized_answer = answer.lower().strip()
+                    option_texts = [opt.inner_text().strip().lower() for opt in options]
+
+                    # Handle Yes/No: if answer is 0 and dropdown is Yes/No
+                    if normalized_answer == "0" and "yes" in option_texts and "no" in option_texts:
+                        print("🔁 Interpreting '0' as 'No' for Yes/No dropdown")
+                        normalized_answer = "no"
 
                     matched = False
-
                     for opt in options:
-
                         opt_text = opt.inner_text().strip().lower()
+                        opt_value = opt.get_attribute("value") or ""
 
-                        opt_value = opt.get_attribute("value")
-
-                        if answer.lower() in opt_text or answer.lower() == opt_value.lower():
+                        if (normalized_answer in opt_text or
+                                opt_text in normalized_answer or
+                                normalized_answer == opt_value.lower()):
                             field.select_option(opt_value)
-
-                            print(f"✅ Selected dropdown: {opt_text}")
-
+                            print(f"✅ Selected dropdown: '{opt_text}' (value: {opt_value})")
                             matched = True
-
                             break
 
                     if not matched:
-                        print(f"❌ No dropdown option matched: {answer}")
+                        print(f"❌ No dropdown option matched: '{answer}'")
+
                 elif tag == "textarea":
                     field.fill(answer)
                     print(f"✅ Filled textarea with: {answer}")
@@ -452,7 +470,7 @@ def extract_and_fill_form_fields_across_steps(page, file_id):
             return qna_pairs
 
 
-def filter_easy_apply_jobs(page,file_id):
+def filter_easy_apply_jobs(page,file_id,manual_answers):
     # form_labels = extract_all_form_labels_across_steps(page)
     applied_jobs = []
     try:
@@ -508,8 +526,9 @@ def filter_easy_apply_jobs(page,file_id):
             desc_text = job_description.inner_text().strip() if job_description else "N/A"
             apply_btn.click()
             page.wait_for_timeout(2000)
-            qna_pairs = extract_and_fill_form_fields_across_steps(page, file_id)
-            fill_easy_apply_form_with_llm(page, file_id)
+            qna_pairs = extract_and_fill_form_fields_across_steps(page, file_id,manual_answers)
+
+            fill_easy_apply_form_with_llm(page, file_id,manual_answers)
             log_application_data(title_text, company_text, location_text, desc_text, qna_pairs)
             page.wait_for_timeout(3000)
 
@@ -576,7 +595,7 @@ def save_to_csv(data, filename="application_log.csv"):
         writer.writerow([timestamp, job_count])
 
 
-def fill_easy_apply_form_with_llm(page, file_id):
+def fill_easy_apply_form_with_llm(page, file_id, manual_answers):
     try:
         modal = page.wait_for_selector("div.jobs-easy-apply-modal", timeout=7000)
     except Exception:
@@ -595,7 +614,9 @@ def fill_easy_apply_form_with_llm(page, file_id):
         print(f"Question: {label_text}")
 
         # Ask LLM for answer based on the label text question
-        answer = get_answer_from_llm(label_text, file_id).strip()
+        # answer = get_answer_from_llm(label_text, file_id).strip()
+        answer = get_answer_from_llm(label_text, file_id, manual_answers).strip()
+
         print(f"Answer from LLM: {answer}")
 
         # Find related input element:
@@ -656,16 +677,28 @@ def fill_easy_apply_form_with_llm(page, file_id):
 def main():
 
     with sync_playwright() as p:
+        manual_answers = load_manual_answers()  # ✅ Add this line
+
         browser = p.chromium.launch(headless=False)
         page = browser.new_page()
         login_to_linkedin(page)
         search_jobs(page)
         file_id = upload_resume_get_file_id(RESUME_PATH)  # <- Get file ID here
-        filter_easy_apply_jobs(page, file_id)
+        filter_easy_apply_jobs(page, file_id, manual_answers)
+
 
         browser.close()
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+
+
+
+
 
 
