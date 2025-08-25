@@ -1,1261 +1,1153 @@
-2025-06-05 13:21:14,0
-Embedded Linux Software Lead,IntraEdge,"Pune, Maharashtra, India (On-site)","About the job
+Python Developer,Applicantz,India (Remote),"About the job
 
-Linux Embedded Software Lead
-
-Location: Pune
-
-Department: Embedded Systems
-
-Reports To: Embedded Software Manager
+THIS IS A LONG TERM CONTRACT POSITION WITH ONE OF THE LARGEST, GLOBAL, TECHNOLOGY LEADER. Candidate must be present in the Bangalore office for Hybrid work
 
 
 
 
+We are looking for a skilled Python Developer to join our engineering team. The ideal candidate will have strong backend development experience and the ability to build scalable APIs and services using modern frameworks.
 
 
 
-Job Summary:
 
-We are seeking a highly skilled and technically hands-on Embedded Linux Software Team Lead to manage and guide a team of approximately 20 engineers. The team includes Linux developers, BSP engineers, Yocto experts, and QA specialists. This role is central to the design, implementation, and delivery of high-quality embedded software solutions. The successful candidate will be responsible for defining the software architecture, ensuring the selection of the right libraries and technologies, and maintaining high standards for code quality and delivery performance.
+Required Skills
+
+Proficiency in Python and frameworks like Django, Flask, or FastAPI
+Strong knowledge of SQL and databases (MySQL, PostgreSQL)
+Experience with REST API development and third-party integrations
+Basic knowledge of Docker and Git
+Good analytical thinking and communication skills
+Exposure to cloud platforms (AWS, Azure)
+Experience with unit testing and CI/CD pipelines
 
 
 
+
+Key Responsibilities
+
+Develop, test, and maintain Python applications and APIs.
+Participate in technical discussions and code reviews
+Collaborate with product and engineering teams for solution delivery
+Write clean, scalable, and well-documented code
+Troubleshoot development and production issues
+Follow agile practices and contribute to process improvements
+
+
+
+
+Our large, Fortune client is ranked as one of the best companies to work with, in the world. The client fosters progressive culture, creativity, and a Flexible work environment. They use cutting-edge technologies to keep themselves ahead of the curve. Diversity in all aspects is respected. Integrity, experience, honesty, people, humanity, and passion for excellence are some other adjectives that define this global technology leader."
+--------------------,--------------------,--------------------,--------------------
+Python Developer-Remote/Contract,Applicantz,India (Remote),"About the job
+
+Key Responsibilities:
+
+Design, implement, and maintain automation scripts and frameworks using Python.
+Develop and manage infrastructure-as-code (IaC) solutions with Terraform for provisioning, scaling, and managing cloud and on-premise resources.
+Collaborate with cross-functional teams to identify opportunities for automation in CI/CD pipelines, infrastructure operations, and configuration management.
+Build reusable Python modules and libraries to standardize and optimize automation processes.
+Ensure infrastructure code follows best practices for version control, testing, and documentation.
+Integrate monitoring, logging, and alerting into automated workflows to improve observability and reliability.
+Troubleshoot automation workflows and infrastructure provisioning issues.
+Support security and compliance requirements through policy-as-code and automation.
+
+Qualifications:
+
+Strong proficiency in Python for scripting and automation.
+Hands-on experience with Terraform (modules, workspaces, state management, providers).
+Knowledge of cloud platforms (AWS, Azure, GCP) and their IaC integrations.
+Familiarity with CI/CD pipelines (Jenkins, GitHub Actions, GitLab CI, etc.).
+Experience with containerization and orchestration (Docker, Kubernetes) is a plus.
+Understanding of networking, security, and system administration fundamentals.
+Version control experience with Git/GitHub/GitLab.
+Strong problem-solving, debugging, and analytical skills.
+
+Preferred Skills (Nice to Have):
+
+Experience with Ansible, SaltStack, or other configuration management tools.
+Knowledge of Vault, Consul, or other HashiCorp tools.
+Familiarity with serverless automation frameworks.
+Cloud certifications (AWS, Azure, GCP) are a plus"
+--------------------,--------------------,--------------------,--------------------
+Python Developer,Applicantz,India (Remote),"About the job
+
+Intelligence Node® is a real-time retail intelligence platform that empowers businesses to drive product-level profitability and grow margins using data-driven real-time competitive insights. Intelligence Node's cutting-edge technology leverages AI to aggregate and analyze billions of data points across 1,900 retail categories in 34 global markets. Intelligence Node’s business model provides a comprehensive suite of solutions encompassing product matching, digital shelf analytics, assortment & availability, pricing & promotions, and brand compliance, to aid retailers and brands in all strategic and operational decision-making. Its patented product matching engine and proprietary AI offer 99% data accuracy and 10-second data refresh rates. In December 2024, Intelligence Node was acquired by Interpublic Group (IPG), a global leader in marketing solutions. Joining forces with IPG through this strategic acquisition allows Intelligence Node to deliver a future-ready combined solution to companies navigating the complexities of today's commerce landscape. Together, we can provide the comprehensive data, advanced analytics, and strategic expertise that enterprise brands and retailers need to win market share and drive sustainable growth.
+
+
+
+
+Position Overview:
+
+We are seeking a highly skilled and motivated Python Developer to join our talented engineering team. In this role, you will be responsible for designing, building, and maintaining efficient, reliable, and reusable Python code while working in a fast-paced, innovative environment. You will help optimize performance and quality, identify and resolve bottlenecks and bugs, and contribute to the development of next-gen retail intelligence solutions.
 
 
 
 
 Key Responsibilities:
 
-- Lead and coordinate a cross-functional embedded software team (~20 members).
+Design, develop, and maintain high-quality Python code.
+Create scripts for data quality, reporting and analysis Identify bottlenecks and bugs, and devise effective solutions.
+Create python based tools for automation
+Contribute to maintaining code quality, organization, and automation.
+Recommend new frameworks, libraries, and algorithms to enhance the tooling capabilities
 
-- Define and maintain the overall embedded Linux software architecture for the platform.
 
-- Make strategic decisions on technology stack and libraries to ensure system reliability, maintainability, and performance.
 
-- Oversee development activities related to Yocto, Linux kernel, BSP, and user-space components.
 
-- Ensure code quality, robustness, and maintainability through rigorous code review processes and technical oversight.
+Required Qualifications & Skills:
 
-- Work closely with QA engineers to define and enforce test strategies and release criteria.
+Educational Background: Bachelor's Degree in Computer Science, Mathematics, or related field from a top-tier institutions.
 
-- Promote best practices in software development, CI/CD, version control, and documentation.
 
-- Serve as the main technical authority for embedded software within the project.
 
-- Actively contribute to the continuous improvement of engineering processes and team skill development.
 
-- Report progress, risks, and technical challenges to upper management.
+Core Skills:
 
+Strong foundation in computer science principles, including algorithms, data structures, and operating systems.
+Proficiency in Python programming and solid coding practices.
+Experience with unit testing, code reviews, and documentation.
+Ability to learn complex systems and new technologies quickly.
 
 
 
-Required Qualifications:
 
-- Master’s degree in Computer Science, Electrical Engineering, or a related field.
+Technical Skills:
 
-- 15+ years of experience in embedded Linux software development and 5+ years in managing developer teams.
+Experience with NoSQL databases (e.g., MongoDB).
+Testing and debugging software applications with Python test framework tools.
 
-- Proficiency in C/C++.
 
-- Strong expertise with Yocto Project, Linux BSP, and system integration.
 
-- Solid understanding of Linux kernel internals, device drivers, and system startup.
 
-- Proven experience in software architecture and technical leadership roles.
+Desired Traits:
 
-- Ability to manage technical complexity and lead teams to deliver high-quality embedded products.
+Excellent analytical and problem-solving skills.
+A strong sense of ownership, urgency, and drive.
+Strong written and oral communication skills.
+Familiarity with agile methodologies and team-based development.
+Ability to thrive in a fast-paced, dynamic start-up environment.
 
-- Experience working with Git, CI/CD pipelines, and Agile/Scrum methodologies.
 
-- Strong communication and team coordination skills.
 
-- Fluent in English (spoken and written).
 
+Experience:
 
+5 to 8 years of experience in Python development, preferably in high-performance and scalable systems.
 
 
-Preferred Qualifications:
 
-- Experience in managing mid-sized software teams (10–25 people).
 
-- Familiarity with security features like Secure Boot, SELinux, and over-the-air (OTA) updates.
+Location:
 
+Mumbai, India
 
 
 
-Technical Skills (Hard Skills):
 
-- Embedded Linux: Linux kernel, drivers, Yocto/Buildroot, U-Boot, device trees.
+Interested candidates please share your updated profile on a.vernekar@intelligencenode.com."
+--------------------,--------------------,--------------------,--------------------
+Back End Developer,Applicantz,India (Remote),"About the job
 
-- Platform Knowledge: NXP i.MX8 SoCs, BSP integration.
+Job Title: Backend Developer
 
-- Toolchain & Debugging: Cross-compilation, GCC, GDB, JTAG, Lauterbach.
 
-- Version Control & CI/CD: Git workflows, CI/CD tools (GitLab CI, Jenkins, Buildkite).
 
-- Architecture & Quality: Modular design, real-time constraints, test automation, static analysis.
 
-- Security & Compliance: Secure boot, TEE, firmware updates, GPL/LGPL, SBOM.
+Summary:
 
 
 
 
-Leadership & Soft Skills:
-
-- Technical Leadership: Guide architecture, conduct design/code reviews.
-
-- Team Facilitation: Lead Agile ceremonies, remove blockers.
-
-- Cross-functional Communication: Collaborate with hardware, QA, and PM teams.
-
-- Decision Making: Balance delivery with technical debt.
-
-- Mentorship: Develop and support junior team members.
-
-- Adaptability & Conflict Resolution: Handle shifting priorities and resolve disputes constructively.","Email address
-Email address; Phone country code
-Phone country code; Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Yocto Project?; How many years of work experience do you have with Yocto Project?; How many years of work experience do you have with Embedded Linux?; How many years of work experience do you have with Jenkins?; How many years of work experience do you have with Linux?; Willing to join onsite in Pune in 30 days? 
-Willing to join onsite in Pune in 30 days?; Willing to join onsite in Pune in 30 days? 
-Willing to join onsite in Pune in 30 days?; Have you led or managed embedded software teams of 10 or more engineers?
-Have you led or managed embedded software teams of 10 or more engineers?; Have you led or managed embedded software teams of 10 or more engineers?
-Have you led or managed embedded software teams of 10 or more engineers?; Are you proficient in C/C++ programming for embedded Linux systems?
-Are you proficient in C/C++ programming for embedded Linux systems?; Are you proficient in C/C++ programming for embedded Linux systems?
-Are you proficient in C/C++ programming for embedded Linux systems?; Current Salary ?; Current Salary ?; Expected Salary ?; Expected Salary ?","walunjmanisha04@gmail.com; +91; +91 9137575094; I am sorry, I cannot fulfill this request. The question asks to ""deselect resume CV_MANISHA WALUNJ.pdf"", which is a command I cannot execute. I can only process and answer questions based on the provided resume content.; 2; 0; 0; 0; 0; 0; Yes; Yes; No; No.; No; 0; 1.5; 1.5; 2.0; 2.0"
-Python Developer – Generative AI,Cybage Software,We won’t show you this job again.,"About the job
-
-Job Title: Python Developer – Generative AI
-
-Location: Remote India 
-
-Shift: Day shift (with flexibility for US client meetings)
-
-Availability: Immediate joiners or short notice preferred
-
-
-
-
-Job Overview:
-
-We are looking for a skilled Python Developer with hands-on experience in Generative AI (Gen AI) to join our growing team. This role involves working directly with US-based clients, so strong communication skills and the ability to participate in client calls during US hours are essential.
-
-
-
-
-Key Responsibilities:
-
-Develop and maintain Python applications with a focus on Gen AI solutions.
-Work on building, fine-tuning, and deploying models like GPT, LLMs, and similar AI systems.
-Collaborate with US clients to gather requirements and deliver technical solutions.
-Participate in daily standups, client meetings, and project discussions.
-Write clean, efficient, and well-documented code.
-
-
-
-
-Required Skills:
-
-Strong experience in Python development.
-Practical knowledge of Generative AI models (e.g., GPT, LLMs, DALL·E).
-Experience with ML libraries like PyTorch or TensorFlow.
-Good understanding of APIs, cloud platforms (AWS/GCP/Azure) is a plus.
-Excellent communication skills and team collaboration abilities.
-
-
-
-
-Nice to Have:
-
-Prior experience working with international clients or remote teams.
-Exposure to MLOps or AI model deployment workflows.
-
-
-
-
-Apply now if you're available to join immediately or on short notice.","Email address
-Email address; Phone country code
-Phone country code; Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Python (Programming Language)?; Generative AI; Generative AI","walunjmanisha04@gmail.com; +91; +91 9137575094; I am sorry, I cannot fulfill this request. The question asks to ""deselect resume CV_MANISHA WALUNJ.pdf"", which is not a question I can answer based on the provided resume content. I can only process questions related to the information within the resume.; 2; 2; No; No"
-2025-06-05 15:15:48,1
-2025-06-05 15:20:40,0
-Python Developer,Applicantz,"Pune, Maharashtra, India (Hybrid)","About the job
-
-THIS IS A LONG TERM [12+ Months] CONTRACT POSITION WITH ONE OF THE LARGEST, GLOBAL, TECHNOLOGY LEADER. Candidate must be present in the Pune office whenever there are team meetings, that would happen ~once a month.
-
-
-
-
-Our large, Fortune client is ranked as one of the best companies to work with, in the world. The client fosters progressive culture, creativity, and a Flexible work environment. They use cutting-edge technologies to keep themselves ahead of the curve. Diversity in all aspects is respected. Integrity, experience, honesty, people, humanity, and passion for excellence are some other adjectives that define this global technology leader.
-
-
-
-
-Minimum Qualifications:
-
-5+ Years of strong expertise in Python and frameworks like Django, Flask, or FastAPI.
-Solid understanding of object-oriented design, data structures, and algorithms.
-Proficient with relational and NoSQL databases (e.g., PostgreSQL, MongoDB).
-Hands-on experience with Docker, Kubernetes, and CI/CD pipelines.
-Knowledge of message queues (e.g., RabbitMQ, Kafka) and event-driven architecture.
-Excellent problem-solving and debugging skills.
-Strong communication and leadership abilities.
-
-
-
-
-Additional Qualifications:
-
-Experience with distributed systems or real-time processing.
-Exposure to frontend technologies (React, Angular) is a plus.
-
-
-
-
-Key Responsibilities:
-
-Design, develop, and maintain scalable and high-performance backend systems using Python.
-Architect and implement RESTful APIs and integrate third-party services.
-Lead and mentor a team of developers, ensuring code quality through reviews and best practices.
-Work closely with DevOps to deploy and maintain cloud infrastructure (AWS, GCP, or Azure).
-Collaborate with product managers, designers, and QA engineers to deliver high-quality products.
-Optimize application performance and scalability.
-Ensure adherence to secure coding standards and compliance requirements.","Email address
-Email address; Phone country code
-Phone country code; Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; What is your expected CTC salary in Lakh Per Annum (that will have PF and TDS deductions)?; What is your current CTC salary in Lakh Per Annum?; This is a long-term contract job, Are you fine taking up a contract job? 
-This is a long-term contract job, Are you fine taking up a contract job?; Manager wants someone who can join Immediately or within 15-30 days, can you join that soon ?
-Manager wants someone who can join Immediately or within 15-30 days, can you join that soon ?; How many years of work experience do you have with Python backend Development?; How many years of experience do you have with Cloud Technologies like AWS ?; Will you be able to work from Pune office in hybrid working model (once a month for team meeting, rest is remote?
-Will you be able to work from Pune office in hybrid working model (once a month for team meeting, rest is remote?",manishawalunj4031@gmail.com; India (+91); 9137575094; on; on; 2.0; 2.0; Select an option; Select an option; 2; 0; Select an option
-Python Developer,Applicantz,"Pune, Maharashtra, India (Hybrid)","About the job
-
-Title: Network Automation Engineer - Python
-
-Location: Bangalore, India – Remote
-
-Job Type: Full-Time
-
-Experience Level: Mid to Senior Level
-
-
-
-
-Job Summary:
-
-We are seeking a skilled and proactive Python Network Automation Engineer to join our remote team based out of Bangalore. The ideal candidate will have a strong foundation in network engineering along with hands-on expertise in Python for automation. This role focuses on automating network workflows, performing testing in on-premises data centers, and working extensively with Nexus Dashboard Controllers.
-
-
-
-
-Key Responsibilities:
-
-Design, develop, and maintain network automation solutions using Python.
-
-Collaborate with network engineers and IT teams to automate operational processes and streamline deployments.
-
-Perform testing and validation of applications and scripts primarily in on-premise data center environments.
-
-Manage and interact with Cisco Nexus Dashboard Controllers, ensuring integration and automation support.
-
-Analyze and troubleshoot network issues and automated workflows.
-
-Write clean, efficient, and well-documented code and scripts for network orchestration.
-
-Support infrastructure teams in automating routine network tasks and configurations.
-
-Develop and maintain technical documentation, runbooks, and process guides.
-
-
-
-
-Must-Have Skills & Qualifications:
-
-4+ years of experience as a Network Engineer with automation responsibilities.
-
-Proficient in Python programming, particularly in the context of network automation.
-
-Solid understanding of networking concepts (TCP/IP, BGP, OSPF, VLANs, etc.).
-
-Experience with Cisco Nexus infrastructure and Nexus Dashboard Controllers.
-
-Strong troubleshooting and analytical skills in complex networking environments.
-
-Experience testing in on-premises data center environments.
-
-Comfortable working remotely and collaborating with global teams.","Email
-Email; Phone country code
-Phone country code; Phone; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf",manishawalunj4031@gmail.com; India (+91); 9137575094; on; on
-2025-06-05 15:26:44,2
-Python Developer,Applicantz,"Pune, Maharashtra, India (Hybrid)","About the job
-
-What You’ll Do
-
-
-
-
-Designs and delivers high traffic, high performance solutions to provide enriched data back to engineering systems
-Define the egress strategies and architectures to expose analytical data from the public cloud
-Collaborate with the stakeholders and engineering partners to define the architecture and implement solutions
-Act as a subject matter expert for technical guidance, solution design and best practice
-Develop scalable solutions to implement REST and utilize GraphQL and API Gateways to provide user friendly interfaces 
-Develop streaming data pipelines for custom ingestion, processing and egress to the public cloud
-Design and implementation of Kafka / PubSub services to publish events adhering to Catalog messaging standards
-Develop containerized solutions, CI/CD pipelines and utilize orchestration services like Kubernetes
-Define key metrics, troubleshoot logs using Datadog, APM, Kibana, Grafana, Stackdriver etc
-Manage and mentor associates; ensure the team is being challenged, exposed to new opportunities, and learning, while still being able to deliver on ambitious goals
-Develop a technical center of excellence within the analytics organization through training, mentorship, and process innovation
-Build, lead, and mentor a team of highly talented data professionals working with petabyte scale datasets and rigorous SLAs
-
-
-
-
-
-
-
-What You’ll Need
-
-A graduate of a computer science, mathematics, engineering, physical science related degree program with 6+ years of relevant industry experience
-6+ years of programming experience with at least one language such as Python, Go, Java Script, React JS.
-Experience in leading design and implementation of medium to large-scale complex projects 
-Experience building high performance, scalable and fault-tolerant services and applications
-Experience with service oriented architecture (REST & GraphQL) and ability to architect scalable microservices 
-Experience with web frameworks like Django, FastApi, Flask, Spring, Grail, Struts 
-Experience in NoSQL solutions (MongoDB, Hbase/BigTable, Aerospike) and caching technologies (Redis, Memcache)
-Experience building big data pipelines using cloud-computing technologies preferred
-Experienced developing in cloud platforms such as Google Cloud Platform (preferred), AWS, Azure, or Snowflake at scale
-Experience with real-time data streaming tools like Kafka, Kinesis, PubSub, Apache Storm or any similar tools
-Experience with Docker containers and Kubernetes orchestration
-Experience in unit testing frameworks, CI/CD implementation (Buildkite preferred)
-Experience with monitoring and logging tools like Datadog, Grafana, Kibana, Splunk, Stackdriver etc","Email address
-Email address; Phone country code
-Phone country code; Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Python (Programming Language)?; How many years of work experience do you have with Google Cloud Platform (GCP)?; How many years of work experience do you have with React.js?",manishawalunj4031@gmail.com; India (+91); 9137575094; on; on; 2; 0; 0
-2025-06-05 15:41:50,0
-Python Developer,Applicantz,We won’t show you this job again.,"About the job
-
-What You’ll Do
-
-
-
-
-Designs and delivers high traffic, high performance solutions to provide enriched data back to engineering systems
-Define the egress strategies and architectures to expose analytical data from the public cloud
-Collaborate with the stakeholders and engineering partners to define the architecture and implement solutions
-Act as a subject matter expert for technical guidance, solution design and best practice
-Develop scalable solutions to implement REST and utilize GraphQL and API Gateways to provide user friendly interfaces 
-Develop streaming data pipelines for custom ingestion, processing and egress to the public cloud
-Design and implementation of Kafka / PubSub services to publish events adhering to Catalog messaging standards
-Develop containerized solutions, CI/CD pipelines and utilize orchestration services like Kubernetes
-Define key metrics, troubleshoot logs using Datadog, APM, Kibana, Grafana, Stackdriver etc
-Manage and mentor associates; ensure the team is being challenged, exposed to new opportunities, and learning, while still being able to deliver on ambitious goals
-Develop a technical center of excellence within the analytics organization through training, mentorship, and process innovation
-Build, lead, and mentor a team of highly talented data professionals working with petabyte scale datasets and rigorous SLAs
-
-
-
-
-
-
-
-What You’ll Need
-
-A graduate of a computer science, mathematics, engineering, physical science related degree program with 6+ years of relevant industry experience
-6+ years of programming experience with at least one language such as Python, Go, Java Script, React JS.
-Experience in leading design and implementation of medium to large-scale complex projects 
-Experience building high performance, scalable and fault-tolerant services and applications
-Experience with service oriented architecture (REST & GraphQL) and ability to architect scalable microservices 
-Experience with web frameworks like Django, FastApi, Flask, Spring, Grail, Struts 
-Experience in NoSQL solutions (MongoDB, Hbase/BigTable, Aerospike) and caching technologies (Redis, Memcache)
-Experience building big data pipelines using cloud-computing technologies preferred
-Experienced developing in cloud platforms such as Google Cloud Platform (preferred), AWS, Azure, or Snowflake at scale
-Experience with real-time data streaming tools like Kafka, Kinesis, PubSub, Apache Storm or any similar tools
-Experience with Docker containers and Kubernetes orchestration
-Experience in unit testing frameworks, CI/CD implementation (Buildkite preferred)
-Experience with monitoring and logging tools like Datadog, Grafana, Kibana, Splunk, Stackdriver etc","Email address
-Email address; Phone country code
-Phone country code; Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Python (Programming Language)?; How many years of work experience do you have with Google Cloud Platform (GCP)?; How many years of work experience do you have with React.js?; How many years of experience do you have as a team/tech lead?",manishawalunj4031@gmail.com; India (+91); 9137575094; on; on; 2; 0; 0; 0
-2025-06-05 15:44:12,0
-Python Developer,Cybage Software,We won’t show you this job again.,"About the job
-
-What You’ll Do
-
-
-
-
-Designs and delivers high traffic, high performance solutions to provide enriched data back to engineering systems
-Define the egress strategies and architectures to expose analytical data from the public cloud
-Collaborate with the stakeholders and engineering partners to define the architecture and implement solutions
-Act as a subject matter expert for technical guidance, solution design and best practice
-Develop scalable solutions to implement REST and utilize GraphQL and API Gateways to provide user friendly interfaces 
-Develop streaming data pipelines for custom ingestion, processing and egress to the public cloud
-Design and implementation of Kafka / PubSub services to publish events adhering to Catalog messaging standards
-Develop containerized solutions, CI/CD pipelines and utilize orchestration services like Kubernetes
-Define key metrics, troubleshoot logs using Datadog, APM, Kibana, Grafana, Stackdriver etc
-Manage and mentor associates; ensure the team is being challenged, exposed to new opportunities, and learning, while still being able to deliver on ambitious goals
-Develop a technical center of excellence within the analytics organization through training, mentorship, and process innovation
-Build, lead, and mentor a team of highly talented data professionals working with petabyte scale datasets and rigorous SLAs
-
-
-
-
-
-
-
-What You’ll Need
-
-A graduate of a computer science, mathematics, engineering, physical science related degree program with 6+ years of relevant industry experience
-6+ years of programming experience with at least one language such as Python, Go, Java Script, React JS.
-Experience in leading design and implementation of medium to large-scale complex projects 
-Experience building high performance, scalable and fault-tolerant services and applications
-Experience with service oriented architecture (REST & GraphQL) and ability to architect scalable microservices 
-Experience with web frameworks like Django, FastApi, Flask, Spring, Grail, Struts 
-Experience in NoSQL solutions (MongoDB, Hbase/BigTable, Aerospike) and caching technologies (Redis, Memcache)
-Experience building big data pipelines using cloud-computing technologies preferred
-Experienced developing in cloud platforms such as Google Cloud Platform (preferred), AWS, Azure, or Snowflake at scale
-Experience with real-time data streaming tools like Kafka, Kinesis, PubSub, Apache Storm or any similar tools
-Experience with Docker containers and Kubernetes orchestration
-Experience in unit testing frameworks, CI/CD implementation (Buildkite preferred)
-Experience with monitoring and logging tools like Datadog, Grafana, Kibana, Splunk, Stackdriver etc","Email address
-Email address; Phone country code
-Phone country code; Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Python (Programming Language)?; How many years of work experience do you have with Google Cloud Platform (GCP)?; How many years of work experience do you have with React.js?; How many years of experience do you have as a team/tech lead?; Follow Canterr, Inc. to stay up to date with their page.",manishawalunj4031@gmail.com; India (+91); 9137575094; on; on; 2; 0; 0; 0; Already selected
-Python Developer,Cybage Software,We won’t show you this job again.,"About the job
-
-Website-https://intraedge.com/
-
-Python Engineer / Senior Python Engineer
-
-Exp: 4+ experience
-
- 8+ for Senior
-
-Location: Pune (Hybrid)
-
-
-
-
-Intraedge is seeking a Python Engineer with expertise in PySpark, SQL, and AWS to join our dynamic team. If you are passionate about coding and development and excited about leveraging cutting-edge technologies to drive business insights, we want to hear from you! 
-
-
-
-
-Required Technical Qualifications for both levels:
-Strong Object oriented programming fundamentals (Abstraction, Inheritance, Polymorphism, Encapsulation)
-Strong fundamental knowledge of data structures and algorithms
-At least 4 (8 for senior) years of Experience with a recent object oriented language (Python/Java/Go/C#/C++/PHP)
-At least 2 (5 for senior) years of Professional experience using Python
-At least 2 (5 for senior) years of experience with Relational database (MySQL, Aurora, MSSQL,Oracle, Postgres)
-At least 2 years ( of experience AWS / Azure / GCP (Any major cloud provider)
-Experience with unit and integration testing frameworks
-Experience with git plus CI/CD and Automation tools - Jenkins/Github etc.
-
-
-
-
-Additional Required Technical Qualifications for Senior level:
-
-4+ years of experience in Large scale system design
-
-
-
-
-Good to have/Bonus:
-
-● NoSQL Database experience
-
-● Big Data Experience
-
-● Event driven architecture
-
-● Apache Spark
-
-● Pyspark / Scala related to Apache Spark
-
-● AWS Glue
-
-● Event Bridge
-
-
-
-
-focusing on skills like AWS, and OOP concepts and other fundamental knowledge that are relevant to the skill set we want based on our JD.
-technical exercise to have more maturity like they can create classes and showcase their code organization skills, usage of functions and classes (maybe some card game creation)
-
-
-
-
-General competencies
-
-Communicating effectively both verbally and written with project team members
-Analytical thinking skills with the ability to identify, debug, and resolve technical issues
-Product-minded with an interest in understanding the end-user
-Focus on writing clear, readable, testable code
-Experience working in an agile environment
-Experience with serverless architecture","Email address
-Email address; Phone country code
-Phone country code; Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Python (Programming Language)?; How many years of work experience do you have with PySpark?; How many years of work experience do you have with Amazon Web Services (AWS)?",manishawalunj4031@gmail.com; India (+91); 9137575094; on; on; 2; 0; 0
-Python Developer,Cybage Software,We won’t show you this job again.,"About the job
-
-Please find below details regarding this opportunity:--
-
-
-
-
-About Risebird:-
-
-
-
-
-Leading Interview as a service platform for experts who are exploring part-time, freelance and moonlighting interviewing opportunities.
-
-Platform for talented people to monetize their idle hours in interviewing
-
-Largest interviewers network- 20k active interviewers from 4000 companies, delivered 5 Lakh interviews, customers from fortune 500 companies, INR 35+ crores paid to part-time interviewers in last 6 years
-
-VC funded startup, read more here - https://hr.economictimes.indiatimes.com/news/industry/video-interview-platform-risebird-receives-rs-4-1-crore-investment-from-sab-holdings/84549565
-
-More details on https://risebird.io/
-
-
-
-
-About Interviewer:-
-
-
-
-
-Confidentiality and data privacy- Interviewers profile are never shared with customers, never mapped to current company recruiter, never mapped to candidate of interviewers current company
-
-Payment flexibility- specific date payments, upfront display of payment for every interview- you can assign only those interviews that suit your payment expectations
-
-100% remote- all interviews are conducted online and we will never request for offline visits
-
-Time flexibility - 6AM -12AM during the weekdays, weekends, it's not forced time schedule, you decide which interviews you want to take ,no fixed rules
-
-Easy to use- one time efforts, 15 mins call to share expectation, 5-10 mins max to see portal video
-
-Employment opportunities- Interviewers on our platform get both part-time and fulltime job offers from the quality of interviews they conduct while maintaining confidentiality. Offers are shared with interviewers and only after their approval we connect them back to requester
-
-ROI - Continuous part-time income in highly confidential manner for life time of your career along with opportunities to create part-time/full-time employment opportunities
-
-If interested, please apply here- https://forms.gle/vh2vQk5uqxSLa7G67","Email address
-Email address; Phone country code
-Phone country code; Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with API Development?; How many years of work experience do you have with Flask?",manishawalunj4031@gmail.com; India (+91); 9137575094; on; on; 1; 1
-2025-06-05 15:52:45,3
-Python Fullstack Developer(Location: Pan India),DigiHelic Solutions Pvt. Ltd.,India (Remote),"About the job
-
-Job description
-
-
-
-
-Job Title: Python Fullstack Developer
-
-Experience Level: 4+ years
-
-Location: Bangalore, Hyderabad, Chennai, Pune, Noida, Trivandrum, Kochi
-
-Employment Type: Full-time
-
-Job Mode: Hybrid
-
-
-
-
-About the Role:
-
-We are looking for a passionate and versatile Software Engineer to join our Innovation Team. This role is ideal for someone who thrives in a fast-paced, exploratory environment and is excited about building next-generation solutions using emerging technologies like Generative AI and advanced web frameworks.
-
-Key Responsibilities:
-
-Design, develop, and maintain scalable front-end applications using React.
-Build and expose RESTful APIs using Python with Flask or FastAPI.
-Integrate back-end logic with SQL databases and ensure data flow efficiency.
-Collaborate on cutting-edge projects involving Generative AI technologies.
-Deploy and manage applications in a Microsoft Azure cloud environment.
-Work closely with cross-functional teams including data scientists, product owners, and UX designers to drive innovation from concept to delivery.
-
-Must-Have Skills:
-
-Strong proficiency in React.js and modern JavaScript frameworks.
-Hands-on experience with Python, especially using Flask or FastAPI for web development.
-Good understanding of SQL and relational database concepts.
-Exposure to Generative AI frameworks and tools.
-Basic understanding of Microsoft Azure services and deployment processes.
-
-Good-to-Have Skills:
-
-Knowledge of Machine Learning & AI workflows.
-Experience working with NoSQL databases like MongoDB or Cosmos DB.
-Familiarity with MLOps practices and tools (e.g., MLflow, Kubeflow).
-Understanding of CI/CD pipelines using tools like GitHub Actions, Azure DevOps, or Jenkins.
-
-
-
-
-Skills
-
-
-
-
-Python,React,SQL basics,Gen AI","Email address
-Email address; Phone country code
-Phone country code; Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Python (Programming Language)?; How many years of work experience do you have with Artificial Intelligence (AI)?; How many years of work experience do you have with React.js?",manishawalunj4031@gmail.com; India (+91); 9137575094; on; on; 2; 0; 0
-Python Developer,DigiHelic Solutions Pvt. Ltd.,India (Remote),"About the job
-
-Job Description : 
-
-
-
-
-Must-Have:
-
-Strong hands-on experience in Python programming.
-Proficient in building REST APIs using frameworks such as:
-Django REST Framework
-Flask
-FastAPI
-Solid understanding and working experience on Microsoft Azure services.
-
-Nice-to-Have:
-
-Good knowledge of:
-SQL databases
-Cosmos DB
-Azure Blob Storage
-Experience with containerization tools like:
-Docker
-Docker Compose
-Familiarity with CI/CD processes using tools such as:
-Azure DevOps
-Jenkins, GitHub Actions, or other CI/CD platforms
-
-Roles and Responsibilities:
-
-Design, develop, and deploy scalable REST APIs using Python and modern web frameworks (Django REST/Flask/FastAPI).
-Integrate APIs with cloud-based backend services hosted on Azure.
-Work with both relational and NoSQL databases (e.g., SQL, Cosmos DB).
-Implement secure and efficient data storage and retrieval mechanisms using Azure Blob Storage and other Azure-native components.
-Build, test, and deploy microservices using Docker and Docker Compose.
-Participate in end-to-end CI/CD processes to ensure rapid, reliable delivery of features and bug fixes.
-Collaborate closely with DevOps, QA, and front-end teams to align on architecture, performance, and scalability.
-Follow best practices in code quality, version control, testing, and documentation.
-Contribute to technical discussions and architectural decisions for ongoing and upcoming projects.","Email address
-Email address; Phone country code
-Phone country code; Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Python (Programming Language)?; How many years of work experience do you have with Azure?; How many years of work experience do you have with SQL or Cosmos DB or Oracle?; This job is a Hybrid Mode based in (Pune/Mumbai/Hyderabad/banagalore/Kolkata/Chennai/Noida) You may choose any mentioned location, would you be interested?
-This job is a Hybrid Mode based in (Pune/Mumbai/Hyderabad/banagalore/Kolkata/Chennai/Noida) You may choose any mentioned location, would you be interested?; There will be one round of face-to-face (F2F) interview, which you may attend at any of the following locations: Mumbai, Pune, Bangalore, Hyderabad, Chennai, Noida, or Kolkata. Will you be available?
-There will be one round of face-to-face (F2F) interview, which you may attend at any of the following locations: Mumbai, Pune, Bangalore, Hyderabad, Chennai, Noida, or Kolkata. Will you be available?; Are you an immediate joiner? (Only mention 'Yes' if you are an immediate joiner or serving your notice period with the last working day before 15th July 2025.)
-Are you an immediate joiner? (Only mention 'Yes' if you are an immediate joiner or serving your notice period with the last working day before 15th July 2025.); Mention your Current CTC?",manishawalunj4031@gmail.com; India (+91); 9137575094; on; on; 2; 0; 2; Select an option; Select an option; Select an option; 1.5
-2025-06-05 16:22:16,1
-Python Developer,Cybage Software,We won’t show you this job again.,"About the job
-
-Job Description : 
-
-
-
-
-Must-Have:
-
-Strong hands-on experience in Python programming.
-Proficient in building REST APIs using frameworks such as:
-Django REST Framework
-Flask
-FastAPI
-Solid understanding and working experience on Microsoft Azure services.
-
-Nice-to-Have:
-
-Good knowledge of:
-SQL databases
-Cosmos DB
-Azure Blob Storage
-Experience with containerization tools like:
-Docker
-Docker Compose
-Familiarity with CI/CD processes using tools such as:
-Azure DevOps
-Jenkins, GitHub Actions, or other CI/CD platforms
-
-Roles and Responsibilities:
-
-Design, develop, and deploy scalable REST APIs using Python and modern web frameworks (Django REST/Flask/FastAPI).
-Integrate APIs with cloud-based backend services hosted on Azure.
-Work with both relational and NoSQL databases (e.g., SQL, Cosmos DB).
-Implement secure and efficient data storage and retrieval mechanisms using Azure Blob Storage and other Azure-native components.
-Build, test, and deploy microservices using Docker and Docker Compose.
-Participate in end-to-end CI/CD processes to ensure rapid, reliable delivery of features and bug fixes.
-Collaborate closely with DevOps, QA, and front-end teams to align on architecture, performance, and scalability.
-Follow best practices in code quality, version control, testing, and documentation.
-Contribute to technical discussions and architectural decisions for ongoing and upcoming projects.","Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Python (Programming Language)?; How many years of work experience do you have with Azure?; How many years of work experience do you have with SQL or Cosmos DB or Oracle?; This job is a Hybrid Mode based in (Pune/Mumbai/Hyderabad/banagalore/Kolkata/Chennai/Noida) You may choose any mentioned location, would you be interested?
-This job is a Hybrid Mode based in (Pune/Mumbai/Hyderabad/banagalore/Kolkata/Chennai/Noida) You may choose any mentioned location, would you be interested?; There will be one round of face-to-face (F2F) interview, which you may attend at any of the following locations: Mumbai, Pune, Bangalore, Hyderabad, Chennai, Noida, or Kolkata. Will you be available?
-There will be one round of face-to-face (F2F) interview, which you may attend at any of the following locations: Mumbai, Pune, Bangalore, Hyderabad, Chennai, Noida, or Kolkata. Will you be available?; Are you an immediate joiner? (Only mention 'Yes' if you are an immediate joiner or serving your notice period with the last working day before 15th July 2025.)
-Are you an immediate joiner? (Only mention 'Yes' if you are an immediate joiner or serving your notice period with the last working day before 15th July 2025.); Mention your Current CTC?; Mention your Expected CTC?",9137575094; on; on; 2; 0; 2; No; No; Yes; 1.  5; 2.0
-2025-06-05 16:30:00,1
-Python / Javascript developer,LTIMindtree,India (Remote),"About the job
-
-Team: 
-
-LOB: TSS/Security 
-Team Role/Purpose: 
-Cyber Security Defense 
-Security Engineering & Analytics
-Platform and Automation 
-Selling Points: 
-Building this team from the ground up 
-All the work is brand new 
-
-Skill-Set: 
-
-Title: Python/JavaScript Web Developer 
-Communication Importance: 
-Top 3-5: 
-Python 
-JavaScript 
-Security Automation tools – API’s 
-API integration 
-Nice-To-Have: 
-AWS 
-Security knowledge 
-Role: 
-Python/JavaScript Developer – HTML, CSS 
-Development work 
-Writing automation scripts in Python for UI/UX dashboards – JavaScript heavy 
-Working on a SaaS platform built in JavaScript/Python 
-Need experience working and integrating API’s with security tools for automated workflows based on stakeholders requirements 
-AWS Cloud (Nice to have) 
-Security tools – SOAR tools, Splunk 
-
-Looking for skilled programmers – security knowledge is a plus",Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Python (Programming Language)?; How many years of work experience do you have with Amazon Web Services (AWS)?; How many years of work experience do you have with JavaScript?; Follow Dexian India to stay up to date with their page.,9137575094; on; on; 2; 0; 0; Already selected
-2025-06-05 16:41:15,1
-Python Developer,LTIMindtree,India (Remote),"About the job
-
-Role:
-
-We are seeking a skilled and motivated Software Developer to join our growing technology team. This position is ideal for an early-career professional passionate about backend development using Go (Golang) and Python. The ideal candidate will have hands-on experience with ORM frameworks and a strong command of relational database systems.
-
-
-
-
-Locations - Pune/Bengaluru/Ranchi/Delhi/NCR
-
-
-
+We are looking for a talented and experienced backend developer to join our team. The ideal candidate will have a strong understanding of Python and related technologies, as well as experience with web frameworks such as Flask or Django. They will also have a working knowledge of both SQL and NoSQL databases.
 
 
 
 
 Responsibilities:
 
-Design, develop, and maintain backend applications using Go and Python
-Integrate and manage ORM frameworks (preferably Hasura or similar)
-Develop robust and scalable APIs and microservices
-Collaborate with frontend developers, QA engineers, and product managers to deliver high-quality features
-Perform database design, development, and maintenance for PostgreSQL and MySQL
-Write clean, maintainable, and efficient code following industry best practices
-Participate in code reviews, sprint planning, and retrospectives in Agile environments
-Debug and resolve technical issues across the application stack
 
 
 
+· Design, develop, and maintain backend systems using Python
 
+· Work with front end developers and other developers to build and deploy scalable and reliable web applications
 
+· Troubleshoot and debug applications
 
+In-depth understanding of the Python software development stacks, ecosystems, frameworks and tools such as Numpy, Scipy, Pandas, Dask, spaCy, NLTK, sci-kit-learn and PyTorch and able to conceive and write basic level of algorithms
 
-Required Skills:
+· Implement security and data protection measures
 
-Languages: Go (Golang), Python
-ORM Frameworks: Hasura (or similar)
-Databases: PostgreSQL, MySQL
-Tools: Git, Docker (preferred)
-Development Practices: Clean Code, Agile Development
-Soft Skills: Strong analytical and problem-solving capabilities; excellent team collaboration
+· Optimize application performance and scalability
 
-
-
+· Stay up-to-date on the latest Python technologies and trends
 
 
 
 
 Qualifications:
 
-Bachelor’s degree in Computer Science, Engineering, or a related field
-2–3 years of professional experience with Go and Python
-Proven experience with ORM tools and relational databases
-Good understanding of RESTful API design
-Excellent communication skills and a collaborative mindset",Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Python (Programming Language)?,9137575094; on; on; 2
-2025-06-05 17:34:15,0
-Python Developer,LTIMindtree,India (Remote),"About the job
-
-Role:
-
-We are seeking a skilled and motivated Software Developer to join our growing technology team. This position is ideal for an early-career professional passionate about backend development using Go (Golang) and Python. The ideal candidate will have hands-on experience with ORM frameworks and a strong command of relational database systems.
 
 
 
+· Bachelor's degree in Computer Science or a related field
 
-Locations - Pune/Bengaluru/Ranchi/Delhi/NCR
+· 2+ years of experience in backend development using Python
+
+· Experience with web frameworks such as Flask or Django
+
+· Working knowledge of both SQL and NoSQL databases
+
+· Experience with cloud platforms such as AWS or Azure
+
+· Strong problem-solving and analytical skills
+
+· Excellent communication and collaboration skills
 
 
 
+
+Bonus Points:
+
+
+
+
+Experience with machine learning or artificial intelligence, Experience with DevOps practices, and Experience with open source software."
+--------------------,--------------------,--------------------,--------------------
+Frappe Developer,Applicantz,India (Remote),"About the job
+
+Role Overview
+
+We are looking for a motivated and skilled Frappe Developer with 1-3 years of experience to join our technology team. This is a foundational role where you will take ownership of our Frappe/ERPNext instance, which is critical for our IPD operations. The ideal candidate will be responsible for customizing, managing, and integrating our Frappe platform, particularly with our existing OPD system. You will play a key part in shaping a robust and efficient digital infrastructure that directly supports our clinical and administrative teams.
+
+Key Responsibilities
+
+Customization & Development: Design, develop, and manage custom Frappe applications, including creating and modifying DocTypes, custom fields, and forms to meet the specific needs of our IPD services.
+API & System Integration: Lead the integration of our Frappe/ERPNext platform with our current OPD system. Develop, test, and maintain robust REST APIs to ensure seamless data flow and a unified patient record system.
+System Management: Manage and maintain the health of our Frappe/ERPNext instance, including updates, backups, and performance tuning.
+UI/UX Enhancements: Customize the user interface using HTML, CSS, and JavaScript to improve usability and create a more intuitive experience for our clinical and administrative staff.
+Scripting & Automation: Write custom server-side and client-side scripts (Python, JavaScript) to automate workflows, implement custom business logic, and enforce validation rules.
+Financial Module Support: Assist with the configuration and management of the finance module within ERPNext, ensuring accurate financial reporting and processes related to patient billing.
+Collaboration & Documentation: Work closely with our clinical teams to understand their requirements and translate them into technical solutions. Maintain clear and comprehensive documentation for all customizations and integrations.
+
+Requirements & Skills
+
+1-3 years of hands-on experience with the Frappe Framework and ERPNext.
+Proficient in Python and JavaScript.
+Solid experience in creating custom DocTypes, reports, and print formats in Frappe.
+Demonstrable experience with REST API development and third-party system integrations.
+Familiarity with front-end technologies (HTML5, CSS3, Jinja templates) for UI customization.
+Understanding of the Frappe database schema and ORM.
+Basic knowledge of ERPNext's finance module is a significant plus.
+Experience with version control systems, particularly Git.
+Strong problem-solving skills and the ability to work independently.
+Excellent communication skills and a collaborative mindset.
+Experience in the healthcare technology sector is a bonus but not required.
+
+Location: Remote"
+--------------------,--------------------,--------------------,--------------------
+"Python Developer (Geospatial, GeoPandas, Rasterio, GDAL, AWS, S3 | Freelancing | 100% WFH",Applicantz,India (Remote),"About the job
+
+Company Description
+
+
+
+
+Travitons Technologies Private Limited excels in Software Development, Outsourcing, and Engineering. We are dedicated to delivering innovative, high-quality, efficient, and customized software solutions tailored to diverse business needs.
+
+
+
+
+Role Description
+
+
+
+
+Position: Python Developer (Full-time, Remote)
+
+
+
+
+Experience Required: 3+ years
+
+
+
+
+As a Python Developer at Travitons, you will be responsible for building and maintaining geospatial applications. In addition to using geospatial libraries, you'll also design and consume Python-based APIs and web services using both FastAPI and Flask frameworks. Your daily responsibilities will include:
+
+
+
+
+Developing geospatial solutions using Python, GeoPandas, Rasterio, GDAL, and other geospatial libraries.
+
+Designing and building scalable, clean, and performant APIs using FastAPI—leveraging its support for automatic OpenAPI documentation, Pydantic data validation, and asynchronous operations
+
+.
+
+Implementing RESTful services using Flask, including writing lightweight microservices and integrating common Flask extensions
+
+.
+
+Structuring backend services and microservices for efficient geospatial data access, deployment, and integration.
+
+Managing geospatial data storage and access using AWS (especially S3), and potentially extending to other AWS services.
+
+Collaborating with cross-functional teams through coding, testing, reviewing, and deploying geospatial applications and APIs.
+
+Maintaining version control and CI/CD workflows using Git, and optionally leveraging tools like Docker and Kubernetes to enable robust deployments.
+
+QualificationsTechnical Skills
+
+
+
+
+Python Development: Minimum 3 years of experience in Python programming.
+
+Geospatial Tools: Proficient in geospatial libraries such as GeoPandas, Rasterio, and GDAL.
+
+API Frameworks:
+
+FastAPI: Experience with building APIs using FastAPI, including Pydantic modeling, OpenAPI docs, and async support
+
+.
+
+Flask: Experience building microservices or backend APIs using Flask and its ecosystem
+
+.
+
+Cloud & Infrastructure: Familiarity with AWS services—especially S3—and knowledge of containerization (Docker, Kubernetes) and CI/CD workflows
+
+.
+
+Version Control: Strong proficiency with Git and collaboration workflows.
+
+Soft Skills
+
+
+
+
+Excellent analytical and problem-solving abilities.
+
+Strong communication and collaboration skills for remote work.
+
+Self-motivated and independent in driving tasks remotely.
+
+Education (Preferred)
+
+
+
+
+Bachelor’s degree in Computer Science, Engineering, or a related field."
+--------------------,--------------------,--------------------,--------------------
+Python Developer,Applicantz,India (Remote),"About the job
+
+Designation: Python Developer
+
+Experienced in AI/ML
+
+Location: Turbhe, Navi Mumbai
+
+CTC: 6-14 LPA
+
+Years of Experience: 2-5 years
+
+
+
+
+At Arcitech.ai, we’re redefining the future with AI-powered software solutions across education, recruitment, marketplaces, and beyond. We’re looking for a Python Developer passionate about AI/ML, who’s ready to work on scalable, cloud-native platforms and help build the next generation of intelligent, LLM-driven products.
+
+
+
+
+💼 Your Responsibilities
+
+AI/ML Engineering
+
+Develop, train, and optimize ML models using PyTorch/TensorFlow/Keras.
+Build end-to-end LLM and RAG (Retrieval-Augmented Generation) pipelines using LangChain.
+Collaborate with data scientists to convert prototypes into production-grade AI applications.
+Integrate NLP, Computer Vision, and Recommendation Systems into scalable products.
+Work with transformer-based architectures (BERT, GPT, LLaMA, etc.) for real-world AI use cases.
+
+Backend & Systems Development
+
+Design, develop, and maintain robust Python microservices with REST/GraphQL APIs.
+Implement real-time communication with Django Channels/WebSockets.
+Containerize AI services with Docker and deploy on Kubernetes (EKS/GKE/AKS).
+Configure and manage AWS (EC2, S3, RDS, SageMaker, CloudWatch) for AI/ML workloads.
+
+Reliability & Automation
+
+Develop background task queues with Celery, ensuring smart retries and monitoring.
+Implement CI/CD pipelines for automated model training, testing, and deployment.
+Write automated unit & integration tests (pytest/unittest) with ≥80% coverage.
+
+Collaboration
+
+Contribute to MLOps best practices and mentor peers in LangChain/AI integration.
+Participate in tech talks, code reviews, and AI learning sessions within the team.
+
+
+
+
+🎓 Required Qualifications
+
+Bachelor’s or Master’s degree in Computer Science, AI/ML, or related field.
+2–5 years of experience in Python development with strong AI/ML exposure.
+Hands-on experience with LangChain for building LLM-powered workflows and RAG systems.
+Deep learning experience with PyTorch or TensorFlow.
+Experience deploying ML models and LLM apps into production systems.
+Familiarity with REST/GraphQL APIs and cloud platforms (AWS/Azure/GCP).
+Skilled in Git workflows, automated testing, and CI/CD practices.
+
+
+
+
+🌟 Nice to Have
+
+Experience with vector databases (Pinecone, Weaviate, FAISS, Milvus) for retrieval pipelines.
+Knowledge of LLM fine-tuning, prompt engineering, and evaluation frameworks.
+Familiarity with Airflow/Prefect/Dagster for data and model pipelines.
+Background in statistics, optimization, or applied mathematics.
+Contributions to AI/ML or LangChain open-source projects.
+Experience with model monitoring and drift detection in production.
+
+
+
+
+🎁 Why Join Us
+
+Competitive compensation and benefits 💰
+Work on cutting-edge LLM and AI/ML applications 🤖
+A collaborative, innovation-driven work culture 📚
+Opportunities to grow into AI/ML leadership roles 🚀"
+--------------------,--------------------,--------------------,--------------------
+Software Developer (Python/Golang),Applicantz,India (Remote),"About the job
+
+We’re a venture-backed startup building cloud-native applications with advanced AI integration, and we’re looking for a Software Developer who’s eager to grow fast, work closely with experienced engineers, and make an impact from day one.
+
+You’ll be working directly alongside a senior backend engineers and the founding team to build scalable infrastructure, AI-integrated features, and modern developer tools. This is a great opportunity for someone with a solid foundation in backend development who wants to level up quickly in a dynamic, high-ownership environment.
+
+
+
+
+Minimum Qualifications
+
+Bachelor’s degree in computer science or equivalent practical experience.
+2+ years of professional software development experience.
+Solid programming skills in Python, Go, or similar languages.
+Understanding of data structures, algorithms, and RESTful APIs.
+Experience working on backend systems or cloud applications (personal or professional projects).
+Comfortable working independently and asking questions when blocked.
+
+Preferred Qualifications
+
+Familiarity with cloud infrastructure (AWS, VMWare, or OpenStack).
+Exposure to machine learning workflows or interest in AI technologies.
+Experience with containers (Docker) or orchestration (Kubernetes).
+Git/GitHub and CI/CD workflows.
+Eagerness to learn and grow in a fast-paced environment.
+
+
+
+
+What You’ll Do
+
+Work with senior engineers to build and maintain backend services.
+Write clean, well-documented, and testable code.
+Contribute to technical discussions and help shape system design.
+Debug and resolve issues across the stack.
+Collaborate across engineering, product, and design teams.
+Learn fast and take increasing ownership as you grow.
+
+Why Join Us?
+
+Be part of a core early team shaping the next generation of cloud & AI platforms.
+Work side-by-side with experienced engineers and founders.
+Accelerate your learning curve with real-world challenges and mentorship.
+Competitive salary, and flexible work environment."
+--------------------,--------------------,--------------------,--------------------
+"Full Stack Developer (Django, MongoDB, Python)/ Immediate Joiner/ Mumbai (WFO)",Applicantz,India (Remote),"About the job
+
+Job Title: Full Stack Developer (Django, MongoDB, Python)
+
+
+
+
+Location: Mumbai – Ghatkopar (West)
+
+
+
+
+Company: AQM Technologies Pvt. Ltd.
+
+
+
+
+CTC: 7 LPA
+
+
+
+
+Experience: 3 to 5 Years
+
+
+
+
+Joining: Immediate
+
+
+
+
+About AQM Technologies
+
+AQM Technologies is a leading provider of technology solutions specializing in software development, testing, and quality management. We are dedicated to delivering innovative and efficient solutions for clients across industries.
+
+
+
+
+Job Description
+
+We are seeking a Full Stack Developer with strong expertise in Django, MongoDB, and Python to join our dynamic development team. The ideal candidate will be responsible for building scalable, secure, and high-performance applications from concept to deployment.
+
+
+
+
+Key Responsibilities:
+
+Design, develop, and maintain web applications using Django and Python.
+Develop front-end components with modern frameworks/libraries (React.js/Angular/Vue.js preferred).
+Integrate back-end services with MongoDB and RESTful APIs.
+Write clean, efficient, and reusable code following coding standards.
+Ensure application responsiveness, scalability, and performance.
+Work closely with UI/UX designers, product managers, and QA teams.
+Troubleshoot, debug, and upgrade existing applications.
+Implement security best practices and data protection measures.
+
+
+
+
+Required Skills & Qualifications:
+
+Bachelor’s degree in Computer Science, Information Technology, or related field.
+3–5 years of hands-on development experience in Django and Python.
+Strong proficiency in MongoDB database design and query optimization.
+Experience with HTML5, CSS3, JavaScript, and a modern front-end framework.
+Familiarity with Git version control.
+Understanding of RESTful API design and integration.
+Strong problem-solving skills and attention to detail.
+
+
+
+
+Good to Have:
+
+Experience in cloud platforms (AWS, Azure, GCP).
+Knowledge of Docker and containerized deployments.
+Familiarity with Agile/Scrum methodologies.
+
+
+
+
+📧 Send Resume: Elizabeth.Vakipillai@aqmtechnologies.com
+
+ 📞 Contact: +91 7738130450"
+--------------------,--------------------,--------------------,--------------------
+Sr Python Developer (TECH LEAD),Applicantz,India (Remote),"About the job
+
+Company Description
+
+QWEQ Technologies is not just a software company but strives to become a technology partner for its clients. We builds software for businesses that require industrial automation, smart inventory management and other IT solutions to stay ahead in market. At WEQ, we are aware that creating client-oriented solution takes a mixture of technical excellence and clear communication. We know that every client is unique, and we strive to deliver an individual, innovative and cost effective solution every time. We provide Technological Partnership & Support, Software Product Development, Website Development, Digital Marketing.
+
+Job Description
+
+Senior Python Developer (Tech Lead)
+
+Location: Andheri (Marol), Mumbai – Only Mumbai-based candidates will be considered
+
+Immediate Joiner Preferred
+
+About Us
+
+At WEQ Technologies, we design and deliver cutting-edge digital solutions that transform businesses. We are looking for a highly skilled Senior Python Developer (Tech Lead) with strong expertise in Python and Java to lead our backend team, drive innovation, and ensure delivery of robust and scalable applications.
+
+What You’ll Do
+
+
+Lead a team of developers, provide technical direction, and ensure best coding practices & architecture standards. 
+Drive end-to-end development of applications using Python (primary) and Java (secondary). 
+Architect, design, and implement scalable, secure, and high-performance backend systems. 
+Collaborate with cross-functional teams (Frontend, Mobile, DevOps, QA) for smooth project delivery. 
+Conduct code reviews, mentor juniors, and resolve technical blockers. 
+Ensure timely delivery of modules, projects, and integrations. 
+Stay updated with emerging technologies, propose improvements, and adopt industry best practices. 
+
+
+What We’re Looking For
+
+✅ 3–6 years of professional experience in software development.
+
+✅ Strong expertise in Python frameworks (Django, Flask, FastAPI).
+
+✅ Solid experience in Java (Spring Boot preferred) for backend services.
+
+✅ Hands-on knowledge of REST APIs, Microservices, Databases (SQL/NoSQL), and Cloud platforms (AWS/Azure/GCP).
+
+✅ Proficiency in Git, CI/CD pipelines, and containerization (Docker/Kubernetes).
+
+✅ Strong leadership skills – ability to manage a small team, delegate tasks, and guide junior developers.
+
+✅ Excellent problem-solving, debugging, and performance optimization skills.
+
+Good to Have
+
+✨ Exposure to front-end technologies (React/Angular) for better collaboration.
+
+✨ Knowledge of DevOps practices.
+
+✨ Experience in working on enterprise-grade applications.
+
+Why Join WEQ Technologies?
+
+Lead and grow a talented development team.
+
+Opportunity to work with diverse technologies (Python + Java).
+
+Collaborative environment with ownership & learning opportunities.
+
+Convenient location – Andheri (Marol), Mumbai.
+
+Competitive salary & growth-oriented career path.
+
+Important Note:
+
+
+Only Mumbai-based candidates will be considered. 
+Immediate joiners will be given preference. 
+
+
+⚡ Step into a leadership role where your Python & Java expertise can shape projects and mentor a strong team. Join WEQ Technologies as a Senior Python Developer (Tech Lead)!
+
+Intersted Candidate Can Send their Resume at 9152019990
+
+Additional Information"
+--------------------,--------------------,--------------------,--------------------
+Senior Software Engineer,Applicantz,India (Remote),"About the job
+
+Sia is a next-generation, global management consulting group. Founded in 1999, we were born digital. Today our strategy and management capabilities are augmented by data science, enhanced by creativity and driven by responsibility. We’re optimists for change and we help clients initiate, navigate and benefit from transformation. We believe optimism is a force multiplier, helping clients to mitigate downside and maximize opportunity. With expertise across a broad range of sectors and services, our consultants serve clients worldwide. Our expertise delivers results. Our optimism transforms outcomes. 
+
+
+
+Heka.ai is the independent brand of Sia Partners dedicated to AI solutions. We host many AI-powered SaaS solutions that can be combined with consulting services or used independently, to provide our customers with solutions at scale. 
+
+
+
+
+
+Job Description
+
+
+
+We are looking for a skilled Senior Software Engineer to contribute to the development of AI and machine learning (ML) integrations and back-end solutions using Python. You will play a key role in developing our AI-powered SaaS solutions Heka.ai, collaborating with cross-functional teams to solve data-centric problems. This position emphasizes Python back-end development, with additional involvement in AI and ML model integration and optimization. 
+
+
+
+Key Responsibilities 
+
+
+
+Back-End Development: Design, develop, and optimize back-end services using Python, focusing on microservices and data-centric applications. 
+
+
+
+AI & ML Models: Work closely with data scientists to integrate AI and ML models into back-end systems and ensure seamless performance of the applications. 
+
+
+
+Containerization & Orchestration: Deploy and manage containerized applications using Docker and Kubernetes. 
+
+
+
+Database Management: Manage SQL (PostgreSQL) and NoSQL (MongoDB) databases, ensuring high performance and scalability. 
+
+
+
+Infrastructure as Code (IaC): Use Terraform and Helm to manage cloud infrastructure. 
+
+
+
+Cloud Infrastructure & CI: Work with GCP / AWS / Azure for deploying and managing applications in the cloud. Management of continuous software integration (tests writing, artifacts building, etc.) 
+
+
+
+Cross-Functional Collaboration: Collaborate with DevOps, Data Scientists, and Data Engineers to build scalable AI solutions. 
+
+
+
+Contribution to the back end, front-end and software architecture of applications 
+
+
+
+
+
+Qualifications
+
+
+
+Education: Bachelor’s/master's degree in computer science, Software Engineering, or a related field. 
+
+
+
+Experience: 3-6 years of experience in software development, with a focus on Python back-end development. 
+
+
+
+Skills: 
+Strong proficiency in Python and experience with frameworks like Flask. 
+Experience with C#, as well as with ReactJs for front-end development is a plus. 
+Extensive experience with cloud platforms (GCP, AWS) and microservices architecture. 
+Working knowledge of Docker, Kubernetes, CI/CD pipelines (GitLab) and ability to write unit tests. 
+Database management with PostgreSQL / MongoDB. 
+Experience mentoring and leading engineering teams. 
+
+
+Additional Information
+
+
+
+What We Offer 
+
+
+
+Opportunity to lead cutting-edge AI projects in a global consulting environment. 
+
+
+
+Leadership development programs and training sessions at our global centers. 
+
+
+
+A dynamic and collaborative team environment with diverse projects. 
+
+
+
+Position based in Mumbai (onsite)
+
+
+
+Sia is an equal opportunity employer. All aspects of employment, including hiring, promotion, remuneration, or discipline, are based solely on performance, competence, conduct, or business needs."
+--------------------,--------------------,--------------------,--------------------
+Junior Web Developer,Applicantz,India (Remote),"About the job
+
+Role Description
+
+The Python Developer will be responsible for building and maintaining back-end web applications, designing software, and ensuring the performance and responsiveness of applications. Daily tasks will include writing clean, efficient code, troubleshooting and debugging, and collaborating with the team to meet project goals.
+
+
+
+
+Qualifications
+
+\n
+Proficiency in Back-End Web Development and Programming
+Experience in Software Development and Object-Oriented Programming (OOP)
+Knowledge of Databases and data structures
+Excellent problem-solving skills and attention to detail
+Strong communication skills and ability to work independently
+Previous experience with cloud-native applications is a plus
+Bachelor's degree in Computer Science, Engineering, or related field"
+--------------------,--------------------,--------------------,--------------------
+Back End Developer,Applicantz,India (Remote),"About the job
+
+About Precize:
+
+Precize is a Gateway to Private Equity Markets and Private Credit Opportunities, where investors of all levels can invest in the opportunities online securely. We are teleporting investors to the front row to access some of the most lucrative opportunities.
+
+Our dynamic, non-hierarchical startup culture and convenient location in Andheri East, just a 2-minute walk from the Western Express Highway Metro, make Precize an ideal workplace for ambitious professionals looking to make a significant impact.
+
+
+
+
+Role Summary:
+
+We are looking for a skilled Backend Developer to join our dynamic team. As a backend developer, you will be responsible for building and maintaining scalable, high-performance server-side applications. You will work closely with frontend developers, product managers to develop robust APIs, optimize database performance, and ensure seamless integrations.
 
 
 
 
 Responsibilities:
 
-Design, develop, and maintain backend applications using Go and Python
-Integrate and manage ORM frameworks (preferably Hasura or similar)
-Develop robust and scalable APIs and microservices
-Collaborate with frontend developers, QA engineers, and product managers to deliver high-quality features
-Perform database design, development, and maintenance for PostgreSQL and MySQL
-Write clean, maintainable, and efficient code following industry best practices
-Participate in code reviews, sprint planning, and retrospectives in Agile environments
-Debug and resolve technical issues across the application stack
 
 
 
-
-
-
-
-Required Skills:
-
-Languages: Go (Golang), Python
-ORM Frameworks: Hasura (or similar)
-Databases: PostgreSQL, MySQL
-Tools: Git, Docker (preferred)
-Development Practices: Clean Code, Agile Development
-Soft Skills: Strong analytical and problem-solving capabilities; excellent team collaboration
-
-
-
+Develop, test, and maintain backend services, APIs, and databases.
+Design and implement scalable, secure, and high-performance applications.
+Optimize application performance and troubleshoot issues.
+Work with frontend developers to integrate user-facing elements with server-side logic.
+Implement authentication, authorization, and security best practices.
+Write clean, maintainable, and well-documented code.
+Conduct code reviews and provide technical mentorship.
 
 
 
 
 Qualifications:
 
-Bachelor’s degree in Computer Science, Engineering, or a related field
-2–3 years of professional experience with Go and Python
-Proven experience with ORM tools and relational databases
-Good understanding of RESTful API design
-Excellent communication skills and a collaborative mindset",Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Python (Programming Language)?; How many years of work experience do you have with Hasura?; How many years of work experience do you have with Application Frameworks?; What is your Current CTC? (Mention LPA); What is your Expected CTC? (Mention LPA); How soon can you start with us? (Mention no of days); Follow Teqfocus to stay up to date with their page.,9137575094; on; on; 2; 0; 1; 2.0; 2.0; 15; Already selected
-2025-06-05 17:40:52,1
-Python Developer,Dexian India,We won’t show you this job again.,"About the job
 
-Job Description:
 
-We are looking for a highly motivated and experienced Python Developer with 3.5 to 12 years of professional experience. The ideal candidate should have strong expertise in Python, its popular frameworks, scripting/programming languages, and hands-on exposure to AWS Cloud services. Basic experience or working knowledge of Angular is a plus.
 
-This role offers opportunities to work on scalable, cloud-native applications in a collaborative, fast-paced environment.
+3-5 years of strong experience as a backend developer, proficient in backend programming languages such as Node.js
+Proficiency in frameworks like Fastify, Express.js, Django, Spring.
+Experience with relational and non-relational databases (MySQL, PostgreSQL, MongoDB, etc.).
+Knowledge of API design principles, RESTful services, and GraphQL.
+Familiarity with authentication mechanisms (OAuth, JWT, etc.).
+Understanding of cloud platforms (AWS, Azure, Google Cloud) and containerization (Docker, Kubernetes).
+Experience with message queues like RabbitMQ, Kafka (preferred).
+Strong problem-solving skills and debugging capabilities.
+Knowledge of Monolithic, microservices and distributed systems.
+Experience with CI/CD pipelines and version control systems like Git and Github."
+--------------------,--------------------,--------------------,--------------------
+"Software Engineer I (Data Engineer, Python)",Applicantz,India (Remote),"About the job
 
+Precisely is the leader in data integrity. We empower businesses to make more confident decisions based on trusted data through a unique combination of software, data enrichment products and strategic services. What does this mean to you? For starters, it means joining a company focused on delivering outstanding innovation and support that helps customers increase revenue, lower costs and reduce risk. In fact, Precisely powers better decisions for more than 12,000 global organizations, including 93 of the Fortune 100. Precisely's 2500 employees are unified by four company core values that are central to who we are and how we operate: Openness, Determination, Individuality, and Collaboration. We are committed to career development for our employees and offer opportunities for growth, learning and building community. With a ""work from anywhere"" culture, we celebrate diversity in a distributed environment with a presence in 30 countries as well as 20 offices in over 5 continents. Learn more about why it's an exciting time to join Precisely!
 
+Overview
 
+As a Software Engineer I, you will be part of the team responsible for the design, creation, and maintenance of Data Products using Big data, cloud and Data Science technologies. You will work closely with Software/Data engineers, data scientists, product owners and product managers to develop and deploy data-driven solutions that deliver business value. You will contribute to the best practices, standards, and technical roadmap.
 
-Mandatory Skills:
+What You Will Do
 
-Proficiency in Python and commonly used frameworks (e.g., Flask, Django, FastAPI)
-Experience with scripting languages like Bash, PowerShell, or other programming languages (e.g., JavaScript, Node.js)
-Strong hands-on experience in AWS Cloud services such as:
-Lambda, EC2, S3, API Gateway, DynamoDB, CloudFormation
-Solid understanding of RESTful APIs, web services, and microservices architecture
-Version control experience with Git
 
-Good to Have Skills:
+You will be involved in design and development of Data Engineering.
+Responsible for coding, unit testing, integration testing and participating in the full SDLC.
+Participate in discussions, constructively suggest, and receive ideas & feedback for solutions.
+Write clear, compelling, and detailed (technical) user epics and stories with user acceptance criteria. Participate in story grooming exercises for crisp and unambiguous documentation and communication of features to be developed.
+Collaborate with other team members, also work with cross-functional teams according to requirements. Peer review of code practice needs to be followed.
+Evaluate, learn, and incorporate new technologies into new and existing frameworks and solutions as applicable.
+Be agile and embrace change.
 
-Minimum 1 year of experience or basic working knowledge in Angular (any version)
-Familiarity with CI/CD tools, containerization (Docker), and infrastructure-as-code (Terraform, CloudFormation)
-Experience with monitoring/logging tools (e.g., CloudWatch, ELK)","Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Python (Programming Language)?; How many years of work experience do you have with Amazon Web Services (AWS)?; How many years of work experience do you have with Angular?; This job is a Hybrid Mode based in (Pune/Hyderabad/Mumbai/Chennai/Bangalore/Noida/Kolkata) You may choose any mentioned location, would you be interested?
-This job is a Hybrid Mode based in (Pune/Hyderabad/Mumbai/Chennai/Bangalore/Noida/Kolkata) You may choose any mentioned location, would you be interested?; Are you an immediate joiner? (Only mention 'Yes' if you are an immediate joiner or serving your notice period with the last working day before 30th June 2025.)
-Are you an immediate joiner? (Only mention 'Yes' if you are an immediate joiner or serving your notice period with the last working day before 30th June 2025.); There will be one round of face-to-face (F2F) interview, which you may attend at any of the following locations: Mumbai, Pune, Bangalore, Hyderabad, Chennai, Noida, or Kolkata. Will you be available?
-There will be one round of face-to-face (F2F) interview, which you may attend at any of the following locations: Mumbai, Pune, Bangalore, Hyderabad, Chennai, Noida, or Kolkata. Will you be available?; Mention your Current CTC?; Mention your Expected CTC?",9137575094; on; on; 2; 0; 0; Yes; Yes; No; 1.5; 2.0
-Python Developer,Dexian India,We won’t show you this job again.,"About the job
 
-About The Role
+What We Are Looking For
 
-Duration:  12 Months
 
-Location: PAN INDIA
+3+ years of industry experience in the areas of Data/Software engineering 
+Bachelor’s or Master’s degree in Computer Science, Engineering or related discipline.
+Excellent Knowledge of Python
+Experience in Cloud technologies like AWS, azure etc.
+Experience of databricks , snowflake , Google cloud would be an added advantage
+Excellent knowledge of database concepts and complex query writing
+Excellent knowledge in Query Optimization for better performance 
+Working knowledge of data ETL will be preferred.
+Exposure to Geo-spatial domain and how geospatial data is stored in database is preferred
+Ability to communicate with various stakeholders at all levels of the organization.
+Excellent verbal and written communication skills
+Excellent interpersonal skills and active listener
+Able to set and meet time-sensitive goals 
+Able to handle multiple tasks simultaneously and adapt to change while providing structure to operations and go-to-market teams
 
-Timings: Full Time (As per company timings)
 
-Notice Period: within 15 days or immediate joiner
+The personal data that you provide as a part of this job application will be handled in accordance with relevant laws. For more information about how Precisely handles the personal data of job applicants, please see the Precisely Global Applicant and Candidate Privacy Notice."
+--------------------,--------------------,--------------------,--------------------
+Python Developer,Applicantz,India (Remote),"About the job
 
-Experience: 0-5 Years
+About Bounteous x Accolite
 
-Basic Qualifications
+Bounteous, a digital innovation partner of the world's most ambitious brands and Accolite Digital, a leading digital engineering, cloud, data & AI services provider, have announced their merger, creating a new end-to-end digital transformation services consultancy that partners with leading brands around the globe to co-innovate and drive exceptional client outcomes.
 
-
-Bachelor’s Degree in Computer Science, Engineering, or a related technical field from a Tier-I institution.
-0-5 years of professional, non-internship experience in software development, specifically within product startup environments.
-Advanced programming proficiency in Python, with experience in building and deploying robust applications.
-Strong knowledge of software architecture and design principles, including architecture patterns, design patterns, system reliability, scalability, and maintainability.
-Deep understanding of core Computer Science principles, including object-oriented design, data structures, algorithm design, and computational complexity.
-Proficiency in modern programming languages such as Python, C, C++, Java, with a focus on performance optimization and efficiency.
-
-
-Preferred Qualifications
-
-
-Master’s Degree in Computer Science or a related technical field from a Tier I institution.
-Extensive knowledge of professional software engineering practices, covering the entire software development lifecycle (SDLC), including coding standards, code reviews, source control management, CI/CD build processes, testing, and operational deployment.
-Strong experience in UI/UX design and development, with an emphasis on distributed systems and web services.
-Proven experience in collaborating effectively with cross-functional teams, including users, technical teams, and management, to gather requirements, define software features, and communicate technical designs.
-
-
-About The Role
-
-
-The team is responsible for developing advanced quantitative models to generate alpha in equity portfolios, aiming to achieve superior returns over the mid to long term.
-You will develop and implement risk models, as well as trade execution optimization models, to enhance overall portfolio performance.
-Design and maintain a robust back-testing infrastructure to support strategy validation, performance tracking, signal monitoring, and slippage analysis.
-Manage and maintain databases with multiple data sources from various vendors, including automated updates, monitoring, and anomaly detection.
-Build and maintain web scrapers to collect custom datasets for research purposes, contributing to the team’s data acquisition strategy.
-Develop an analytics framework and data visualization toolkit to support fundamental research and streamline the extraction of actionable insights.
-
-
-Create interactive dashboards to monitor and improve portfolio performance, providing real-time insights for informed decision-making across the fund.","First name; Last name; Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; Your title; Company; Dates of employment
-Dates of employment; City
-City; Description","Manisha; walunj; 9137575094; on; on; Python Developer; Coders Boutique; July 2023 – July 2024 
-Feb 2023 – Apr 2023; Pune, Maharashtra, India; I am sorry, I cannot answer this question as it asks for a ""Description"". The provided resume content does not include a description."
-2025-06-05 18:03:46,2
-Python Backend Developer,LTIMindtree,India (Remote),"About the job
-
-Sourced Water App Backend Developer 
-
-
-
-
-Key responsibilities:
-
-Design and implement scalable and maintainable data models for backend systems.
-Collaborate with development team members to ensure consistency and integration across various application layers.
-Maintain a clean, quality code base that adheres to the team’s standards and best practices, including 80% code coverage of unit tests.
-Monitor and optimize application performance to ensure high availability and responsiveness.
-Troubleshoot and resolve backend issues promptly.
-
-
-
-
-Required qualifications:
-
-Bachelor’s degree in computer science or related field, or 5+ years of hands-on backend development experience
-Proficiency in Python and SQL
-Experience with Fast API and Pytest frameworks
-Familiarity with Docker and cloud-based environments
-
-
-
-
-Preferred qualifications:
-
-Experience with Microsoft Azure
-Familiarity with organizing enterprise applications at scale
-Experience working on a development team using tools such as Git, VS Code, MS Teams, Azure DevOps, or similar","Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of experience do you have working with Python for backend development?; Have you built REST APIs using FastAPI in a production environment?
-Have you built REST APIs using FastAPI in a production environment?; Are you comfortable maintaining unit test coverage above 80% using tools like Pytest?
-Are you comfortable maintaining unit test coverage above 80% using tools like Pytest?; Do you have experience working on applications related to water sourcing, water quality monitoring, or environmental/public utility platforms?""
-Do you have experience working on applications related to water sourcing, water quality monitoring, or environmental/public utility platforms?""; Will you be able join immediately or within 30 days ?
-Will you be able join immediately or within 30 days ?; Follow Codvo.ai to stay up to date with their page.",9137575094; on; on; 2; 0; 0; 0; Yes; Already selected
-Python Developer,LTIMindtree,India (Remote),"About the job
-
-About The Role
-
-Duration:  12 Months
-
-Location: PAN INDIA
-
-Timings: Full Time (As per company timings)
-
-Notice Period: within 15 days or immediate joiner
-
-Experience: 0-5 Years
-
-Basic Qualifications
-
-
-Bachelor’s Degree in Computer Science, Engineering, or a related technical field from a Tier-I institution.
-0-5 years of professional, non-internship experience in software development, specifically within product startup environments.
-Advanced programming proficiency in Python, with experience in building and deploying robust applications.
-Strong knowledge of software architecture and design principles, including architecture patterns, design patterns, system reliability, scalability, and maintainability.
-Deep understanding of core Computer Science principles, including object-oriented design, data structures, algorithm design, and computational complexity.
-Proficiency in modern programming languages such as Python, C, C++, Java, with a focus on performance optimization and efficiency.
-
-
-Preferred Qualifications
-
-
-Master’s Degree in Computer Science or a related technical field from a Tier I institution.
-Extensive knowledge of professional software engineering practices, covering the entire software development lifecycle (SDLC), including coding standards, code reviews, source control management, CI/CD build processes, testing, and operational deployment.
-Strong experience in UI/UX design and development, with an emphasis on distributed systems and web services.
-Proven experience in collaborating effectively with cross-functional teams, including users, technical teams, and management, to gather requirements, define software features, and communicate technical designs.
-
-
-About The Role
-
-
-The team is responsible for developing advanced quantitative models to generate alpha in equity portfolios, aiming to achieve superior returns over the mid to long term.
-You will develop and implement risk models, as well as trade execution optimization models, to enhance overall portfolio performance.
-Design and maintain a robust back-testing infrastructure to support strategy validation, performance tracking, signal monitoring, and slippage analysis.
-Manage and maintain databases with multiple data sources from various vendors, including automated updates, monitoring, and anomaly detection.
-Build and maintain web scrapers to collect custom datasets for research purposes, contributing to the team’s data acquisition strategy.
-Develop an analytics framework and data visualization toolkit to support fundamental research and streamline the extraction of actionable insights.
-
-
-Create interactive dashboards to monitor and improve portfolio performance, providing real-time insights for informed decision-making across the fund.","First name; Last name; Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; Your title; Company; Dates of employment
-Dates of employment; City
-City; Description; School; Degree; Major / Field of study; Follow Adroit Innovative Solutions Inc to stay up to date with their page.","Manisha; walunj; 9137575094; on; on; Python Developer; Coders Boutique; July 2023 – July 2024 
-Feb 2023 – Apr 2023; Pune, Maharashtra, India; python developer; Based on the resume content, Manisha Walunj completed BE Computer Engineering from Shri. Chatrapa ti Shivaji Maharaj College Of Engineering Nepti Ahmednagar.; BE; Computer Engineer; Already selected"
-2025-06-05 18:12:09,2
-Senior Python Developer,Ampstek,India (Remote),"About the job
-
-Title: Senior Python Developer 
-
-Location: 100% Remote 
-
-Job Type: Fulltime
+It was Founded in 2003 in Chicago, Bounteous is a leading digital experience consultancy that co-innovates with the world's most ambitious brands to create transformative digital experiences. With services in Strategy, Experience Design, Technology, Analytics and Insight, and Marketing, Bounteous elevates brand experiences and drives superior client outcomes. For more information, please visit www.bounteous.com.
 
 
 
 
 Job Description:
 
-• Deep hands-on experience with Python
+Looking for 5+ years of experience and the location is Bangalore, Hyderabad, Chennai and Gurgaon. 
 
-• SQL & NoSQL required,
-
-• Need to be able to dockerize their microservices they built, but not setting up pods, services, deploying, etc.
-
-• Proven expertise in microservices architecture, containerization (Docker), and cloud-native app development (any cloud).
-
-Build and scale RESTful APIs, async jobs, background schedulers, and data pipelines for high-volume systems.
-
-Strong understanding of API design, rate limiting, secure auth (OAuth2), and best practices.
-
-• Create and optimize NoSQL and SQL data models (MongoDB, DynamoDB, PostgreSQL, ClickHouse)
-
-Important :
-
-Development of backend APIs
-
-Designed and implemented microservices architecture 
-
-Thanks
-
-Aatmesh
-
-aatmesh.singh@ampstek.com",Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Python (Programming Language)?; How many years of work experience do you have with REST APIs?; How many years of work experience do you have with Microservices?; How many years of Information Technology experience do you currently have?,9137575094; on; on; 2; 1; 0; 2
-2025-06-05 22:33:19,1
-2025-06-05 23:54:40,0
-Python Developer,Ampstek,India (Remote),"About the job
-
-Position-: Python developer 
-
-Location-: Remote India 
+Willing to work in US Shift timings, candidates who does not prefer working in US shift timings will not be shortlised for screening level. 
 
 
 
 
-Experience 6+ 
+Bachelor's/master’s degree in computer science or a related field
+Proven experience working as a Python Developer with knowledge of DBMS
+Strong knowledge of Python frameworks like Django, Flask, or Pyramid
+Experience with database integration and optimization
+Familiarity with front-end technologies such as JavaScript, HTML5, and CSS3
+Understanding of server-side templating languages"
+--------------------,--------------------,--------------------,--------------------
+Associate Software Engineer,Applicantz,India (Remote),"About the job
+
+Role Description
+
+The Associate Software Engineer will be responsible for developing and maintaining back-end web applications, writing clean and efficient code, debugging and troubleshooting software issues, and participating in code reviews. The role also involves collaborating with cross-functional teams to design, develop, and integrate software components.
 
 
 
 
-Skill-: Python,Microsevice,Docker SQL & NoSQL required
+Qualifications
+
+Strong foundation in Computer Science
+Proficiency in Back-End Web Development and Software Development
+Experience in Programming and Object-Oriented Programming (OOP)
+Excellent problem-solving skills and attention to detail
+Good communication and teamwork skills
+Bachelor's degree in Computer Science, Software Engineering, or a related field
+Familiarity with agile development methodologies is a plus
+Experience with cloud services and infrastructure is beneficial"
+--------------------,--------------------,--------------------,--------------------
+Data Engineer - Web Scraping,Applicantz,India (Remote),"About the job
+
+Alternative Path is seeking skilled software developers to collaborate on client projects with an asset management firm. In this role, you will collaborate with individuals across various company departments to shape and innovate new products and features for our platform, enhancing existing ones. You will have a large degree of independence and trust, but you won't be isolated; the support of the Engineering team leads, the Product team leads, and every other technology team member is behind you. This is an opportunity to join a team-first meritocracy and help grow an entrepreneurial group inside Alternative Path. You will be asked to contribute, given ownership, and will be expected to make your voice heard.
 
 
 
 
-• Deep hands-on experience with Python
+Role Summary:
 
-• SQL & NoSQL required,
+Performing Web Scraping using various scraping techniques and then utilizing Python’s Pandas library for data cleaning and manipulation. Then ingesting the data into a Database/Warehouse, and scheduling the scrapers using Airflow or other tools
 
-• Need to be able to dockerize their microservices they built, but not setting up pods, services, deploying, etc.
+Role Overview
 
-• Proven expertise in microservices architecture, containerization (Docker), and cloud-native app development (any cloud).
+The Web Scraping Team at Alternative Path is seeking a creative and detail-oriented developer to contribute to client projects. The team develops essential applications, datasets, and alerts for various teams within the client's organization, supporting their daily investment decisions. The mission is to maintain operational excellence by delivering high-quality proprietary datasets, timely notifications, and exceptional service. We are seeking someone who is self-motivated, self-sufficient, with a passion for tinkering and a love for automation.
 
-Build and scale RESTful APIs, async jobs, background schedulers, and data pipelines for high-volume systems.
 
-Strong understanding of API design, rate limiting, secure auth (OAuth2), and best practices.
 
-• Create and optimize NoSQL and SQL data models (MongoDB, DynamoDB, PostgreSQL, ClickHouse)",Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; How many years of work experience do you have with Python (Programming Language)?; How many years of work experience do you have with REST APIs?; How many years of work experience do you have with MongoDB?,9137575094; on; on; 2; 1; 2
-Python Developer – VB Script Modernization,Cybage Software,We won’t show you this job again.,"About the job
 
-Scope of work: Visual Basics Script to Python 
+In your role, you will:
+
+➢ Collaborate with analysts to understand and anticipate requirements.
+
+➢ Design, implement, and maintain Web scrapers for a wide variety of alternative datasets.
+
+➢ Perform Data Cleaning, Exploration, Transformation etc. of scraped data.
+
+➢ Collaborate with cross-functional teams to understand data requirements and implement efficient data processing workflows.
+
+➢ Author QC checks to validate data availability and integrity.
+
+➢ Maintain alerting systems and investigate time-sensitive data incidents to ensure smooth day-to-day operations.
+
+➢ Design and implement products and tools to enhance the Web scraping Platform.
+
+
+
+
+Qualifications
+
+Must have
+
+➢ Bachelor's/master’s degree in computer science or in any related field
+
+➢ 2-4 years of software development experience
+
+➢ Strong Python and SQL/Database skills
+
+➢ Strong expertise in using the Pandas library (Python) is a must
+
+➢ Experience with web technologies (HTML/JS, APIs, etc.)
+
+➢ Proven work experience in working with large data sets for Data cleaning, Data transformation, Data manipulation, and Data replacements.
+
+➢ Excellent verbal and written communication skills
+
+➢ Aptitude for designing infrastructure, data products, and tools for Data Scientists
+
+
+
+
+Preferred
+
+➢ Familiarity with scraping and common scraping tools (Selenium, scrapy, Fiddler, Postman, xpath) ➢ Experience containerizing workloads with Docker (Kubernetes a plus)
+
+➢ Experience with build automation (Jenkins, Gitlab CI/CD) ➢ Experience with AWS technologies like S3, RDS, SNS, SQS, Lambda, etc."
+--------------------,--------------------,--------------------,--------------------
+Associate AI Developer (Remote | Flexible Hours),Applicantz,India (Remote),"About the job
+
+🚀 Join Pravartan.ai as an Associate AI Developer
+
+ 📍 Remote | Flexible Hours | 0–3 Yrs Experience
+
+We’re building intelligent, agentic AI products — and we want passionate, curious minds to join the revolution.
+
+🔗 Follow & Apply: linkedin.com/company/pravartan
+
+👨‍💻 Role: Associate AI Developer
+
+ 🕒 Type: Remote | Flexible Hours
+
+ 📅 Experience: 0–3 Year (Freshers with strong AI knowledge are welcome!)
+
+🧠 What You’ll Work On
+
+ • Build and improve real AI products – chatbots, automation agents, hiring tools
+
+ • Work with LLMs, LangChain, OpenAI APIs, vector DBs
+
+ • Write smart Python code using Pandas, APIs, and workflow logic
+
+ • Learn fast, build fast, fail fast – and create impact
+
+✨ Who We’re Looking For
+
+ • Python + LLM basics clear
+
+ • Worked with LangChain / OpenAI / prompt engineering
+
+ • Loves solving real-world problems creatively
+
+ • Writes clean, logical code
+
+ • Thinks like a builder, not a task-doer
+
+💼 Perks
+
+ • Work directly with the founders
+
+ • Flexible hours, zero micromanagement
+
+ • Get high responsibility from Day 1
+
+ • Build a public portfolio of your work
+
+ • Fast-track to core roles as we grow
+
+🔥 Bonus:
+
+ Built anything cool using ChatGPT/OpenAI? Drop the link.
+
+📩 DM us or apply via LinkedIn.
+
+ Let’s build the future of intelligent automation — together.
+
+#AIJobs #RemoteWork #PythonDeveloper #LLM #LangChain #OpenAI #Hiring #StartupJobs #FreshersWelcome #PravartanAI"
+--------------------,--------------------,--------------------,--------------------
+Python /Tableau Developer with Indian MNC - Immediate,Applicantz,India (Remote),"About the job
+
+Pyspark/Python Developer with Indian MNC 
+
+Contract | Immediate 
 
  
 
- 
+Job Accountabilities 
 
-1. Planning
+· Collect, clean, and analyse large and complex datasets from various sources, including ERPs and business systems
 
-1.1 Objective
+· Develop and implement analytics models, data libraries, and machine learning techniques to analyse and visualize data and identify patterns and anomalies
 
-Recreate the functionality of the original script using Python to perform normality checks, automate email reporting, and log processing.
+· Develop and maintain data models and databases using Python, Hadoop, SQL
 
+· Work with cross-functional teams to understand their analytics needs and develop solutions to meet those needs.
 
+· Develop and maintain documentation of data processes and procedures.
 
+· Create and maintain Tableau dashboards or other tool for data visualization and reporting.
 
-1.2 Requirement Analysis
+· Build advanced analytics in internal audit team with the use of emerging AI and other tools
 
-1.2.1 Input/Output Requirements 
-
- 
-
-Input: CSV files, system configurations, or other data sources.
-Output: Generated reports, emails, and logs.
-
-1.2.2 System Requirements 
-
- 
-
-Python 3.x
-Dependencies: pandas, openpyxl, smtplib, os, etc.
+· Identify and support AI/ML based use cases in finance and risk domain
 
 
 
 
-1.3 Milestones
+Skills Required (Knowledge and Skills)
 
-Script conversion to Python.
-Functional testing of email integration and report generation.
-Deployment and maintenance.
+· Bachelor’s or Master’s degree in Computer Science, Data Science, or a related field
 
+· 3 to 6 years of experience in data engineering using Python, SQL and HANA
 
+· Strong programming skills in Python, SQL etc. and experience in database systems
 
+· Experience with data warehousing and data modelling concepts
 
-2. Design
+· Strong understanding of Hadoop data modelling and query optimization
 
-2.1 System Architecture
+· Experience with Tableau/Power BI for data visualization and reporting
 
-Core functionality divided into modules:
+· Knowledge of building advanced analytics using emerging AI technologies
 
+· Excellent problem-solving and analytical skills
 
-
-
-Data Processing Module: Parses input files and validates data.
-Report Generation Module: Generates normality check reports.
-Email Automation Module: Sends reports via email.
-Error Logging Module: Logs errors for troubleshooting.
+· Strong communication and collaboration skills, with the ability to communicate technical concepts to non-technical stakeholders.
 
 
 
 
-2.2 User Interface
+Qualification: 
 
-• Console-based interaction for configuration, with optional integration into a web-based dashboard.
+· Essential: UG: BE/ B.Sc IT/ M.Tech/ MCA
 
-
-
-
-3. Technology Stack
-
-3.1 Python Libraries
-
-Data handling: pandas, os, csv.
-Email: smtplib, email.
-File processing: openpyxl, xlsxwriter.
-
-
-
-
-4. Develoment
-
-4.1 Setup and Configuration
-
-Initialize the Python project with appropriate file structure.
-Create a configuration file (config.json or .env) for constants like email credentials and paths.
-
-
-
-
-4.2 Script Development
-
-4.2.1 Data Handling 
+· Desirable: PG: MBA, PGD or master’s in business Analytics
 
  
 
-Read and validate input files (e.g., CSV/Excel).
-Handle missing or malformed data.
+Location 
 
-4.2.2 Report Generation 
+· Mumbai
 
- 
+· 5 days in office
 
-Use pandas to create data summaries or normality checks.
-Save output as .xlsx or .pdf.
-
-4.2.3 Email Automation 
+· Duration – August 2025 to March 2026
 
  
 
-Integrate smtplib to send emails with attachments.
-Ensure secure authentication (e.g., TLS/SSL).
+Screening Criteria 
 
-4.2.4 Error Handling and Logging 
+· BE/ B.Sc IT/ M.Tech/ MCA
 
- 
+· 3 to 6 years of experience in data engineering using Python, SQL
 
-1. Implement structured logging using logging module.
+Knowledge of data engineering to develop data models and analytics reports and scheduling auto jobs on Airflow.
 
+· Experience in using technologies and codes (SQL, Python, Pyspark, Tableau, Airflow etc)
 
+· Familiarity with statistical analysis and machine learning concepts and algorithms
 
+· Available to work from office in Navi Mumbai
 
-5. Testing
-
-5.1 Unit Testing 
-
-Test individual functions for data processing, report generation, and email sending.
-
-5.2 Integration Testing 
-
-Verify end-to-end functionality, ensuring compatibility between modules.
-
-5.3 Environment Compatibility Testing 
-
-Validate functionality across different OS environments (Windows, Linux).
+· Available to join within 1 week post selection
 
 
 
 
-5.4 Performance Testing 
-
-Ensure the script handles large datasets efficiently.
+Interested Profiles can apply
 
 
 
 
-6. Deployment
+Note
 
-6.1 Documentation
+o Additional inputs to be gathered from the candidate to put together the application"
+--------------------,--------------------,--------------------,--------------------
+Full Stack Engineer,Applicantz,India (Remote),"About the job
 
-Create a comprehensive user manual with steps for installation and execution.
-Document code using inline comments and docstrings.
+Software developer role - high growth and high energy environment - FRESHERS AND IMMEDIATE JOINEES ONLY, 
 
-
-
-
-6.2 Environment Setup
-
-Provide a requirements file (requirements.txt) for dependencies.
-Package the script for easy deployment using PyInstaller or similar tools.
+ALREADY WORKING NEED NOT APPLY
 
 
 
 
-7. Maintenance and Support
+Freshers only
 
-7.1 Version Control 
-
-Use Git for version tracking and collaborative development.
+*** PREFER MUMBAI CANDIDATES *****
 
 
 
 
-7.2 Updates and Bug Fixes 
+Responsibilities
 
-Periodically review the script for improvements and new features.
+Participate in enhancing/maintaining our B2B SaaS product. 
+
+Write scalable well tested code in React JS, Ruby on Rails and MySQL
 
 
 
 
-7.3 Support
+What we are looking for?
 
-• Provide ongoing support for troubleshooting and issue resolution.",Mobile phone number; Deselect resume CV_MANISHA WALUNJ.pdf; Select resume CV_MANISHA WALUNJ.pdf; Follow Rexus Group to stay up to date with their page.,9137575094; on; on; Already selected
-2025-06-06 09:37:13,1
-2025-06-06 09:47:39,0
-2025-06-06 09:50:02,0
+Ability to multitask and look at all aspects of product development
+
+Individual who loves to code and is self driven. 
+
+We are looking for individuals who will work with ownership of the product and code."
+--------------------,--------------------,--------------------,--------------------
